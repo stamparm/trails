@@ -4684,7 +4684,7 @@ sdns.se
 
 nullroute.pw
 
-# Reference: https://www.virustotal.com/gui/domain/siliconrouting.pw/relations 
+# Reference: https://www.virustotal.com/gui/domain/siliconrouting.pw/relations
 
 siliconrouting.pw
 
