@@ -5652,7 +5652,7 @@ dodgyblokes.club
 /5h.hta
 
 # Reference: https://twitter.com/ecarlesi/status/1545957606195339264
-# Reference: m https://www.virustotal.com/gui/ip-address/65.108.235.212/relations
+# Reference: https://www.virustotal.com/gui/ip-address/65.108.235.212/relations
 
 amandanys.lol
 amartisha.cloud
