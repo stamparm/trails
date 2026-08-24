@@ -7032,6 +7032,7 @@ flow.eu.digitalgenius.com
 flow.qa.digitalgenius.com
 flow.us.digitalgenius.com
 football-attraction.pro
+forecast-chaos.com
 gateway-ecs-fargate.kortix.com
 geoip-jm.com
 ggroovek.org
@@ -7045,8 +7046,11 @@ mw.us.digitalgenius.com
 picstat-server.eidoloncorp.com
 r9-lotus-poc-x8a7dq41-webhook.1moby.tech
 relaxation-seed.xyz
+root-cherry.com
+seat-aviation.com
 siege-close.com
 siteproxy.yusialone.top
+sound-obstacle.com
 soup-tone.pro
 yusialone.top
 /x9i32md/w1/la02
