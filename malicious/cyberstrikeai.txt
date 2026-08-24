@@ -666,6 +666,7 @@
 45.147.253.15:8080
 45.147.253.6:8080
 45.154.13.228:8080
+43.156.236.232:8080
 45.192.102.222:8080
 45.192.103.176:8080
 45.192.109.192:8080
@@ -877,6 +878,7 @@ cyhkj.xyz
 dragon.qpon
 drb420.ru
 fortvector.vip
+gacor.lapluz.xyz
 geyefan.icu
 gogogo.bugsafe.net
 hga5568.com
@@ -890,6 +892,7 @@ kali.96110.me
 kali.aeyehub.net
 kali.huoshan.sbs
 knowledge-platform.org
+lapluz.xyz
 loongkong.app
 loongkong.xyz
 luck.dpmz.top
