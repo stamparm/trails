@@ -15148,6 +15148,10 @@ triapfog.com
 microsofte.live
 login.microsofte.live
 
+# Reference: https://www.malwarebytes.com/blog/threat-intel/2026/08/tracking-pavinloader-across-clickfix-and-fake-download-campaigns
+
+perfectverified.com
+
 # Generic
 
 /fo0suc2ki2.rtf
