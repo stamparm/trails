@@ -18399,6 +18399,7 @@ pixel-cdn.net
 
 # Reference: https://any.run/cybersecurity-blog/banks-magecart-campaign/
 # Reference: https://www.virustotal.com/gui/ip-address/209.99.189.4/relations
+# Reference: https://www.virustotal.com/gui/ip-address/86.54.42.111/relations
 # BANNER_0_HASH-HOST=3a784d3a0ce3a834d503a491bd8bc1b9
 
 31.192.232.28.sslip.io
@@ -18406,6 +18407,8 @@ pixel-cdn.net
 9b.bucklandsfredericslawyer.com
 ads-advertise.com
 adscheckout.com
+advertcheckout.com
+analysis-ns.com
 analysisads.com
 analysiscache.com
 analysisdoubleclick.com
@@ -18414,8 +18417,10 @@ analyticsgctm.com
 analyticsgtm.com
 apiprotector.com
 assets-token.com
+assets-tokens.com
 assetsbundle.com
 assetshotjar.com
+assetssafepay.com
 bootstrap-widget.com
 bucklandfredericslaw.com
 bucklandsfredericlawyer.com
@@ -18434,10 +18439,13 @@ cdn-secure.com
 cdnmozilla.com
 cdnnewassets.com
 cdnsafepay.com
+cdnweb2analytics.com
 checkoutcache.com
+cloudsolutio.com
 doubleclickcache.com
 experienceresponsive.com
 explorerpros.com
+explorerstripe.com
 filtercategory.com
 firefoxcaptcha.com
 generatorfly.ai
@@ -18448,7 +18456,9 @@ gtmtimestamp.com
 hipaye.com
 hotjarcdn.com
 hotjarclick.com
+hotjarmultisafe.com
 hotjarsolutions.com
+hotjarws.com
 interfaceuser-friendly.com
 inventoryvoucher.com
 jguery-web.com
@@ -18456,14 +18466,17 @@ jquerybootstrap.com
 locationchrome.com
 mozilla-master.com
 mozillamaster.com
+mozillastatus.com
 mozillasync.com
 multiasolutions.com
 multisafebundle.com
 multisafesolutions.com
 newasserspro.com
 newassetspro.com
+newsassets.com
 notificationfeedback.com
 npvgrc.web-thinker.ru
+Offensive Security
 paysafeprocess.com
 platformwebsite.com
 ratingrecommendation.com
@@ -18490,10 +18503,12 @@ stripepayway.com
 tag-secure.com
 timestampcdn.com
 token-analysis.com
+tommy-promo.com
 united-cfx.com
 user-friendlyexperience.com
 web-jguery.com
 webjguery.com
+webjquery.com
 website-webcache.com
 widget-assets.com
 widgetassets.com
