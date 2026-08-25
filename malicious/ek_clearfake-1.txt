@@ -15143,6 +15143,11 @@ piomilokao.icu
 tioiaosod.icu
 triapfog.com
 
+# Reference: https://www.ox.security/blog/research-clickfix-phishing-npm-packages/
+
+microsofte.live
+login.microsofte.live
+
 # Generic
 
 /fo0suc2ki2.rtf
