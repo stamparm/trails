@@ -18224,6 +18224,8 @@ api.staticdelivery.net
 
 analyticsweb.pro
 apistatics.com
+canalchatpj.digital
+canaltherapy.site
 fonts-statics.com
 google-analytics.shop
 jsdelivrcdn.co
@@ -18231,6 +18233,7 @@ scdncon.com
 smrtpayments.com
 snow-cdn.cc
 staticsapi.com
+tigeranalyticslab.digital
 woo-gateway.com
 woocome.shop
 woocompay.com
