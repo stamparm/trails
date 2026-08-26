@@ -17091,6 +17091,15 @@ cloudflare-static9.com
 
 js-cloudflare.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/45.158.127.100/relations
+
+db-cloud.cc
+db-cloud.click
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.158.127.12/relations
+
+cloud-db.online
+
 # Reference: https://www.virustotal.com/gui/ip-address/172.67.185.101/relations
 
 goog-in.icu
