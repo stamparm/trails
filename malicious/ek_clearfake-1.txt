@@ -15152,6 +15152,12 @@ login.microsofte.live
 
 perfectverified.com
 
+# Reference: https://x.com/sdcyberresearch/status/2091836906313031950
+# Reference: https://x.com/sdcyberresearch/status/2092567389862850604
+
+cloudfrontenterprise.com
+cloudsenterprise2026.com
+
 # Generic
 
 /fo0suc2ki2.rtf
