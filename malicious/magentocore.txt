@@ -17087,6 +17087,10 @@ cloudflare-static17.net
 cloudflare-static1.com
 cloudflare-static9.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/45.158.127.169/relations
+
+js-cloudflare.com
+
 # Reference: https://www.virustotal.com/gui/ip-address/172.67.185.101/relations
 
 goog-in.icu
