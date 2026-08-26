@@ -18531,6 +18531,10 @@ widgetassets.com
 wishlistnotification.com
 ws.bucklandfredericslaw.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/45.79.222.138/relations
+
+cloudflare-static4.ph
+
 # Generic
 
 /assets/lfg.js
