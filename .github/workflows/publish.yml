@@ -1,0 +1,121 @@
+# Publish the assembled trail set.
+#
+# ON A SCHEDULE, not on every commit. Content lands here around 40 times a day; assembling costs
+# about three seconds, so compute is not the reason. Publishing per commit would mean 40 releases
+# and ~3 GB of assets a day, and every deployed sensor seeing 40 changes it does not need. Four
+# times a day, and only when the content actually changed, is 1,460 publishes a year instead of
+# 14,600.
+#
+# The asset is plain CSV, not .gz: the client decompresses Content-Encoding (which GitHub's CDN
+# applies in transit anyway), not a gzip FILE. Publishing trails.csv.gz would hand it gzip bytes it
+# would store verbatim as the trail set.
+#
+# Every release carries an asset named trails.csv, so
+# https://github.com/stamparm/trails/releases/latest/download/trails.csv always resolves to the
+# newest one - which is what STATIC_TRAILS_URL points at - while the dated tag stays available for
+# a deployment that wants to pin.
+
+name: Publish
+
+on:
+  schedule:
+    - cron: '17 1,7,13,19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+  attestations: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: assemble and publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out the content
+        uses: actions/checkout@v5
+        with:
+          path: trails
+
+      - name: Check out the engine (the assembler lives with the code it must agree with)
+        uses: actions/checkout@v5
+        with:
+          repository: stamparm/maltrail
+          path: maltrail
+
+      - name: Assemble
+        id: assemble
+        working-directory: maltrail
+        run: |
+          python3 -m core.assemble --root ../trails --out "$GITHUB_WORKSPACE/trails.csv"
+          cd "$GITHUB_WORKSPACE"
+          sha256sum trails.csv | cut -d' ' -f1 > trails.csv.sha256
+          echo "sha=$(cat trails.csv.sha256)" >> "$GITHUB_OUTPUT"
+          echo "rows=$(wc -l < trails.csv)" >> "$GITHUB_OUTPUT"
+          echo "engine=$(git -C "$GITHUB_WORKSPACE/maltrail" rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+
+      # An empty or tiny aggregate published to every sensor is the worst outcome available: it
+      # installs, starts, serves a dashboard and detects nothing. core.assemble already refuses to
+      # write nothing; this refuses to publish a set that collapsed for some other reason.
+      - name: Refuse to publish a collapsed set
+        run: |
+          rows=${{ steps.assemble.outputs.rows }}
+          if [ "$rows" -lt 1000000 ]; then
+            echo "[!] only $rows trails assembled - refusing to publish"
+            exit 1
+          fi
+          echo "[i] $rows trails, sha256 ${{ steps.assemble.outputs.sha }}"
+
+      # Nothing to do when the content has not moved since the last publish. This is what keeps a
+      # 4x/day schedule from making 4 releases a day on a quiet weekend.
+      - name: Has the content changed since the last publish?
+        id: changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          previous=$(gh release download --repo "$GITHUB_REPOSITORY" --pattern trails.csv.sha256 --output - 2>/dev/null || true)
+          if [ "$previous" = "${{ steps.assemble.outputs.sha }}" ]; then
+            echo "[i] unchanged since the last publish ($previous)"
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "[i] changed: ${previous:-<no previous release>} -> ${{ steps.assemble.outputs.sha }}"
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Tag name
+        if: steps.changed.outputs.publish == 'true'
+        id: tag
+        run: echo "name=content-$(date -u +%Y%m%d-%H%M)" >> "$GITHUB_OUTPUT"
+
+      - name: Publish
+        if: steps.changed.outputs.publish == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ steps.tag.outputs.name }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "${{ steps.tag.outputs.name }}" \
+            --notes "Assembled from ${{ github.sha }} by maltrail@${{ steps.assemble.outputs.engine }}.
+
+          ${{ steps.assemble.outputs.rows }} trails, sha256 \`${{ steps.assemble.outputs.sha }}\`.
+
+          Point \`STATIC_TRAILS_URL\` at the rolling URL to track the newest set:
+
+              https://github.com/stamparm/trails/releases/latest/download/trails.csv
+
+          or at this release's asset to pin." \
+            "$GITHUB_WORKSPACE/trails.csv" \
+            "$GITHUB_WORKSPACE/trails.csv.sha256"
+
+      # Same keyless mechanism the maltrail release workflow uses, so there is no signing key to
+      # hold or rotate. Verify with: gh attestation verify trails.csv --repo stamparm/trails
+      - name: Attest
+        if: steps.changed.outputs.publish == 'true'
+        uses: actions/attest-build-provenance@v3
+        with:
+          subject-path: ${{ github.workspace }}/trails.csv

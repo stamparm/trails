@@ -1,0 +1,59 @@
+# The content gate. Runs on every commit, and it is the half that did not exist before the split.
+#
+# A trail here becomes a detection on somebody else's network, so the two questions worth asking on
+# every push are cheap enough to ask every time: can this entry ever match on the wire, and does it
+# match something it must never match. Together about 12 seconds.
+#
+# It checks out maltrail to get the checker, deliberately. check_trails.py judges an entry by the
+# engine's own rules - VALID_DNS_NAME_REGEX, IGNORE_DNS_QUERY_SUFFIXES, the whitelist, the idna
+# encoding update_trails() applies - and a copy vendored here would drift from them. One
+# implementation, living with the code it has to agree with.
+
+name: Gate
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  content:
+    name: trail sanity
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the content
+        uses: actions/checkout@v5
+        with:
+          path: trails
+
+      - name: Check out the engine (for the checker and its rules)
+        uses: actions/checkout@v5
+        with:
+          repository: stamparm/maltrail
+          path: maltrail
+
+      # Entries that can never match: a non-ASCII key idna refuses, a wire form
+      # VALID_DNS_NAME_REGEX rejects, a last label in IGNORE_DNS_QUERY_SUFFIXES. Also reports
+      # (without failing) the trails a whitelisted parent domain shadows.
+      - name: Trails are reachable on the wire
+        working-directory: maltrail
+        run: python3 sensor/tools/check_trails.py --path ../trails
+
+      # And the other direction: no trail may match a name that must never be flagged. This is the
+      # one that sees REGEX trails - a popularity-list intersection cannot, because a pattern is
+      # never equal to a domain.
+      - name: No trail matches a canary
+        working-directory: maltrail
+        run: python3 sensor/tools/check_trails.py --path ../trails --canaries
+
+      # The set has to assemble at all. Cheap, and it is the exact code the publish job runs, so a
+      # tree that cannot be assembled fails here rather than at publish time.
+      - name: The content assembles
+        working-directory: maltrail
+        run: python3 -m core.assemble --root ../trails --out /tmp/trails.csv
