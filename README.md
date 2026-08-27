@@ -1,16 +1,12 @@
 # Maltrail trails
 
-The static detection content for [Maltrail](https://github.com/stamparm/maltrail): roughly 1.86
-million indicators across 3,114 files, each one attributed to the report it came from.
+The static detection content for [Maltrail](https://github.com/stamparm/maltrail): millions of
+indicators, sorted into three threat classes, each one attributed to the report it was extracted
+from.
 
-This is the moat. Zeek's Intel framework and Suricata's datasets are mechanisms — you bring your own
-indicators. Maltrail brings the indicators.
-
-| | files | indicators |
-| --- | ---: | ---: |
-| `malware/` | 2,956 | 1,515,574 |
-| `malicious/` | 128 | 279,878 |
-| `suspicious/` | 30 | 59,884 |
+New content lands here daily. For the current size, see the newest
+[release](https://github.com/stamparm/trails/releases) — it reports the number of trails it was
+assembled from.
 
 ## Why it is not in the main repository
 
@@ -24,8 +20,8 @@ stopped growing there.
 
 ## How a deployment gets this
 
-Not by cloning. Four times a day a workflow assembles every file into one CSV and publishes it as a
-release, so a deployment fetches a single 11 MB file:
+Not by cloning. Four times a day a workflow assembles every file into one CSV, compresses it and
+publishes it as a release, so a deployment fetches one file:
 
 ```text
 STATIC_TRAILS_URL https://github.com/stamparm/trails/releases/latest/download/trails.csv.gz
@@ -38,7 +34,7 @@ Each release carries:
 
 | asset | |
 | --- | --- |
-| `trails.csv.gz` | the assembled set, ~11 MB |
+| `trails.csv.gz` | the assembled set, gzipped |
 | `trails.csv.sha256` | sha256 of the **uncompressed** CSV — it identifies the trail set, not one compression of it |
 
 The client checks that 65-byte digest before downloading anything, so a deployment that updates more
@@ -100,7 +96,7 @@ invent a new threat class by accident.
 
 ## Every commit is gated
 
-`.github/workflows/gate.yml` runs on every push, in about twelve seconds:
+`.github/workflows/gate.yml` runs on every push, in seconds:
 
 - **Reachable on the wire** — an entry that idna refuses, that `VALID_DNS_NAME_REGEX` rejects, or
   whose last label is dropped before lookup can never match anything. It is not detection, it is
