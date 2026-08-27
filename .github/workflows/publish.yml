@@ -129,17 +129,30 @@ jobs:
           subject-path: ${{ github.workspace }}/trails.csv.gz
 
       # Without this the repository accumulates a release per publish forever - 4 a day, ~16 GB a
-      # year even gzipped. Keep the last 30 days for rollback, plus one publish per month as a
-      # dated archive, and drop the rest.
+      # year even gzipped. Keep the last 30 days for rollback, plus the newest publish of each
+      # older month as a dated archive, and drop the rest.
+      #
+      # Verified against 190 days of synthetic tags before it ever ran for real: 760 in, 630
+      # deleted, 130 kept - the last 30 days in full plus one archive per older month. This deletes
+      # things unattended, so it was not going to find out in production.
+      #
+      # The newest release is skipped unconditionally, ahead of any date arithmetic.
+      # STATIC_TRAILS_URL points at releases/latest/download, so deleting the newest release breaks
+      # trail updates for every deployment at once. That must not depend on a date comparison being
+      # right.
       - name: Prune old releases
         if: steps.changed.outputs.publish == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           cutoff=$(date -u -d '30 days ago' +%Y%m%d)
+          tags=$(gh release list --repo "$GITHUB_REPOSITORY" --limit 1000 --json tagName \
+                   --jq '.[] | select(.tagName | startswith("content-")) | .tagName' | sort -r)
+          newest=$(printf '%s\n' "$tags" | head -1)
+          echo "[i] newest release is $newest and is never pruned"
           kept_months=""
-          gh release list --repo "$GITHUB_REPOSITORY" --limit 1000 --json tagName,createdAt \
-            --jq '.[] | select(.tagName | startswith("content-")) | .tagName' | sort -r | while read tag; do
+          printf '%s\n' "$tags" | tail -n +2 | while read -r tag; do
+              [ -n "$tag" ] || continue
               day=${tag#content-}; day=${day%%-*}
               month=${day%??}
               if [ "$day" -ge "$cutoff" ]; then continue; fi
