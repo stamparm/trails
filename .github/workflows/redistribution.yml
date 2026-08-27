@@ -1,0 +1,104 @@
+# Is anything we publish going to hurt somebody who redistributes it?
+#
+# Maltrail's trails are consumed by people who never run Maltrail. FireHOL turns mass_scanner.txt
+# into an ipset of firewall DROP rules; oisd, NextDNS, NoTracking and pfBlockerNG turn the lists
+# into DNS blocklists. Nine "trails only" integrations are named in the engine's README. None of
+# them run update_trails(), so none of them get its filtering.
+#
+# That is why the existing gate is not enough. gate.yml asks "would Maltrail match this?" - and by
+# that measure a trail on a shared CDN edge is harmless, because update_trails() deletes it before
+# any sensor sees it. Downstream it is a live rule blocking an address thousands of innocent sites
+# sit behind, published under our name. It costs us reputation and it costs them uptime, and until
+# this workflow existed nothing in the project was looking for it: a Cloudflare address was found
+# by a person, by hand, twelve times.
+#
+# Runs on a SCHEDULE as well as on content changes, because the risk is not only "somebody added a
+# bad address". A range that was a customer's yesterday can be a shared front door today, which no
+# commit of ours would trigger. Provider ranges are fetched live for the same reason - a snapshot
+# vendored here would go stale exactly when it mattered.
+#
+# A failure here mails whoever owns the repository. That is the alarm.
+
+name: Redistribution safety
+
+on:
+  schedule:
+    - cron: '41 5 * * *'
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  shared-infrastructure:
+    name: nothing published sits on shared infrastructure
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the content
+        uses: actions/checkout@v5
+        with:
+          path: trails
+
+      - name: Check out the engine (the checker lives with the rules it applies)
+        uses: actions/checkout@v5
+        with:
+          repository: stamparm/maltrail
+          path: maltrail
+
+      # Exit 1 = something we publish is on shared infrastructure.
+      # Exit 2 = a provider list was unreachable, so the check DID NOT RUN. That is deliberately
+      # not a pass: a green tick would say "we looked and it is fine", which is the exact lie this
+      # workflow exists to prevent.
+      - name: Shared-infrastructure check
+        working-directory: maltrail
+        run: python3 sensor/tools/check_redistribution.py --path ../trails --max-report 60
+
+  consumer-urls:
+    name: the URLs redistributors pull still resolve
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      # The trails split moved every file and 404'd the raw URLs third parties had hardcoded -
+      # FireHOL's ipset header still names a path that no longer exists. We found that by looking,
+      # days later. This asks GitHub instead, every day.
+      #
+      # Add a line here whenever a consumer starts pulling a new path. Breaking somebody else's
+      # feed should fail our build, not their firewall.
+      - name: Documented consumer URLs answer 200
+        run: |
+          set -u
+          fail=0
+          while read -r url; do
+            case "$url" in ''|\#*) continue ;; esac
+            code=$(curl -sS -o /dev/null -w '%{http_code}' --max-time 30 "$url" || echo 000)
+            if [ "$code" = "200" ]; then
+              echo "  ok   $code  $url"
+            else
+              echo "  FAIL $code  $url"
+              fail=1
+            fi
+          done <<'URLS'
+          # The assembled set and its digest - what STATIC_TRAILS_URL points at.
+          https://github.com/stamparm/trails/releases/latest/download/trails.csv.gz
+          https://github.com/stamparm/trails/releases/latest/download/trails.csv.sha256
+          # Raw paths that redistributors pull directly.
+          https://raw.githubusercontent.com/stamparm/trails/main/malware/asyncrat.txt
+          https://raw.githubusercontent.com/stamparm/trails/main/malicious/magentocore.txt
+          https://raw.githubusercontent.com/stamparm/trails/main/suspicious/dynamic_domain.txt
+          # Lists that ship with the engine rather than here.
+          https://raw.githubusercontent.com/stamparm/maltrail/master/data/mass_scanner.txt
+          https://raw.githubusercontent.com/stamparm/maltrail/master/data/mass_scanner_cidr.txt
+          # The derived blacklist other projects aggregate.
+          https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
+          URLS
+          [ "$fail" = "0" ] || {
+            echo "::error::a URL that redistributors depend on is no longer served - moving a file here breaks their feed silently"
+            exit 1
+          }
