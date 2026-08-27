@@ -58,11 +58,18 @@ jobs:
         id: assemble
         working-directory: maltrail
         run: |
-          python3 -m core.assemble --root ../trails --out "$GITHUB_WORKSPACE/trails.csv"
+          python3 -m core.assemble --root ../trails \
+            --out "$GITHUB_WORKSPACE/trails.csv" \
+            --provenance "$GITHUB_WORKSPACE/trails-provenance.bin"
           cd "$GITHUB_WORKSPACE"
           sha256sum trails.csv | cut -d' ' -f1 > trails.csv.sha256
           gzip -9 -n -c trails.csv > trails.csv.gz
-          echo "[i] $(stat -c%s trails.csv) -> $(stat -c%s trails.csv.gz) bytes gzipped"
+          # Where each indicator came from: the report it was extracted from and the file it lives
+          # in. The dashboard cites it in the trail drawer; only the server fetches it.
+          sha256sum trails-provenance.bin | cut -d' ' -f1 > trails-provenance.bin.sha256
+          gzip -9 -n -c trails-provenance.bin > trails-provenance.bin.gz
+          echo "[i] aggregate  $(stat -c%s trails.csv) -> $(stat -c%s trails.csv.gz) gzipped"
+          echo "[i] provenance $(stat -c%s trails-provenance.bin) -> $(stat -c%s trails-provenance.bin.gz) gzipped"
           echo "sha=$(cat trails.csv.sha256)" >> "$GITHUB_OUTPUT"
           echo "rows=$(wc -l < trails.csv)" >> "$GITHUB_OUTPUT"
           echo "engine=$(git -C "$GITHUB_WORKSPACE/maltrail" rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
@@ -118,7 +125,9 @@ jobs:
 
           or at this release's asset to pin." \
             "$GITHUB_WORKSPACE/trails.csv.gz" \
-            "$GITHUB_WORKSPACE/trails.csv.sha256"
+            "$GITHUB_WORKSPACE/trails.csv.sha256" \
+            "$GITHUB_WORKSPACE/trails-provenance.bin.gz" \
+            "$GITHUB_WORKSPACE/trails-provenance.bin.sha256"
 
       # Same keyless mechanism the maltrail release workflow uses, so there is no signing key to
       # hold or rotate. Verify with: gh attestation verify trails.csv.gz --repo stamparm/trails
