@@ -1,6 +1,0 @@
-# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
-# See the file 'LICENSE' for copying permission
-
-# Reference: https://rdap.apnic.net/ip/175.45.176.0
-
-175.45.177.138
