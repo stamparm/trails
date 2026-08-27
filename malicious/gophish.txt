@@ -1579,7 +1579,6 @@ http://62.171.136.162
 74.235.7.229:3333
 75.119.136.75:3332
 75.119.154.154:3333
-75.2.31.217:3333
 77.119.225.212:3333
 77.37.8.11:3333
 77.88.227.30:1724
@@ -2652,7 +2651,6 @@ financeekpmg.com
 mail.financeekpmg.com
 
 # Reference: https://app.validin.com/detail?find=Gophish%20-%20Login&type=raw&ref_id=b4112805a45#tab=host_pairs (# 2025-03-13)
-
 
 http://100.20.31.172
 http://100.22.4.151
