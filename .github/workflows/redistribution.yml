@@ -77,7 +77,10 @@ jobs:
           fail=0
           while read -r url; do
             case "$url" in ''|\#*) continue ;; esac
-            code=$(curl -sS -o /dev/null -w '%{http_code}' --max-time 30 "$url" || echo 000)
+            # -L: a releases/latest/download URL answers 302 to the asset CDN, and the first
+            # version of this check called that a failure. What matters to a consumer is whether
+            # the fetch SUCCEEDS, which is the code after the redirects.
+            code=$(curl -sSL -o /dev/null -w '%{http_code}' --max-time 60 "$url" || echo 000)
             if [ "$code" = "200" ]; then
               echo "  ok   $code  $url"
             else
