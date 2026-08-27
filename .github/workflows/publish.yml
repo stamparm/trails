@@ -6,12 +6,18 @@
 # times a day, and only when the content actually changed, is 1,460 publishes a year instead of
 # 14,600.
 #
-# The asset is plain CSV, not .gz: the client decompresses Content-Encoding (which GitHub's CDN
-# applies in transit anyway), not a gzip FILE. Publishing trails.csv.gz would hand it gzip bytes it
-# would store verbatim as the trail set.
+# The asset is GZIPPED. GitHub serves release assets as application/octet-stream straight from blob
+# storage with no Content-Encoding - measured, not assumed - so nothing compresses them in transit
+# and 81 MB goes on the wire as 81 MB. Every install pulling that once a day is the kind of number
+# the acceptable-use policy calls "significantly excessive". 81 MB -> 11 MB, and the client checks
+# the published sha256 (65 bytes) before downloading at all.
 #
-# Every release carries an asset named trails.csv, so
-# https://github.com/stamparm/trails/releases/latest/download/trails.csv always resolves to the
+# trails.csv.sha256 is the hash of the UNCOMPRESSED csv, deliberately: it identifies the trail set
+# rather than one particular compression of it, so change-detection here and integrity-checking in
+# the client both stay meaningful even if the compressor changes.
+#
+# Every release carries assets named trails.csv.gz and trails.csv.sha256, so
+# https://github.com/stamparm/trails/releases/latest/download/trails.csv.gz always resolves to the
 # newest one - which is what STATIC_TRAILS_URL points at - while the dated tag stays available for
 # a deployment that wants to pin.
 
@@ -55,6 +61,8 @@ jobs:
           python3 -m core.assemble --root ../trails --out "$GITHUB_WORKSPACE/trails.csv"
           cd "$GITHUB_WORKSPACE"
           sha256sum trails.csv | cut -d' ' -f1 > trails.csv.sha256
+          gzip -9 -n -c trails.csv > trails.csv.gz
+          echo "[i] $(stat -c%s trails.csv) -> $(stat -c%s trails.csv.gz) bytes gzipped"
           echo "sha=$(cat trails.csv.sha256)" >> "$GITHUB_OUTPUT"
           echo "rows=$(wc -l < trails.csv)" >> "$GITHUB_OUTPUT"
           echo "engine=$(git -C "$GITHUB_WORKSPACE/maltrail" rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
@@ -106,16 +114,36 @@ jobs:
 
           Point \`STATIC_TRAILS_URL\` at the rolling URL to track the newest set:
 
-              https://github.com/stamparm/trails/releases/latest/download/trails.csv
+              https://github.com/stamparm/trails/releases/latest/download/trails.csv.gz
 
           or at this release's asset to pin." \
-            "$GITHUB_WORKSPACE/trails.csv" \
+            "$GITHUB_WORKSPACE/trails.csv.gz" \
             "$GITHUB_WORKSPACE/trails.csv.sha256"
 
       # Same keyless mechanism the maltrail release workflow uses, so there is no signing key to
-      # hold or rotate. Verify with: gh attestation verify trails.csv --repo stamparm/trails
+      # hold or rotate. Verify with: gh attestation verify trails.csv.gz --repo stamparm/trails
       - name: Attest
         if: steps.changed.outputs.publish == 'true'
         uses: actions/attest-build-provenance@v3
         with:
-          subject-path: ${{ github.workspace }}/trails.csv
+          subject-path: ${{ github.workspace }}/trails.csv.gz
+
+      # Without this the repository accumulates a release per publish forever - 4 a day, ~16 GB a
+      # year even gzipped. Keep the last 30 days for rollback, plus one publish per month as a
+      # dated archive, and drop the rest.
+      - name: Prune old releases
+        if: steps.changed.outputs.publish == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cutoff=$(date -u -d '30 days ago' +%Y%m%d)
+          kept_months=""
+          gh release list --repo "$GITHUB_REPOSITORY" --limit 1000 --json tagName,createdAt \
+            --jq '.[] | select(.tagName | startswith("content-")) | .tagName' | sort -r | while read tag; do
+              day=${tag#content-}; day=${day%%-*}
+              month=${day%??}
+              if [ "$day" -ge "$cutoff" ]; then continue; fi
+              case " $kept_months " in *" $month "*) ;; *) kept_months="$kept_months $month"; continue ;; esac
+              echo "[i] pruning $tag"
+              gh release delete "$tag" --repo "$GITHUB_REPOSITORY" --yes --cleanup-tag
+            done
