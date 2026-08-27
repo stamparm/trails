@@ -511,32 +511,6 @@ mine.zpool.ca
 
 3.120.98.217:8080
 
-# Reference: https://www.virustotal.com/gui/file/49a326ef65fb6a7f8e778fb2104aa2708e38601348ddbc04e8cbd9117af0458a/detection
-
-
-# Reference: https://www.virustotal.com/gui/file/a8174c8d4169bafa791bdaba5033bf0b67a6ab7dde9a362c5f04ac6d2088a677/detection
-
-
-# Reference: https://www.virustotal.com/gui/file/692627b99dc224be5f31321b5628c9736bc0b43a87358ccf544e39453d27eb4e/detection
-# Reference: https://www.virustotal.com/gui/file/1d8c8e42e73eea50e0ca09124c0c2c3e7da21c5b232246129528cc955dc5a25f/detection
-
-
-# Reference: https://www.virustotal.com/gui/file/f89c6d288cadbd5924496b664f6138c14523c338bef44407c0ed1a449b11e466/detection
-# Reference: https://www.virustotal.com/gui/file/8b7aac6ab2d4b4a128c11c02b9b0269c08dec2c935c92e45804756a4ee5878e5/detection
-
-
-# Reference: https://www.virustotal.com/gui/file/fd1d919e012353386a9d20af761109eaaa3099eec0bebec107b3bf000348f3fe/detection
-
-
-# Reference: https://www.virustotal.com/gui/file/1d1d2b6edf51a4262795b2d99f4bf21f2c71b68d2001f74a6d1b24b077a890f0/detection
-
-
-# Reference: https://www.virustotal.com/gui/file/09fb4ee5038c7f273273642b83926c84361ef34ae43ac835542c1ff065734437/detection
-
-
-# Reference: https://www.virustotal.com/gui/file/a9510408f55684801300e3bcb9df0405bd620091dc635493b190dc749d743f93/detection
-
-
 # Reference: https://twitter.com/IntezerLabs/status/1341010531902050305
 # Reference: https://www.virustotal.com/gui/ip-address/80.211.206.105/relations
 # Reference: https://www.virustotal.com/gui/file/1ce687b9d97bc0932bc3bc107a6b5c9363bb5a6f1c2391a59f1664dfa68a2228/detection
