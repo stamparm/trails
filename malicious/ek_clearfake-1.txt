@@ -15159,6 +15159,17 @@ perfectverified.com
 cloudfrontenterprise.com
 cloudsenterprise2026.com
 
+# Reference: https://x.com/joe4security/status/2092954759237869800
+# CLASS_0_HASH-HOST=aedcffc6fed00fffd39516b13eeacfaf
+
+backup-gpt.com
+canva-design.info
+chatgpt-safepage.com
+gpt-backup.com
+gpt-backup.top
+gpt-safepage.com
+openai-backup.one
+
 # Generic
 
 /fo0suc2ki2.rtf
