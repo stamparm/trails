@@ -52,32 +52,38 @@ jobs:
         working-directory: maltrail
         run: python3 sensor/tools/check_trails.py --path ../trails --canaries
 
-      # The same question against the 10,000 most popular domains instead of 47 hand-picked ones.
-      # A loose pattern is the failure that actually reached a customer - `^[a-z]{2}\-[a-z]{2,3}\.
-      # (top|club)$` matched 89 domains in the top 1M, amazon-corp.com among them - and a 47-name
-      # list has no chance of containing the one it hits. Clean at the time of writing, ~3s.
-      - name: No REGEX trail matches a top-10k domain
+      # The same question against the 100,000 most popular domains instead of 47 hand-picked ones,
+      # at TWO depths, because the two halves have opposite noise profiles. tests/canaries-top100k.txt
+      # carries the reasoning and the measurements.
+      #
+      # Regexes get the whole list. Across the full top 1M only three patterns ever match a ranked
+      # domain and the first hit is at #89,031, so a pattern reaching this far is too loose - signal,
+      # not noise. It caught one the day it landed: `^[a-z]{2}\-[a-z]{2,3}\.(top|club)$` matching
+      # qu-in.top, my-ip.club, ru-vpn.top and go-vpn.club.
+      - name: No REGEX trail matches a top-100k domain
         working-directory: maltrail
         run: >
           python3 sensor/tools/check_trails.py --path ../trails --kinds regex
-          --canaries tests/canaries-top10k.txt
+          --canaries tests/canaries-top100k.txt
 
-      # Literals, and only in malware/ and malicious/. suspicious/ is excluded ON PURPOSE: those
-      # piles exist to name popular services whose use is itself the signal (ddns.net, ngrok.io,
-      # wix.com, ipify.org), so 68 of the 70 literal hits live there and every one is correct.
-      # Gating them would be an alarm muted on its first day. This found lnkd.in - LinkedIn's URL
-      # shortener, bulk-imported into an ek_clearfake block and blanket-listed as malicious.
+      # Literals get the first 30,000, where depth costs noise directly: a C2 with a big botnet
+      # earns its rank honestly. Measured on the gated piles - 10k: 1 hit, 30k: 16, 50k: 32,
+      # 100k: 90 - and 30k is the last depth whose findings are a sitting's work.
       #
-      # --allow-trail: 713mtauburnctcolumbusoh43085.st is a real Mirai host that is ALSO ranked, and
-      # it is already in misc/alexa1m.py's curated IGNORE for the same reason. Ranked does not mean
-      # benign, which is why this half is scoped rather than trusted.
-      - name: No literal malware trail is a top-10k domain
+      # malware/ and malicious/ only. suspicious/ exists TO name popular services whose use is the
+      # signal (ddns.net, ngrok.io, wix.com, ipify.org), so nearly every literal hit is there and
+      # every one is correct; gating it would be an alarm muted on day one.
+      #
+      # Correct-but-ranked trails live in tests/canaries-allow.txt WITH a reason - Conficker's 2008
+      # C2 is still ranked because infected hosts still beacon at it. Anything NOT in that file
+      # fails, which is how lnkd.in, selcdn.ru and totalav.com were found and removed.
+      - name: No literal malware trail is a top-30k domain
         working-directory: maltrail
         run: |
           for pile in malware malicious; do
             python3 sensor/tools/check_trails.py --path "../trails/$pile" --kinds literal \
-              --canaries tests/canaries-top10k.txt \
-              --allow-trail 713mtauburnctcolumbusoh43085.st
+              --canaries tests/canaries-top100k.txt:30000 \
+              --allow-file tests/canaries-allow.txt
           done
 
       # The set has to assemble at all. Cheap, and it is the exact code the publish job runs, so a
