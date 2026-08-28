@@ -11885,6 +11885,7 @@ verify.hashtopoils.org
 8o.git-electrum.org
 9494911aa421.shop
 acervo.abem-nacional.com.br
+activeacc.com
 activerootsdietbalancehub.com
 admin.chalcharsangtim.site
 admin.socialvesta.com
@@ -11906,6 +11907,7 @@ api.vivid-friends.info
 apps.roopkotharangpur.com
 arnoldplumbingservice.com
 astralpay.co
+atrox.to
 auth.4stake.com
 auth.mangaspot.se
 auth.resuefas.vip
@@ -11914,6 +11916,8 @@ autoconfig.misterdent.info
 autoconfig.nutriwisedietplanssolution.com
 automotiongearworkssupply.com
 aynagoz.com
+azov.dev
+betora.vip
 betturkey4101.com
 bigbobstep.cfd
 bigsmart.beer
@@ -11971,6 +11975,7 @@ crosspaid.com
 cryppayment.online
 cryptivopay.com
 crypto.expresspay.co.ke
+cryptokard.biz
 cryptopayments.oltrinteractive.com
 cuddlecloudkidswearstudio.com
 dailybalancehealthmarket.com
@@ -12034,6 +12039,7 @@ fireflyepisodes.cfd
 fkdoeoo3313.shop
 flow-base-host.com
 flowtechheatandwaterdepot.com
+forbiddenfruit.online
 freeaudiobooks.online
 ftp.digicash.global
 ftp.freeaudiobooks.online
@@ -12109,6 +12115,8 @@ mail.meganugs.uk
 mainnet.resuefas.vip
 makeverizyjar.info
 matching.socialvesta.com
+matrixcasino.click
+maxxrush.com
 media.snplayer.site
 meganugs.uk
 meritcasino901.com
@@ -12144,6 +12152,7 @@ orchborne.org
 ordely.cloud
 orjinal-rekormergiris.vip
 panel-runtime.digital
+panter150.com
 pawhavenanimalsupplystore.com
 pawsandwhiskerssupplybarn.com
 pay-4257c5bc2a3p15eebfe60.lustgens.com
@@ -12153,6 +12162,7 @@ pay-dev.zenwebsoft.com
 pay-docker.101.99.90.126.sslip.io
 pay-vbets24.com
 pay.1xai.app
+pay.activeacc.com
 pay.aidomchat.com
 pay.aitv.ro
 pay.alamoai.org
@@ -12161,6 +12171,7 @@ pay.asmrleaks.tv
 pay.aspecracing.com.au
 pay.atomtech.live
 pay.ayou.it.com
+pay.azov.dev
 pay.betroxen.com
 pay.birdlioncointadaa.com
 pay.breedrs.com
@@ -12168,6 +12179,7 @@ pay.bybetz.com
 pay.ceyronpartners.com
 pay.clydesupplements.com
 pay.cocomuse.co
+pay.cryptokard.biz
 pay.dealsniper.pl
 pay.digicash.global
 pay.directfellas.com
@@ -12194,6 +12206,8 @@ pay.luckxleap.com
 pay.lumalark.com
 pay.luso-iptv.net
 pay.makeaibucks.com
+pay.matrixcasino.click
+pay.maxxrush.com
 pay.meganugs.uk
 pay.mephor.site
 pay.minda.win
@@ -12212,6 +12226,7 @@ pay.okiroll.com
 pay.omniofm.com
 pay.osopeptides.com
 pay.p4ym3nt5.com
+pay.panter150.com
 pay.pay-vantage.com
 pay.payandview.me
 pay.peptidemy.com
@@ -12249,6 +12264,8 @@ pay.worldcuptv.xyz
 pay.wos.one
 pay.xnudify.ai
 pay.yozipay.com
+pay.yummybuild.com
+pay.zm-peptide-ireland.ie
 payment.1234-1234.net
 payment.alienpanel.com
 payment.barewithai.com
@@ -12267,8 +12284,10 @@ payram-demo.resuefas.vip
 payram-preprod.resuefas.vip
 payram-staging.honeybot.ai
 payram-testnet.mantisscientific.com
+payram-yftp47fmuf3v5pa71kvyfdna.95.165.172.99.sslip.io
 payram.alcovepeptides.com
 payram.atomtech.live
+payram.atrox.to
 payram.avalon.sx
 payram.celestride.pro
 payram.codeworker.app
@@ -12305,6 +12324,8 @@ playfulmindstoycollection.com
 pluhabovra.info
 pmain2.bedi.io
 pos.b03c6a7ae48351c6.com
+postal.betora.vip
+postpass.synaptic2.dev
 pr.kaman.cloud
 preprod.resuefas.vip
 primsdale.org
@@ -12362,15 +12383,18 @@ store.workshopcommunityviews.com
 store.workshopreviewsvote.com
 store.workshopvotedreviews.com
 storj.pravd.in
+sunv.win
 support.myfoxcode.com
 support1.myfoxcode.com
 swiftpay.co
+synaptic2.dev
 sync.flow-base-host.com
 system-console.digital
 system-dashboard.digital
 tearpopfilegetfast.monster
 terminal-stack.digital
 test-pay.mumu.gg
+testme.betora.vip
 testnet.digicash.global
 testnet.resuefas.vip
 textyourpromo.com
@@ -12419,10 +12443,12 @@ workwiseuniformandgearco.com
 xplata.com
 yj.resuefas.vip
 yk9yt2rr.jglspi.cc
+yummybuild.com
 yuryorojin-site.info
 z0.queenbet-guncelerisim.icu
 zalupa.wtf
 zenithnetnetwork.digital
+zm-peptide-ireland.ie
 
 # Reference: https://blueteam.cool/posts/authorization-cdn-etherhiding-clickfix/
 
