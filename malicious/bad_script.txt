@@ -10000,6 +10000,13 @@ drvdb9rcebidk.cloudfront.net
 
 /E18D10F2AB43.ps1
 
+# Reference: https://etugen.io/blog/etherhiding-blockchain-c2/
+
+/3ns6j5bq87bs.ps1
+/fpv0s3mgas2jas.ps1
+/j4ravc8df1dz1jk.ps1
+/u9navdx5a2kiu.ps1
+
 # Generic
 
 /5c0ca79.php
