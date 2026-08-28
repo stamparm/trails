@@ -363,7 +363,6 @@ fr.mu
 fr.nf
 fr.pn
 fr.pn
-free
 gg.gy
 gicp.net
 glx.nl
@@ -403,7 +402,6 @@ mx.tc
 myhome.tv
 n10.nl
 net.br.tc
-net.ms
 net.ru
 net.tc
 net.tf
@@ -535,7 +533,7 @@ bi.sh
 bo.rs
 bt.ch
 cg.hk
-co.cl
+.co.cl
 cs.pl
 ee.pl
 en.bz
@@ -1220,7 +1218,6 @@ fr.ht
 fr.ms
 fr.mu
 fr.nf
-free
 freeiz.com
 gaming.cx
 gg.gy
@@ -1310,7 +1307,6 @@ n10.nl
 nce.name
 net.br.ms
 net.br.tc
-net.ms
 net.tc
 net.tf
 net16.net
@@ -1384,12 +1380,10 @@ stx.nl
 sub.cat
 sub.es
 sub.name
-tc
 team.pro
 th.tc
 thuisserver.com
 ticp.net
-tk
 tld.cc
 totoblog.com
 totoblog.net
@@ -5618,7 +5612,7 @@ servegame.co
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9474#issuecomment-4105979155
 
-hl.cn
+.hl.cn
 
 # Reference: https://x.com/MosheTov/status/2055763192064725428
 # Reference: https://x.com/TekDefense/status/2055818318209020115
