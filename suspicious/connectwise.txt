@@ -7842,3 +7842,9 @@ support.glostingsolutions.shop
 
 192.30.241.253:8041
 maguire.top
+
+# Reference: https://x.com/BlinkzSec/status/2093419712625471923
+# Reference: https://www.virustotal.com/gui/file/44ecd0027f519f656a2ed97ce33a6ead4cba154d3f36148638ebba0e3f5d1114/detection
+
+http://217.60.241.142
+217.60.241.142:8041
