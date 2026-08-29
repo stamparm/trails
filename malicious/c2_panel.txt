@@ -1681,6 +1681,16 @@ thynetaylorfoxhowardllp.com
 web-login-cdn.outlooksstoragefileonlines.digital
 wrdreadreview.sbs
 
+# Reference: https://x.com/BlinkzSec/status/2093409415219097860
+# TITLE-HOST/IP=Stealth Sentry
+# TITLE-HOST/IP=Trojan Chat C2
+
+139.59.47.68:8001
+147.182.180.255:3000
+147.182.180.255:8001
+about.agroferias.pe
+stealth-sentry.anvikshan.in
+
 # Generic
 
 /admin_123/auth.php
