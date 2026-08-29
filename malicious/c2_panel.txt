@@ -1613,6 +1613,74 @@ yegula.com
 
 43.134.165.233:8888
 
+# Reference: https://x.com/BlinkzSec/status/2093409171681026231
+# TITLE-HOST/IP=Ghost C2 | Enterprise Platform
+
+138.68.172.20:3000
+138.68.92.62:3000
+144.225.188.16:3000
+144.225.188.74:3000
+147.182.188.36:3000
+148.113.235.142:3000
+149.56.132.233:3000
+151.158.1.145:3000
+151.158.1.74:3000
+157.230.87.6:3000
+157.245.36.151:3000
+158.69.195.18:3000
+158.69.220.19:3000
+161.35.4.242:3000
+162.35.162.179:3000
+164.92.93.228:3000
+165.245.161.242:3000
+165.245.167.52:3000
+165.245.167.52:5173
+165.245.212.0:3000
+166.88.117.16:3000
+166.88.117.16:5173
+166.88.117.177:3000
+167.71.142.53:3000
+172.86.126.91:3000
+192.34.62.138:3000
+198.23.193.85:3000
+206.189.186.247:3000
+23.27.124.75:3000
+23.27.141.45:3000
+23.27.49.5:3000
+23.27.51.35:3000
+23.27.51.82:3000
+31.77.228.54:3000
+46.101.72.38:3000
+46.224.18.157:3000
+46.225.209.113:3000
+57.129.142.248:3000
+67.205.167.65:3000
+67.207.93.9:3000
+account.outlooksstoragefileonlines.digital
+advancesrv.click
+allenkeith.outlooksstoragefileonlines.digital
+blanternucirupt.cyou
+cluruniumsd.sbs
+csp.outlooksstoragefileonlines.digital
+ddmsereview.sbs
+docusgignneveryujeon.com
+dotfoods.outlooksstoragefileonlines.digital
+etsyinls.com
+kidsdentaibrands.com
+o.outlooksstoragefileonlines.digital
+offlinestatus-ref0009874774.com
+outlook.outlooksstoragefileonlines.digital
+outlooksstoragefileonlincz.digital
+outlooksstoragefileonlines.digital
+prmmlsbrdl.bond
+response.wearemerubillings.com
+sci.outlooksstoragefileonlinky.digital
+shlnryo-sg.com
+silkysilklit.site
+thynetaylorfoxhowardllp.com
+web-login-cdn.outlooksstoragefileonlines.digital
+wrdreadreview.sbs
+
 # Generic
 
 /admin_123/auth.php
