@@ -5704,6 +5704,10 @@ spadeanalytica.com
 
 fb-api.raydianpainting.com
 
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2026-08-28-v11269/3433
+
+preamp.givescash.com
+
 # Generic
 
 /Chrome.Quick.Update.ver.101.65.65282.js
