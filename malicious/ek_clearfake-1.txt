@@ -15196,6 +15196,10 @@ gpt-backup.top
 gpt-safepage.com
 openai-backup.one
 
+# Reference: https://x.com/masaomi346/status/2093673493275807906
+
+rpc-mainnet.matic.quiknode.pro
+
 # Generic
 
 /fo0suc2ki2.rtf
