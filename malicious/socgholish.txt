@@ -5708,6 +5708,10 @@ fb-api.raydianpainting.com
 
 preamp.givescash.com
 
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2026-08-27-v11268/3432
+
+expce.directoryindustry.com
+
 # Generic
 
 /Chrome.Quick.Update.ver.101.65.65282.js
