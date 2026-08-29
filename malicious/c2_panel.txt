@@ -1691,6 +1691,10 @@ wrdreadreview.sbs
 about.agroferias.pe
 stealth-sentry.anvikshan.in
 
+# TITLE-HOST/IP=C2-CUSTOM // TEAMSERVER
+
+207.244.255.208:8443
+
 # Generic
 
 /admin_123/auth.php
