@@ -15196,6 +15196,7 @@ gpt-backup.com
 gpt-backup.top
 gpt-safepage.com
 openai-backup.one
+safepage-gpt.com
 
 # Reference: https://x.com/masaomi346/status/2093673493275807906
 
