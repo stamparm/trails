@@ -124,6 +124,9 @@ Open a pull request. An indicator needs:
 The gate will tell you if an entry can never match or hits a canary. It cannot tell you whether the
 indicator is *correct*; that is what the reference is for.
 
+5. **False positives** and **false negatives** in trail data — please open an ordinary [issue](https://github.com/stamparm/trails/issues)
+or [pull request](https://github.com/stamparm/trails/pulls).
+
 ## Licence
 
 MIT, same as Maltrail. See [`LICENSE`](https://github.com/stamparm/maltrail/blob/master/LICENSE).
