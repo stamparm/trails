@@ -18561,6 +18561,15 @@ ws.bucklandfredericslaw.com
 
 cloudflare-static4.ph
 
+# Reference: https://x.com/sdcyberresearch/status/2094368313866399983
+
+business278.gold
+hmtgang.top
+plow736.cfd
+embed.hmtgang.top
+gm23518655.business278.gold
+pu27951939.plow736.cfd
+
 # Generic
 
 /assets/lfg.js
