@@ -18357,6 +18357,7 @@ ns2.cdnstats.top
 # Reference: https://x.com/sdcyberresearch/status/2077372646585471271
 # Reference: https://x.com/sdcyberresearch/status/2084986785180921944
 # Reference: https://blog.confiant.com/p/skimming-on-the-blockchain-a-magecart
+# BANNER_0_HASH-HOST=4eed5a5f9ff9f0ff1a45e0df88fa2d19
 # BANNER_0_HASH-HOST=a10db8579a8e673ed2d4619ad9cab1c7
 # BANNER_0_HASH-HOST=cd7be40625f97601692ae0f33b5c0960
 
@@ -18374,6 +18375,7 @@ brokenvelvetdream.top
 cinderwarden.com
 crimsonnightsky.top
 darkflamewatch.top
+dawnwhisperkeep.top
 duskharbinger.com
 duskreaverhold.top
 duskreaverwatch.com
@@ -18381,6 +18383,7 @@ duskwarden.com
 electricvoidfire.top
 electricvoidsig.top
 frostshroud.com
+frostvenomfort.top
 frozennebularhy.top
 frozenwildheart.top
 frozenwildherat.top
@@ -18389,6 +18392,7 @@ ironwolfcrest.top
 ironwraithtower.top
 juiceporn.com
 mistwalkerforge.top
+moonshadowforge.top
 mournguardian.com
 newbestporn.com
 nightstalkerwatch.top
