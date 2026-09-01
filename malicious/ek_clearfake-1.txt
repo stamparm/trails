@@ -15218,4 +15218,5 @@ vps.trstrade.shop
 
 # Generic
 
+/clickfix-callback
 /fo0suc2ki2.rtf
