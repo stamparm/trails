@@ -18356,6 +18356,7 @@ ns2.cdnstats.top
 # Reference: https://x.com/sdcyberresearch/status/2067255031271752003
 # Reference: https://x.com/sdcyberresearch/status/2077372646585471271
 # Reference: https://x.com/sdcyberresearch/status/2084986785180921944
+# Reference: https://blog.confiant.com/p/skimming-on-the-blockchain-a-magecart
 # BANNER_0_HASH-HOST=cd7be40625f97601692ae0f33b5c0960
 
 ashenfrontier.com
@@ -18376,6 +18377,7 @@ electricvoidsig.top
 frozennebularhy.top
 frozenwildheart.top
 frozenwildherat.top
+grimwardens.com
 ironwolfcrest.top
 ironwraithtower.top
 juiceporn.com
@@ -18383,6 +18385,7 @@ mistwalkerforge.top
 newbestporn.com
 nightstalkerwatch.top
 norvatek.top
+ravenstonekeep.top
 shadowburninside.top
 shadowmatrixpls.top
 shadowrunevail.top
@@ -18448,6 +18451,7 @@ voidravencitadel.com
 voidravenfortress.com
 voidravenkeep.com
 voidravenwatch.com
+voidwalkerforge.top
 warmcoffeetime.top
 
 # Reference: https://threatfox.abuse.ch/browse/malware/js.magecart/ (# 2026-06-18)
