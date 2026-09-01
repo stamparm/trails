@@ -15203,14 +15203,17 @@ safepage-gpt.com
 rpc-mainnet.matic.quiknode.pro
 
 # Reference: https://cyber.nexsight.co/articles/2026/08/29/terminalfix-clickfix-reverse-tunnel-microsoft-2026-08-29/
+# Reference: https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/
 # CERT_ISSUER-HOST=/CN=opclaw.dev
 
+bestsocialmedianewspapper.com
 browserupdatesoft.com
 didtradl.shop
 firstapphelp.com
 gitnow.dev
 goodfoodrecipients.com
 languageupgrader.com
+offlineupdater.com
 opclaw.dev
 trstrade.shop
 vps.didtradl.shop
