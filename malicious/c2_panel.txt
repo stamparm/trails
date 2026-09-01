@@ -1700,6 +1700,11 @@ stealth-sentry.anvikshan.in
 
 74.82.198.237:8888
 
+# Reference: https://x.com/Fact_Finder03/status/2094838748970406077
+
+151.243.173.141:8080
+93.113.215.114:8081
+
 # Generic
 
 /admin_123/auth.php
