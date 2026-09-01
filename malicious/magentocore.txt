@@ -18357,23 +18357,30 @@ ns2.cdnstats.top
 # Reference: https://x.com/sdcyberresearch/status/2077372646585471271
 # Reference: https://x.com/sdcyberresearch/status/2084986785180921944
 # Reference: https://blog.confiant.com/p/skimming-on-the-blockchain-a-magecart
+# BANNER_0_HASH-HOST=a10db8579a8e673ed2d4619ad9cab1c7
 # BANNER_0_HASH-HOST=cd7be40625f97601692ae0f33b5c0960
 
 ashenfrontier.com
 ashenravenfort.top
 ashenshadowfort.top
+ashenwatcher.com
 avonlogic.top
+blackthornhold.com
 blackthornkeep.top
 bleakhaven.com
 bloodboundcitadel.top
 bloodthornkeep.top
 brokenvelvetdream.top
+cinderwarden.com
 crimsonnightsky.top
 darkflamewatch.top
+duskharbinger.com
 duskreaverhold.top
 duskreaverwatch.com
+duskwarden.com
 electricvoidfire.top
 electricvoidsig.top
+frostshroud.com
 frozennebularhy.top
 frozenwildheart.top
 frozenwildherat.top
@@ -18382,8 +18389,10 @@ ironwolfcrest.top
 ironwraithtower.top
 juiceporn.com
 mistwalkerforge.top
+mournguardian.com
 newbestporn.com
 nightstalkerwatch.top
+nightveilkeep.com
 norvatek.top
 ravenstonekeep.top
 shadowburninside.top
@@ -18391,6 +18400,7 @@ shadowmatrixpls.top
 shadowrunevail.top
 stormfangridge.top
 stormravenwatch.top
+stormwraith.com
 styleanimal.com
 stylebackrooooms.com
 stylebonus.com
