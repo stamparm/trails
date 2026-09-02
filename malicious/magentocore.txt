@@ -19037,6 +19037,10 @@ ws.bucklandfredericslaw.com
 
 cloudflare-static4.ph
 
+# Reference: https://x.com/sdcyberresearch/status/2095145354429599903
+
+link.geelinc.com
+
 # Generic
 
 /assets/lfg.js
