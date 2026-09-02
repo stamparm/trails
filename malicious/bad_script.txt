@@ -10007,6 +10007,10 @@ drvdb9rcebidk.cloudfront.net
 /j4ravc8df1dz1jk.ps1
 /u9navdx5a2kiu.ps1
 
+# Reference: https://x.com/Yusufcancakiir/status/2095223663025164394
+
+/AbnXRQDxdt.ps1
+
 # Generic
 
 /5c0ca79.php
