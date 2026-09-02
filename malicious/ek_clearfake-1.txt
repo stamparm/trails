@@ -15222,6 +15222,12 @@ vps.asstrade.shop
 vps.didtradl.shop
 vps.trstrade.shop
 
+# Reference: https://x.com/abuse_ch/status/2095130995443830833
+# Reference: https://www.virustotal.com/gui/file/5a8ab21cb329b8672379421dcf5bc59e6f174da6b835d5650cd0f50d7c4df534/detection
+# Reference: https://www.virustotal.com/gui/file/16beb1ae2de2974ccc2371d9f619f492295e590abb65d3102e362c8ec27f2bbb/detection
+
+recapture-robot.today
+
 # Generic
 
 /clickfix-callback
