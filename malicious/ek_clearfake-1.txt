@@ -15229,6 +15229,10 @@ vps.trstrade.shop
 ailogsticsllc.com
 recapture-robot.today
 
+# Reference: https://x.com/Yusufcancakiir/status/2095223663025164394
+
+lib.boldergorup.ratnapublication.com
+
 # Generic
 
 /clickfix-callback
