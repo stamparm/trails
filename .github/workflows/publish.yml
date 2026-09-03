@@ -60,7 +60,8 @@ jobs:
         run: |
           python3 -m core.assemble --root ../trails \
             --out "$GITHUB_WORKSPACE/trails.csv" \
-            --provenance "$GITHUB_WORKSPACE/trails-provenance.bin"
+            --provenance "$GITHUB_WORKSPACE/trails-provenance.bin" \
+            --domains-out "$GITHUB_WORKSPACE/maltrail-malware-domains.txt"
           cd "$GITHUB_WORKSPACE"
           sha256sum trails.csv | cut -d' ' -f1 > trails.csv.sha256
           gzip -9 -n -c trails.csv > trails.csv.gz
@@ -70,6 +71,13 @@ jobs:
           gzip -9 -n -c trails-provenance.bin > trails-provenance.bin.gz
           echo "[i] aggregate  $(stat -c%s trails.csv) -> $(stat -c%s trails.csv.gz) gzipped"
           echo "[i] provenance $(stat -c%s trails-provenance.bin) -> $(stat -c%s trails-provenance.bin.gz) gzipped"
+          # A domain-only view of the malware trails, for the DNS-filtering integrations that
+          # consume the list without running Maltrail. Published UNCOMPRESSED and under its
+          # historical name: NextDNS, NoTracking, pfBlockerNG, MobSF and MobileAudit each hardcode
+          # a URL to a plain text file, and handing them a .gz would break them a second time.
+          sha256sum maltrail-malware-domains.txt | cut -d' ' -f1 > maltrail-malware-domains.txt.sha256
+          echo "[i] domains    $(wc -l < maltrail-malware-domains.txt) names, $(stat -c%s maltrail-malware-domains.txt) bytes"
+          echo "domains=$(wc -l < maltrail-malware-domains.txt)" >> "$GITHUB_OUTPUT"
           echo "sha=$(cat trails.csv.sha256)" >> "$GITHUB_OUTPUT"
           echo "rows=$(wc -l < trails.csv)" >> "$GITHUB_OUTPUT"
           echo "engine=$(git -C "$GITHUB_WORKSPACE/maltrail" rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
@@ -85,6 +93,12 @@ jobs:
             exit 1
           fi
           echo "[i] $rows trails, sha256 ${{ steps.assemble.outputs.sha }}"
+          domains=${{ steps.assemble.outputs.domains }}
+          if [ "$domains" -lt 500000 ]; then
+            echo "[!] only $domains malware domains derived - refusing to publish"
+            exit 1
+          fi
+          echo "[i] $domains malware domains"
 
       # Nothing to do when the content has not moved since the last publish. This is what keeps a
       # 4x/day schedule from making 4 releases a day on a quiet weekend.
@@ -94,7 +108,12 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           previous=$(gh release download --repo "$GITHUB_REPOSITORY" --pattern trails.csv.sha256 --output - 2>/dev/null || true)
-          if [ "$previous" = "${{ steps.assemble.outputs.sha }}" ]; then
+          # Unchanged content is not enough to skip: the newest release also has to actually carry
+          # every asset we publish. Otherwise adding one means waiting for the content to move
+          # before it first appears, and anything pointing at releases/latest/download for it 404s
+          # until then - which is exactly the outage that made us republish the blocklist.
+          domains_asset=$(gh release download --repo "$GITHUB_REPOSITORY" --pattern maltrail-malware-domains.txt.sha256 --output - 2>/dev/null || true)
+          if [ "$previous" = "${{ steps.assemble.outputs.sha }}" ] && [ -n "$domains_asset" ]; then
             echo "[i] unchanged since the last publish ($previous)"
             echo "publish=false" >> "$GITHUB_OUTPUT"
           else
@@ -123,11 +142,20 @@ jobs:
 
               https://github.com/stamparm/trails/releases/latest/download/trails.csv.gz
 
-          or at this release's asset to pin." \
+          or at this release's asset to pin.
+
+          DNS filtering: ${{ steps.assemble.outputs.domains }} malware domains, names only, at
+
+              https://github.com/stamparm/trails/releases/latest/download/maltrail-malware-domains.txt
+
+          Review and test before enabling blocking - a threat-intelligence list can carry false
+          positives and indicators that do not suit every environment." \
             "$GITHUB_WORKSPACE/trails.csv.gz" \
             "$GITHUB_WORKSPACE/trails.csv.sha256" \
             "$GITHUB_WORKSPACE/trails-provenance.bin.gz" \
-            "$GITHUB_WORKSPACE/trails-provenance.bin.sha256"
+            "$GITHUB_WORKSPACE/trails-provenance.bin.sha256" \
+            "$GITHUB_WORKSPACE/maltrail-malware-domains.txt" \
+            "$GITHUB_WORKSPACE/maltrail-malware-domains.txt.sha256"
 
       # Same keyless mechanism the maltrail release workflow uses, so there is no signing key to
       # hold or rotate. Verify with: gh attestation verify trails.csv.gz --repo stamparm/trails
@@ -135,7 +163,11 @@ jobs:
         if: steps.changed.outputs.publish == 'true'
         uses: actions/attest-build-provenance@v3
         with:
-          subject-path: ${{ github.workspace }}/trails.csv.gz
+          # The blocklist is attested too: it is redistributed further than the aggregate is, into
+          # resolvers whose operators have no other way to tell our file from a modified copy.
+          subject-path: |
+            ${{ github.workspace }}/trails.csv.gz
+            ${{ github.workspace }}/maltrail-malware-domains.txt
 
       # Without this the repository accumulates a release per publish forever - 4 a day, ~16 GB a
       # year even gzipped. Keep the last 30 days for rollback, plus the newest publish of each
