@@ -98,8 +98,11 @@ jobs:
           # Lists that ship with the engine rather than here.
           https://raw.githubusercontent.com/stamparm/maltrail/master/data/mass_scanner.txt
           https://raw.githubusercontent.com/stamparm/maltrail/master/data/mass_scanner_cidr.txt
-          # The derived blacklist other projects aggregate.
-          https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
+          # The derived blacklist other projects aggregate. It used to live in stamparm/aux; that
+          # repository is gone, which is what this check caught - NextDNS, NoTracking,
+          # pfBlockerNG-devel, MobSF and MobileAudit were all pulling a 404 (#19620). Published
+          # here beside the aggregate now, by publish.yml.
+          https://github.com/stamparm/trails/releases/latest/download/maltrail-malware-domains.txt
           URLS
           [ "$fail" = "0" ] || {
             echo "::error::a URL that redistributors depend on is no longer served - moving a file here breaks their feed silently"
