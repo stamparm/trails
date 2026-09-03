@@ -1356,6 +1356,7 @@ alabastervoyage.top
 ambercompanion.top
 ambergallery.top
 api.channelandagate.com
+api.oxbowandjasper.com
 api.peninsulaandumber.com
 ashfieldchronicle.com
 ashgroveexchange.com
@@ -1382,6 +1383,7 @@ clevermeadowfactory.com
 cobaltjunction.top
 cobaltmeadow.top
 cobaltorchard.top
+cobaltwayfinder.org
 codeespring.com
 cometparapet.top
 copperhorizon.top
@@ -1462,12 +1464,14 @@ oakenscriptorium.com
 olivenarthex.top
 opalcaravanengine.com
 openmeadowlab.top
+oxbowandjasper.com
 pearljunction.top
 peninsulaandumber.com
 peridotskerry.top
 pewtercanto.top
 poplarmemoir.top
 prismharbor.top
+profile.cobaltwayfinder.org
 promontorytome.com
 quasarcolonnade.top
 quietlanternhouse.com
