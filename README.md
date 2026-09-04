@@ -143,3 +143,11 @@ you sent it. If you do not agree to those terms, do not submit material for incl
 
 5. **False positives** and **false negatives** in trail data — please open an ordinary [issue](https://github.com/stamparm/trails/issues)
 or [pull request](https://github.com/stamparm/trails/pulls).
+
+### Derived blacklist
+
+A domain-only list derived from the `malware/` static trails is published at
+[`maltrail-malware-domains.txt`](https://github.com/stamparm/trails/releases/latest/download/maltrail-malware-domains.txt).
+It can be used as an input to DNS filtering systems, but operators should review and test it before
+enabling blocking. Threat-intelligence lists can contain false positives or indicators that are not
+appropriate for every environment.
