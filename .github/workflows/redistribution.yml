@@ -108,3 +108,34 @@ jobs:
             echo "::error::a URL that redistributors depend on is no longer served - moving a file here breaks their feed silently"
             exit 1
           }
+
+      # The step above checks the paths WE publish. That is not the same question as "is anybody
+      # actually being served", and the difference has been green the whole time while two
+      # consumers pulled a 404:
+      #
+      #   pfBlockerNG's Maltrail_Scanners_All still points at maltrail/trails/static/mass_scanner.txt,
+      #   a pre-split path, while the file has been at data/mass_scanner.txt since the split.
+      #
+      #   NoTracking's SOURCES.md and pfBlockerNG's Maltrail_BD both point at stamparm/aux, which
+      #   no longer exists (#19620).
+      #
+      # Neither is fixable from this repository - it takes a pull request against theirs - so this
+      # WARNS rather than fails. A permanently red build teaches everyone to ignore the colour,
+      # which costs more than the thing it reports. A line goes away when the consumer merges the
+      # new URL, and a line that starts answering 200 is also worth knowing about.
+      - name: Legacy URLs third parties still hardcode
+        run: |
+          set -u
+          while IFS='|' read -r url consumer replacement; do
+            case "$url" in ''|\#*) continue ;; esac
+            code=$(curl -sSL -o /dev/null -w '%{http_code}' --max-time 60 "$url" || echo 000)
+            if [ "$code" = "200" ]; then
+              echo "  ok    $code  $consumer - $url"
+            else
+              echo "  stale $code  $consumer - $url"
+              echo "::warning title=$consumer is pulling a dead URL::$url answers $code. Send them a pull request pointing at $replacement"
+            fi
+          done <<'LEGACY'
+          https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/mass_scanner.txt|pfBlockerNG-devel (Maltrail_Scanners_All)|https://raw.githubusercontent.com/stamparm/maltrail/master/data/mass_scanner.txt
+          https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt|NoTracking and pfBlockerNG-devel (Maltrail_BD)|https://github.com/stamparm/trails/releases/latest/download/maltrail-malware-domains.txt
+          LEGACY

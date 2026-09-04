@@ -1,12 +1,48 @@
-# Maltrail trails
+# Maltrail Trails
 
-The static detection content for [Maltrail](https://github.com/stamparm/maltrail): millions of
-indicators, sorted into three threat classes, each one attributed to the report it was extracted
-from.
+Maltrail Trails is the static detection content for [Maltrail](https://github.com/stamparm/maltrail):
+millions of indicators, sorted into three threat classes, each one attributed to the report it was
+extracted from. "Trails" below is shorthand for Maltrail Trails.
 
 New content lands here daily. For the current size, see the newest
 [release](https://github.com/stamparm/trails/releases) — it reports the number of trails it was
 assembled from.
+
+## Licence
+
+This repository is not a bulk mirror or automated aggregation of third-party threat-intelligence
+feeds. Practically every indicator here was extracted by hand from an individual report or analysis
+and carries a `# Reference:` citation to its source — overwhelmingly per-sample analysis, one
+indicator at a time. The runtime feeds supported by Maltrail are *not* part of this repository;
+each Maltrail deployment obtains those directly from their publishers. What is licensed here is our
+curation: the selection, verification, classification, attribution and arrangement of the Maltrail
+Trails corpus.
+
+New content is published under the [Maltrail Trails Community Data License 1.0](LICENSE.md). Internal
+defensive use — by anyone, including companies — and bona fide research, teaching and publication
+are free and need no separate agreement. Building current Trails content or Trails-derived
+intelligence into a product, service, MSSP/MDR offering, OEM integration, hosted detection feature,
+or redistributed indicator feed requires separate written permission.
+
+The method used to obtain the material does not change the terms that apply to it: one file, the
+whole repository, a clone, an API response, or a release artifact such as `trails.csv.gz` or
+`maltrail-malware-domains.txt` are treated according to the same licence rules. Before its Change
+Date, Licensed Material may not be used for Commercial Product Use, Service Provider Use, or
+Redistribution except under a separate written agreement. A company using Trails only to defend its
+own environment remains free Internal Defensive Use.
+
+Nothing is taken back. Everything published up to and including commit
+[`e7d704c8c`](https://github.com/stamparm/trails/commit/e7d704c8c18f31eed28645cccb40fc53705f94be)
+stays MIT permanently. Each later item of Licensed Material, and each substantive modification to
+it, becomes additionally available under CC BY 4.0 three years after its first public publication.
+The licence does not claim ownership of facts: an indicator you independently sourced is yours to
+use regardless of whether it also appears here.
+
+A tool that can import arbitrary indicators supplied by its user does not need permission merely
+because a user points it at this repository (§7). Shipping Trails as a built-in, vendor-maintained
+intelligence source does.
+
+Commercial licensing, OEM terms and exceptions: **sales@sekuripy.hr**.
 
 ## Why it is not in the main repository
 
@@ -124,13 +160,14 @@ Open a pull request. An indicator needs:
 The gate will tell you if an entry can never match or hits a canary. It cannot tell you whether the
 indicator is *correct*; that is what the reference is for.
 
+By submitting material for inclusion in Maltrail Trails, you agree to [§10](LICENSE.md). If your
+contribution is accepted or incorporated into the official repository, then to the maximum extent
+permitted by law you assign to Mikhail Kasimov and Miroslav Stampar all transferable rights you own
+or control in that accepted contribution. Where a right cannot legally be assigned, §10 provides a
+perpetual, irrevocable, transferable and sublicensable fallback licence so the accepted contribution
+can be maintained, commercially licensed and later made available under CC BY 4.0 with the rest of
+Maltrail Trails. A submission that is not accepted or incorporated is not assigned merely because
+you sent it. If you do not agree to those terms, do not submit material for inclusion.
+
 5. **False positives** and **false negatives** in trail data — please open an ordinary [issue](https://github.com/stamparm/trails/issues)
 or [pull request](https://github.com/stamparm/trails/pulls).
-
-## Licence
-
-MIT, same as Maltrail. See [`LICENSE`](https://github.com/stamparm/maltrail/blob/master/LICENSE).
-
-Each file cites the report its indicators were extracted from. This is Maltrail's own compilation of
-per-report extractions — it is not a redistribution of anyone's feed. The feeds Maltrail supports
-are fetched by each deployment directly from their publishers, and are not aggregated here.
