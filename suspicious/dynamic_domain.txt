@@ -1,5 +1,5 @@
-# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
-# See the file 'LICENSE' for copying permission
+# Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
+# See the file 'LICENSE.md' for copying permission
 
 # Reference: https://www.noip.com/sign-up
 # Reference: https://gist.githubusercontent.com/neu5ron/8dd695d4cb26b6dcd997/raw/e1b1ed6fd0b0810b07c168fee028b668254ad486/dynamic-dns.txt (# registered with domains@no-ip.com)
