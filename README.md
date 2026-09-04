@@ -10,39 +10,11 @@ assembled from.
 
 ## Licence
 
-This repository is not a bulk mirror or automated aggregation of third-party threat-intelligence
-feeds. Practically every indicator here was extracted by hand from an individual report or analysis
-and carries a `# Reference:` citation to its source — overwhelmingly per-sample analysis, one
-indicator at a time. The runtime feeds supported by Maltrail are *not* part of this repository;
-each Maltrail deployment obtains those directly from their publishers. What is licensed here is our
-curation: the selection, verification, classification, attribution and arrangement of the Maltrail
-Trails corpus.
+Maltrail Trails is free for **internal defensive use** — including use by companies to protect their own systems — and for bona fide **research, education and teaching**. If you want to build current Trails content or Trails-derived intelligence into a product, service, MSSP/MDR offering, OEM integration or redistributed feed, you need separate written permission. Commercial licensing and exceptions: **sales@sekuripy.hr**.
 
-New content is published under the [Maltrail Trails Community Data License 1.0](LICENSE.md). Internal
-defensive use — by anyone, including companies — and bona fide research, teaching and publication
-are free and need no separate agreement. Building current Trails content or Trails-derived
-intelligence into a product, service, MSSP/MDR offering, OEM integration, hosted detection feature,
-or redistributed indicator feed requires separate written permission.
+Nothing already released is taken back: everything published up to and including [`e7d704c8c`](https://github.com/stamparm/trails/commit/e7d704c8c18f31eed28645cccb40fc53705f94be) remains MIT-licensed forever. New content is published under the [Maltrail Trails Community Data License 1.0](LICENSE.md) and becomes additionally available under CC BY 4.0 three years after publication. The licence covers our curated Trails corpus, not independently sourced facts or Maltrail's third-party runtime feeds.
 
-The method used to obtain the material does not change the terms that apply to it: one file, the
-whole repository, a clone, an API response, or a release artifact such as `trails.csv.gz` or
-`maltrail-malware-domains.txt` are treated according to the same licence rules. Before its Change
-Date, Licensed Material may not be used for Commercial Product Use, Service Provider Use, or
-Redistribution except under a separate written agreement. A company using Trails only to defend its
-own environment remains free Internal Defensive Use.
-
-Nothing is taken back. Everything published up to and including commit
-[`e7d704c8c`](https://github.com/stamparm/trails/commit/e7d704c8c18f31eed28645cccb40fc53705f94be)
-stays MIT permanently. Each later item of Licensed Material, and each substantive modification to
-it, becomes additionally available under CC BY 4.0 three years after its first public publication.
-The licence does not claim ownership of facts: an indicator you independently sourced is yours to
-use regardless of whether it also appears here.
-
-A tool that can import arbitrary indicators supplied by its user does not need permission merely
-because a user points it at this repository (§7). Shipping Trails as a built-in, vendor-maintained
-intelligence source does.
-
-Commercial licensing, OEM terms and exceptions: **sales@sekuripy.hr**.
+**For the exact terms, definitions and edge cases, read the [full licence](LICENSE.md).**
 
 ## Why it is not in the main repository
 
