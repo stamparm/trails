@@ -8,7 +8,7 @@ New content lands here daily. For the current size, see the newest
 [release](https://github.com/stamparm/trails/releases) — it reports the number of trails it was
 assembled from.
 
-## Licence
+## License
 
 Maltrail Trails is free for **internal defensive use** — including use by companies to protect their own systems — and for bona fide **research, education and teaching**. If you want to build current Trails content or Trails-derived intelligence into a product, service, MSSP/MDR offering, OEM integration or redistributed feed, you need separate written permission. Commercial licensing and exceptions: **sales@sekuripy.hr**.
 
