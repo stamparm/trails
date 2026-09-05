@@ -10,19 +10,19 @@ assembled from.
 
 ## License
 
-**TL;DR:** Internal defensive use, research, and teaching are free. If Maltrail Trails is systematically ingested or used as an intelligence source in a commercial product, service, MSSP/MDR offering, DNS/security service, or redistributed feed, you need separate written permission or a commercial licence. Independently obtained IOCs may still be checked against and referenced to Maltrail Trails. Attribution or a link back to the repository does not make otherwise restricted commercial use permitted.
+**TL;DR:** Internal defensive use, research, and teaching are free. If Maltrail Trails is systematically ingested or used as an intelligence source in a commercial product, service, MSSP/MDR offering, DNS/security service, or redistributed feed, you need separate written permission or a commercial license. Independently obtained IOCs may still be checked against and referenced to Maltrail Trails. Attribution or a link back to the repository does not make otherwise restricted commercial use permitted.
 
 Maltrail Trails is free for **internal defensive use** — including use by companies to protect their own systems — and for bona fide **research, education and teaching**. If you want to build current Trails content or Trails-derived intelligence into a product, service, MSSP/MDR offering, OEM integration or redistributed feed, you need separate written permission. Commercial licensing, exceptions, and proportionate terms for smaller or early-stage projects: **sales@sekuripy.hr**.
 
-Nothing already released is taken back: everything published up to and including [`e7d704c8c`](https://github.com/stamparm/trails/commit/e7d704c8c18f31eed28645cccb40fc53705f94be) remains MIT-licensed forever. New content is published under the [Maltrail Trails Community Data License 1.0](LICENSE.md) and becomes additionally available under CC BY 4.0 three years after publication. The licence covers our curated Trails corpus, not independently sourced facts or Maltrail's third-party runtime feeds.
+Nothing already released is taken back: everything published up to and including [`e7d704c8c`](https://github.com/stamparm/trails/commit/e7d704c8c18f31eed28645cccb40fc53705f94be) remains MIT-licensed forever. New content is published under the [Maltrail Trails Community Data License 1.0](LICENSE.md) and becomes additionally available under CC BY 4.0 three years after publication. The license covers our curated Trails corpus, not independently sourced facts or Maltrail's third-party runtime feeds.
 
-**For the exact terms, definitions and edge cases, read the [full licence](LICENSE.md).**
+**For the exact terms, definitions and edge cases, read the [full license](LICENSE.md).**
 
 ### Commercial use clarification
 
 If you obtained an IOC independently and only use Maltrail Trails as a reference or corroborating source, that is fine.
 
-If Maltrail Trails itself is ingested, indexed, processed, correlated, or otherwise used as an input to a commercial product or service, the commercial licence terms apply.
+If Maltrail Trails itself is ingested, indexed, processed, correlated, or otherwise used as an input to a commercial product or service, the commercial license terms apply.
 
 Providing attribution or a link back to Maltrail Trails does not change that.
 
@@ -146,7 +146,7 @@ By submitting material for inclusion in Maltrail Trails, you agree to [§10](LIC
 contribution is accepted or incorporated into the official repository, then to the maximum extent
 permitted by law you assign to Mikhail Kasimov and Miroslav Stampar all transferable rights you own
 or control in that accepted contribution. Where a right cannot legally be assigned, §10 provides a
-perpetual, irrevocable, transferable and sublicensable fallback licence so the accepted contribution
+perpetual, irrevocable, transferable and sublicensable fallback license so the accepted contribution
 can be maintained, commercially licensed and later made available under CC BY 4.0 with the rest of
 Maltrail Trails. A submission that is not accepted or incorporated is not assigned merely because
 you sent it. If you do not agree to those terms, do not submit material for inclusion.
