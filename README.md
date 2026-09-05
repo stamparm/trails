@@ -10,7 +10,7 @@ assembled from.
 
 ## License
 
-**TL;DR:** Internal defensive use, research, and teaching are free. If Maltrail Trails is used as an input to a commercial product, service, MSSP/MDR offering, DNS/security service, or redistributed feed, you need separate written permission or a commercial licence. Attribution or a link back to the repository does not replace that requirement.
+**TL;DR:** Internal defensive use, research, and teaching are free. If Maltrail Trails is systematically ingested or used as an intelligence source in a commercial product, service, MSSP/MDR offering, DNS/security service, or redistributed feed, you need separate written permission or a commercial licence. Independently obtained IOCs may still be checked against and referenced to Maltrail Trails. Attribution or a link back to the repository does not make otherwise restricted commercial use permitted.
 
 Maltrail Trails is free for **internal defensive use** — including use by companies to protect their own systems — and for bona fide **research, education and teaching**. If you want to build current Trails content or Trails-derived intelligence into a product, service, MSSP/MDR offering, OEM integration or redistributed feed, you need separate written permission. Commercial licensing and exceptions: **sales@sekuripy.hr**.
 
