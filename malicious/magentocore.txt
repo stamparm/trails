@@ -19060,7 +19060,7 @@ link.geelinc.com
 88.216.72.181:8088
 88.216.72.181:8443
 88.216.72.181:9999
-99.84.67.186:443
+# 99.84.67.186:443
 cdnflare.xyz
 girispoliwin.com
 poliwin-giris-yap.com
