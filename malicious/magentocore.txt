@@ -1,7 +1,7 @@
 # Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
 # See the file 'LICENSE.md' for copying permission
 
-# Aliases: magecart
+# Aliases: magecart, stylesmuggler
 
 # Reference: https://gwillem.gitlab.io/2018/08/30/magentocore.net_skimmer_most_aggressive_to_date/
 
@@ -19048,6 +19048,31 @@ cloudflare-static4.ph
 # Reference: https://x.com/sdcyberresearch/status/2095145354429599903
 
 link.geelinc.com
+
+# Reference: https://x.com/sansecio/status/2096297641785049301
+# Reference: https://sansec.io/research/stylesmuggler
+# HEADER_HASH-HOST=c58101f34d5498617d47
+
+88.216.72.181:3000
+88.216.72.181:443
+88.216.72.181:8080
+88.216.72.181:8081
+88.216.72.181:8088
+88.216.72.181:8443
+88.216.72.181:9999
+99.84.67.186:443
+cdnflare.xyz
+girispoliwin.com
+poliwin-giris-yap.com
+poliwin1000.com
+poliwingir.com
+poliwingiris.com
+poliwingunceladres.com
+poliwintrack.com
+poliwinvip.com
+poliyegir.com
+245.cdnflare.xyz
+247.cdnflare.xyz
 
 # Generic
 
