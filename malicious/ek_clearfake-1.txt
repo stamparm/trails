@@ -15237,8 +15237,18 @@ updates.howclens.com
 verify.mayboume.com
 
 # Reference: https://x.com/Shammahwoods/status/2096179381270118456
+# BODY_SHA1-HOST=1956d11c8a0fd6801de46e04519d6c495364f1c3
+# TITLE-HOST=Verifying...
 
 citywebntw.com
+cloud-813.pages.dev
+cloudcheckic.com
+cloudfeeld.com
+cloudflarecheck.live
+fasturboupload.com
+helpcloudic.com
+mcloudlook.com
+mycheckcloud.com
 
 # Generic
 
