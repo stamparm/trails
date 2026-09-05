@@ -10,11 +10,21 @@ assembled from.
 
 ## License
 
+**TL;DR:** Internal defensive use, research, and teaching are free. If Maltrail Trails is used as an input to a commercial product, service, MSSP/MDR offering, DNS/security service, or redistributed feed, you need separate written permission or a commercial licence. Attribution or a link back to the repository does not replace that requirement.
+
 Maltrail Trails is free for **internal defensive use** — including use by companies to protect their own systems — and for bona fide **research, education and teaching**. If you want to build current Trails content or Trails-derived intelligence into a product, service, MSSP/MDR offering, OEM integration or redistributed feed, you need separate written permission. Commercial licensing and exceptions: **sales@sekuripy.hr**.
 
 Nothing already released is taken back: everything published up to and including [`e7d704c8c`](https://github.com/stamparm/trails/commit/e7d704c8c18f31eed28645cccb40fc53705f94be) remains MIT-licensed forever. New content is published under the [Maltrail Trails Community Data License 1.0](LICENSE.md) and becomes additionally available under CC BY 4.0 three years after publication. The licence covers our curated Trails corpus, not independently sourced facts or Maltrail's third-party runtime feeds.
 
 **For the exact terms, definitions and edge cases, read the [full licence](LICENSE.md).**
+
+### Commercial use clarification
+
+If you obtained an IOC independently and only use Maltrail Trails as a reference or corroborating source, that is fine.
+
+If Maltrail Trails itself is ingested, indexed, processed, correlated, or otherwise used as an input to a commercial product or service, the commercial licence terms apply.
+
+Providing attribution or a link back to Maltrail Trails does not change that.
 
 ## Why it is not in the main repository
 
@@ -148,6 +158,5 @@ or [pull request](https://github.com/stamparm/trails/pulls).
 
 A domain-only list derived from the `malware/` static trails is published at
 [`maltrail-malware-domains.txt`](https://github.com/stamparm/trails/releases/latest/download/maltrail-malware-domains.txt).
-It can be used as an input to DNS filtering systems, but operators should review and test it before
-enabling blocking. Threat-intelligence lists can contain false positives or indicators that are not
-appropriate for every environment.
+
+It can be used as an input to DNS filtering systems, subject to the terms in [`LICENSE.md`](https://github.com/stamparm/trails/blob/main/LICENSE.md). Operators should review and test it before enabling blocking, as threat-intelligence lists can contain false positives or indicators that are not appropriate for every environment.
