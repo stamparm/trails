@@ -52,6 +52,7 @@ enter-press-code.info
 enter-pverif-code.info
 ethercdnns.beer
 felicitatgs.cc
+fingerprint-veri.info
 fingerprint-verification.info
 framework-css-styles-js.beer
 framework-jsoncdn.beer
