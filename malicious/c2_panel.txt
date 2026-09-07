@@ -1716,6 +1716,11 @@ scalemadisondeck.co
 shapeinpay.com
 sweet-haslett.158-94-209-138.plesk.page
 
+# Reference: https://x.com/BlinkzSec/status/2097025296402678142
+# TITLE-HOST/IP=Giriş - C2C
+
+wp.offrep.com
+
 # Generic
 
 /admin_123/auth.php
