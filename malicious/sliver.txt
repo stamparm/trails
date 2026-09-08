@@ -8715,6 +8715,13 @@ thtttttttt.lidiasdeli.com
 ashveil.org
 c2.ashveil.org
 
+# Reference: https://x.com/Hunters_Ledger/status/2097007691503656974
+# Reference: https://the-hunters-ledger.com/reports/sliver-c2-windows-postex-staging-193-233-202-17/
+# Reference: https://www.virustotal.com/gui/file/f03e1d0951f4d0744939a0cc7da7730ab367ec9420c1a77cc7f97dc0932de652/detection
+
+193.233.202.17:8088
+/slv_beacon_sc.bin
+
 # Generic
 
 /.sliver-client/
