@@ -76,10 +76,14 @@ jobs:
           # historical name: NextDNS, NoTracking, pfBlockerNG, MobSF and MobileAudit each hardcode
           # a URL to a plain text file, and handing them a .gz would break them a second time.
           sha256sum maltrail-malware-domains.txt | cut -d' ' -f1 > maltrail-malware-domains.txt.sha256
-          echo "[i] domains    $(wc -l < maltrail-malware-domains.txt) names, $(stat -c%s maltrail-malware-domains.txt) bytes"
-          echo "domains=$(wc -l < maltrail-malware-domains.txt)" >> "$GITHUB_OUTPUT"
+          # Counted with the licence header excluded. core.assemble prepends ten '#' lines to
+          # both published artifacts, and `wc -l` counts them - which would overstate every number
+          # this job reports and prints, and quietly raise the collapse floors below by ten.
+          entries() { grep -cve '^#' "$1"; }
+          echo "[i] domains    $(entries maltrail-malware-domains.txt) names, $(stat -c%s maltrail-malware-domains.txt) bytes"
+          echo "domains=$(entries maltrail-malware-domains.txt)" >> "$GITHUB_OUTPUT"
           echo "sha=$(cat trails.csv.sha256)" >> "$GITHUB_OUTPUT"
-          echo "rows=$(wc -l < trails.csv)" >> "$GITHUB_OUTPUT"
+          echo "rows=$(entries trails.csv)" >> "$GITHUB_OUTPUT"
           echo "engine=$(git -C "$GITHUB_WORKSPACE/maltrail" rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
 
       # An empty or tiny aggregate published to every sensor is the worst outcome available: it
@@ -149,7 +153,14 @@ jobs:
               https://github.com/stamparm/trails/releases/latest/download/maltrail-malware-domains.txt
 
           Review and test before enabling blocking - a threat-intelligence list can carry false
-          positives and indicators that do not suit every environment." \
+          positives and indicators that do not suit every environment.
+
+          Licensed under the Maltrail Trails Community Data License 1.0. Free to defend systems
+          you or your organization operate, and for research and education; building it into a
+          product, service or managed offering for third parties needs separate written
+          permission. Every artifact here carries the same summary in its own header.
+
+              https://github.com/stamparm/trails/blob/master/LICENSE.md" \
             "$GITHUB_WORKSPACE/trails.csv.gz" \
             "$GITHUB_WORKSPACE/trails.csv.sha256" \
             "$GITHUB_WORKSPACE/trails-provenance.bin.gz" \
