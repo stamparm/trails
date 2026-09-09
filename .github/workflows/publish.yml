@@ -80,11 +80,18 @@ jobs:
           # both published artifacts, and `wc -l` counts them - which would overstate every number
           # this job reports and prints, and quietly raise the collapse floors below by ten.
           entries() { grep -cve '^#' "$1"; }
-          echo "[i] domains    $(entries maltrail-malware-domains.txt) names, $(stat -c%s maltrail-malware-domains.txt) bytes"
-          echo "domains=$(entries maltrail-malware-domains.txt)" >> "$GITHUB_OUTPUT"
-          echo "sha=$(cat trails.csv.sha256)" >> "$GITHUB_OUTPUT"
-          echo "rows=$(entries trails.csv)" >> "$GITHUB_OUTPUT"
-          echo "engine=$(git -C "$GITHUB_WORKSPACE/maltrail" rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+          # Once each, into a variable: the domain list is 18 MB and the aggregate 82 MB, and the
+          # count was being taken twice for the domains - once to print, once to publish.
+          domain_count=$(entries maltrail-malware-domains.txt)
+          row_count=$(entries trails.csv)
+          echo "[i] domains    $domain_count names, $(stat -c%s maltrail-malware-domains.txt) bytes"
+          # One redirect rather than four (SC2129).
+          {
+            echo "domains=$domain_count"
+            echo "sha=$(cat trails.csv.sha256)"
+            echo "rows=$row_count"
+            echo "engine=$(git -C "$GITHUB_WORKSPACE/maltrail" rev-parse --short HEAD)"
+          } >> "$GITHUB_OUTPUT"
 
       # An empty or tiny aggregate published to every sensor is the worst outcome available: it
       # installs, starts, serves a dashboard and detects nothing. core.assemble already refuses to
