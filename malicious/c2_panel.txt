@@ -1721,6 +1721,11 @@ sweet-haslett.158-94-209-138.plesk.page
 
 wp.offrep.com
 
+# Reference: https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
+
+/panel/cmd/bot
+/proxy-panel/cmd/bot
+
 # Generic
 
 /admin_123/auth.php
