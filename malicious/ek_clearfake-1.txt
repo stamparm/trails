@@ -16075,6 +16075,11 @@ zyrivu.halcyonhempltd.com
 
 granoco.com
 
+# Reference: https://x.com/thebluesec/status/2097794530036899860
+# Reference: https://urlscan.io/result/01a08b43-66d2-73af-9ff5-004a2830293d/
+
+rmsschicago.com
+
 # Generic
 
 /clickfix-callback
