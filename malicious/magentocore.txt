@@ -19097,6 +19097,10 @@ poliyegir.com
 245.cdnflare.xyz
 247.cdnflare.xyz
 
+# Reference: https://x.com/sdcyberresearch/status/2098024008818028708
+
+checkout-cdn.com
+
 # Generic
 
 /assets/lfg.js
