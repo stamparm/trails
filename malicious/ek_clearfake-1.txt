@@ -16080,6 +16080,10 @@ granoco.com
 
 rmsschicago.com
 
+# Reference: https://www.zscaler.com/blogs/security-research/sloppyrat-new-tool-ransomware-attacks
+
+finger.linked4x.com
+
 # Generic
 
 /clickfix-callback
