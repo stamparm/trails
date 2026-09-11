@@ -1187,3 +1187,7 @@ podathon.org/shell/
 /new_shell_bypass.php
 /new_shell_short.php
 /shell-deploy.zip
+
+# Reference: https://www.virustotal.com/gui/ip-address/144.172.100.105/relations
+
+/shellprobe
