@@ -10024,6 +10024,10 @@ drvdb9rcebidk.cloudfront.net
 /cve-2026-15409-exploit.py
 /cve-2026-15409.py
 
+# Reference: https://www.virustotal.com/gui/ip-address/144.172.100.105/relations
+
+/skimmer.js
+
 # Generic
 
 /5c0ca79.php
