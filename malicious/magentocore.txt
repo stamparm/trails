@@ -19101,6 +19101,10 @@ poliyegir.com
 
 checkout-cdn.com
 
+# Reference: https://x.com/Scott_Helme/status/2098325907714822468
+
+static-lab.com
+
 # Generic
 
 /assets/lfg.js
