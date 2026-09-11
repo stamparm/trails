@@ -19102,8 +19102,11 @@ poliyegir.com
 checkout-cdn.com
 
 # Reference: https://x.com/Scott_Helme/status/2098325907714822468
+# TITLE-HOST=Script CDN — Remote Script Delivery
 
+cdn-asset.net
 static-lab.com
+static-lib.com
 
 # Generic
 
