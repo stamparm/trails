@@ -10019,6 +10019,7 @@ drvdb9rcebidk.cloudfront.net
 
 # Reference: https://hunt.io/blog/sonicwall-sma1000-uk-council-attack
 
+/auto_secretsdump.py
 /cve-2026-15409-check.py
 /cve-2026-15409-exploit.py
 /cve-2026-15409.py
