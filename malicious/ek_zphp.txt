@@ -1397,6 +1397,7 @@ coralmanor.top
 coralregistry.top
 coralwayfinder.top
 crimsonmarket.top
+crimsonroundel.info
 crimsonterrace.top
 crystalforgeway.top
 crystalmarket.top
@@ -1502,8 +1503,10 @@ silvermaplechronicle.com
 silvertrailhub.top
 skylinemerchantstudio.com
 slatebeacon.top
+snowberrygazette.co
 sorrelalmanac.top
 sousacpa.lat
+spindlewoodatlas.co
 sslgstatic.main.codeespring.com
 stoneharvest.top
 tarnandvermilion.com
@@ -1531,6 +1534,7 @@ westbrookexchange.com
 willowgazette.top
 willowregistry.top
 willowsummit.top
+winterberrycanto.co
 projectphp.duckdns.org
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-03-12-v10877/2511
