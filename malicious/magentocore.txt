@@ -19108,6 +19108,13 @@ cdn-asset.net
 static-lab.com
 static-lib.com
 
+# Reference: https://app.validin.com/detail?find=skimmer.js&type=dom&ref_id=200f013a759#tab=host_pairs (# 2026-09-12)
+
+144.172.100.105:4444
+144.172.100.105:8080
+144.172.100.105:8081
+46.226.162.32:8888
+
 # Generic
 
 /assets/lfg.js
