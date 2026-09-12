@@ -10032,6 +10032,10 @@ drvdb9rcebidk.cloudfront.net
 
 /bttc-usosbttcus-osbt-tcus_osbt_tcusosbttcusosbttcusosbttcusosbttcusospmrhvlvbwa-lfps-iaejqllfvm-uxct-nepmvvlhlpjosulh-bsjpwsaotwptscpyahbazsgx.php
 
+# Reference: https://www.virustotal.com/gui/file/128b202c360e74c38006d37b8814f054087f356f9f33f3c93e236874d30ecd17/detection
+
+/bhpgllao-wari-ryvi-yydnws-kkzqznbqnogb-jvck-vbpu-gkbb_hbfcea-ubhf-xkvwlnldhb-ggvlhtpcpoytaolzusfe_hqisdp-fjzh_qdrmfc-mfcabqrulhbiyyupvygfwrab-lzxohz.php
+
 # Generic
 
 /5c0ca79.php
