@@ -1,0 +1,14 @@
+# Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
+# See the file 'LICENSE.md' for copying permission
+
+# Reference: https://www.malware-traffic-analysis.net/2013/12/27/index.html
+
+55sku55iq555o5o.com
+answers-to.com
+bholaschildrenfoundation.com
+butch-femme.com
+gqillqigqilqigqiqlqiigqilqiiiqgg.esmtp.biz
+k88t9rilh62bvw1nu39.4pu.com
+q9g7p91agtymil024yd.jvvg.org
+report.55sku55iq555o5o.com
+v5ipk3gc8hug1du9459.4pu.com
