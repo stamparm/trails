@@ -10036,6 +10036,10 @@ drvdb9rcebidk.cloudfront.net
 
 /bhpgllao-wari-ryvi-yydnws-kkzqznbqnogb-jvck-vbpu-gkbb_hbfcea-ubhf-xkvwlnldhb-ggvlhtpcpoytaolzusfe_hqisdp-fjzh_qdrmfc-mfcabqrulhbiyyupvygfwrab-lzxohz.php
 
+# Reference: https://www.malware-traffic-analysis.net/2013/11/23/index.html
+
+/9cfb37b8iq/get.js
+
 # Generic
 
 /5c0ca79.php
