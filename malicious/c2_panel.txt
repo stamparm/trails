@@ -1726,6 +1726,10 @@ wp.offrep.com
 /panel/cmd/bot
 /proxy-panel/cmd/bot
 
+# Reference: https://x.com/Fact_Finder03/status/2098822950073913513
+
+43.157.198.190:5000
+
 # Generic
 
 /admin_123/auth.php
