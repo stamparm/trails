@@ -10106,6 +10106,10 @@ drvdb9rcebidk.cloudfront.net
 /DllQueVaiNoClient.py
 /DllQueVaiNoClient.pyc
 /dating-verification-card.php
+/dropper.hta
+/dropper.ps1
+/dropper.py
+/dropper.pyc
 /encrypted_shellcode.txt
 /evreigate.php
 /exploit.py
