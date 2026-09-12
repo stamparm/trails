@@ -10028,6 +10028,10 @@ drvdb9rcebidk.cloudfront.net
 
 /skimmer.js
 
+# Reference: https://www.malware-traffic-analysis.net/2013/12/26/index.html
+
+/bttc-usosbttcus-osbt-tcus_osbt_tcusosbttcusosbttcusosbttcusosbttcusospmrhvlvbwa-lfps-iaejqllfvm-uxct-nepmvvlhlpjosulh-bsjpwsaotwptscpyahbazsgx.php
+
 # Generic
 
 /5c0ca79.php
