@@ -17357,15 +17357,21 @@ i.cdn-typekit.com
 # Reference: https://www.virustotal.com/gui/ip-address/37.120.151.100/relations
 # BANNER_0_HASH-HOST=ff02211d9fdbbfca111971149b440060
 # ETAG-HOST=W/"67bd5f3d-264"
+# FAVICON_HASH-HOST=a2185e801ef41d8ccf675dd7de9b3261
 # HEADER_HASH-HOST=e5e15ed4888ff804d4d7
 # HEADER_HASH-HOST=e5e17f5ccbbdb2cafc2c
 
+11.riot-plat.xyz
+1f.riotplat.club
+1u.riotplat.site
 1z.riotplat.shop
 4b.fancourier.vip
 7g.fancourier.cyou
+7m.riotplat.online
 affirman.com
 api.kupui.biz
 arvelito.com
+base-mfg.com
 biokorq.com
 biolynq.com
 blogtitop.com
@@ -17427,6 +17433,7 @@ linistat.info
 livestats.info
 luckshow.co
 lunexi.art
+mail.base-mfg.com
 mail.cdn-cookie.com
 mail.cdn-gstatic.com
 mail.detail-best.com
@@ -17441,23 +17448,42 @@ newasest.com
 nolvrixa.com
 omappepi.com
 pc.riot-ex.cc
+pc.riot-ex.vip
+pc.riotpro.cc
 plothranex.com
 qarfylon.com
 quarvixin.com
 qverix.com
 reqred.com
 riot-ex.cc
+riot-ex.com
 riot-ex.net
+riot-ex.top
+riot-ex.vip
+riot-plat.cc
 riot-plat.com
+riot-plat.info
 riot-plat.net
+riot-plat.site
 riot-plat.top
 riot-plat.vip
+riot-plat.xyz
+riot-pro.com
 riotplat.cc
 riotplat.cloud
+riotplat.club
+riotplat.com
 riotplat.info
+riotplat.net
+riotplat.online
+riotplat.pro
 riotplat.shop
+riotplat.site
 riotplat.top
+riotplat.vip
 riotplat.xyz
+riotpro.cc
+riotpro.top
 rivbyte.com
 rnogento.com
 rovaxilo.com
@@ -17465,6 +17491,7 @@ sandvortex.com
 sgravatar.org
 sincklink.com
 sitvex.com
+sj.riotpro.cc
 snogrid.com
 softogo.net
 splnt.com
@@ -17488,10 +17515,15 @@ vireon.lol
 vrydex.com
 vrylane.com
 wavekernel.com
+wg.riotpro.top
 wobfyx.com
 wobmi.com
+x5.riot-pro.com
 xanryl.com
 xolvramiq.com
+yk.riotplat.com
+z0.riotplat.vip
+z2.riotplat.pro
 zoltar.sbs
 zorthumel.com
 zt.riot-plat.com
