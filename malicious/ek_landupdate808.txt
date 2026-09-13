@@ -1060,6 +1060,7 @@ wxqdcakvuv.com
 vsactivens.sbs
 
 # Reference: https://x.com/skocherhan/status/2079357326184632386
+# HOST-HEADER_HASH=e5801a99eaa0899bb91c
 
 aatthews.cfd
 abernaehy.lol
@@ -1068,25 +1069,31 @@ aeshire.click
 almontm.xyz
 anguiano.study
 arernathy.sbs
+azevedo.lol
 barringer.click
 bbvalues.uk
 bechteltr.lol
 bitista.icu
 blbnchard.lol
+bogisibh.xyz
 boulangeo.lol
 bradtkr.com
 brrseno.garden
 bruneau.lol
+caapman.me
+chappan.lol
 chauvet.club
 chauviu.lol
 conareras.study
 corraia.icu
+corralos.beer
 correia.lol
 cummcngs.lol
 cwrtwright.com
 deornhem.garden
 dground.org
 dialectum.com
+eelorme.lol
 eichmnnn.icu
 espossto.lol
 estevss.icu
@@ -1096,13 +1103,18 @@ fontanf.lol
 fundivox.com
 gautter.lol
 goncllves.click
+gonznlez.surf
+griffihhs.click
 guiglen.sbs
+guilbert.lol
 guirreiro.lol
 heethcote.com
 hegmaen.com
 henriqueq.xyz
+herndndes.beer
 hodkiewhcz.sbs
 hrrrison.sbs
+iosselin.lol
 jnlysj.com
 keneedy.lol
 kerluku.lol
@@ -1110,6 +1122,7 @@ kovkcek.com
 kumlman.lol
 kurluke.lol
 kusikowski.sbs
+leconto.lol
 leusceke.com
 lislason.lol
 lolfler.lol
@@ -1118,6 +1131,8 @@ loureiru.lol
 luthel.com
 marhhetti.sbs
 marqueq.lol
+marshalh.icu
+mathiuu.surf
 meduurst.space
 meharsons.com
 mermiston.com
@@ -1139,16 +1154,21 @@ oliveiaa.icu
 olovier.lol
 olovier.top
 omnivectis.com
+oosterhout.click
+phiplips.click
 pottoer.lol
 quiglgy.com
 quilborne.org
 quorumix.com
+randenbrink.lol
 raventhorp.org
 reynoldy.lol
 riccardson.click
 riihard.lol
 riihard.top
 ritchie.click
+rochardson.me
+rodrigeez.surf
 rodrizuez.garden
 roeerts.cfd
 roterts.lol
@@ -1159,12 +1179,16 @@ saxonfield.org
 schamserger.top
 schluter.lol
 schulist.sbs
+schulzc.lol
 schuttc.lol
+shhuster.lol
 sigmatauethifarma.com
+stevsns.lol
 stromao.com
 swewart.sbs
 titchell.lol
 treviro.icu
+uolguin.cfd
 vandelvelden.space
 vandenheuvll.lol
 vilialobos.lol
@@ -1173,4 +1197,5 @@ watsiia.top
 weissnat.org
 windlrr.com
 wintseiser.com
+yelahaye.surf
 zgsjyxzx.com
