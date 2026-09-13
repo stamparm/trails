@@ -1060,6 +1060,7 @@ wxqdcakvuv.com
 vsactivens.sbs
 
 # Reference: https://x.com/skocherhan/status/2079357326184632386
+# HEADER_HASH-HOST=f50059fffdfb8aed1847
 # HOST-HEADER_HASH=e5801a99eaa0899bb91c
 
 aatthews.cfd
@@ -1071,16 +1072,19 @@ anguiano.study
 arernathy.sbs
 azevedo.lol
 barringer.click
+bauabach.lol
 bbvalues.uk
 bechteltr.lol
 bitista.icu
 blbnchard.lol
 bogisibh.xyz
 boulangeo.lol
+bouoher.lol
 bradtkr.com
 brrseno.garden
 bruneau.lol
 caapman.me
+chaphan.click
 chappan.lol
 chauvet.club
 chauviu.lol
@@ -1165,6 +1169,7 @@ randenbrink.lol
 raventhorp.org
 reynoldy.lol
 riccardson.click
+richardsin.click
 riihard.lol
 riihard.top
 ritchie.click
