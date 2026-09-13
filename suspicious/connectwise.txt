@@ -7858,3 +7858,12 @@ zeroapp23.com
 # Reference: https://x.com/0xb1lal/status/2097068147303956740
 
 http://207.174.0.143
+
+# Reference: https://www.virustotal.com/gui/ip-address/151.241.154.16/relations
+# Reference: https://www.virustotal.com/gui/file/56a7f7a10e65c32a0d3a5b5d47c6c4c733a234b0e07c3cd9059325b221d2a116/detection
+
+151.241.154.16:443
+151.241.154.16:8041
+comprehensive.click
+devquanta.xyz
+zentorox.click
