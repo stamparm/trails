@@ -1064,7 +1064,9 @@ vsactivens.sbs
 # HOST-HEADER_HASH=e5801a99eaa0899bb91c
 
 aatthews.cfd
+abernaahy.sbs
 abernaehy.lol
+ackeamann.xyz
 ackerkann.lol
 aeshire.click
 almontm.xyz
@@ -1105,6 +1107,7 @@ estevss.icu
 ethervane.com
 exoosito.com
 fontanf.lol
+fraitas.lol
 fundivox.com
 gautter.lol
 goncllves.click
@@ -1128,6 +1131,7 @@ kumlman.lol
 kurluke.lol
 kusikowski.sbs
 leconto.lol
+ledesla.cfd
 leusceke.com
 lislason.lol
 lolfler.lol
@@ -1141,6 +1145,7 @@ mathiuu.surf
 meduurst.space
 meharsons.com
 mermiston.com
+moielli.xyz
 monteiro.click
 monterro.click
 montoiro.lol
@@ -1168,12 +1173,15 @@ quilborne.org
 quorumix.com
 randenbrink.lol
 raventhorp.org
+reindardt.lol
 reynoldy.lol
 riccardson.click
 richardsin.click
 riihard.lol
 riihard.top
 ritchie.click
+riviere.sbs
+robests.lol
 rochardson.me
 rodrigeez.surf
 rodrizuez.garden
@@ -1184,6 +1192,7 @@ saaverra.sbs
 saewart.lol
 saxonfield.org
 schamserger.top
+schester.beer
 schluter.lol
 schulist.sbs
 schulzc.lol
@@ -1191,6 +1200,7 @@ schuttc.lol
 shhuster.lol
 sigmatauethifarma.com
 stevsns.lol
+streith.beer
 stromao.com
 swewart.sbs
 titchell.lol
