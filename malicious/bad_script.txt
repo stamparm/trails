@@ -10040,6 +10040,11 @@ drvdb9rcebidk.cloudfront.net
 
 /9cfb37b8iq/get.js
 
+# Reference: https://www.acronis.com/en/tru/posts/red-heron-exploits-gitea-n-day-flaw-in-multinational-campaign-exposing-new-linux-rootkit/
+
+/cve-2026-60004.py
+/cve-2026-60004/
+
 # Generic
 
 /5c0ca79.php
