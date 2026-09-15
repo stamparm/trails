@@ -1728,6 +1728,11 @@ wp.offrep.com
 /panel/cmd/bot
 /proxy-panel/cmd/bot
 
+# Reference: https://www.virustotal.com/gui/ip-address/31.76.28.89/relations
+# TITLE-HOST/IP=DVIZHUXA
+
+31.76.28.89:8080
+
 # Generic
 
 /admin_123/auth.php
