@@ -8148,6 +8148,10 @@ zynwh37550.workers.dev
 zytacisy.workers.dev
 zyzimy.workers.dev
 
+# Reference: https://www.virustotal.com/gui/file/232c9fb281af0ebf9932efab02ecfa1c8e7bc81ea35eb61e47e642c831a11550/detection
+
+wpresourcerelay.info
+
 # Generic
 
 /wp-imcludes/
