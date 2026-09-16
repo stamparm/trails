@@ -8155,6 +8155,15 @@ zyzimy.workers.dev
 wprelay.pages.dev
 wpresourcerelay.info
 
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.45.22/relations
+
+wp-js.com
+cdn.wp-js.com
+files.wp-js.com
+js.wp-js.com
+static.wp-js.com
+stats.wp-js.com
+
 # Generic
 
 /wp-imcludes/
