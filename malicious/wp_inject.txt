@@ -8149,7 +8149,10 @@ zytacisy.workers.dev
 zyzimy.workers.dev
 
 # Reference: https://www.virustotal.com/gui/file/232c9fb281af0ebf9932efab02ecfa1c8e7bc81ea35eb61e47e642c831a11550/detection
+# CLASS_0_HASH-HOST=27efba8acb9cbcd1bdf576a2c7d4cf6c
+# FAVICON_HASH-HOST=cd399320958ad4cc7e8cfd741398c47b
 
+wprelay.pages.dev
 wpresourcerelay.info
 
 # Generic
