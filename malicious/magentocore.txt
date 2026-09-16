@@ -16785,12 +16785,17 @@ box2.kof.one
 mago.kof.one
 
 # Reference: https://x.com/_eremit4/status/1957969714740699221
+# Reference: https://x.com/BlinkzSec/status/2100194031485460804
+# Reference: https://x.com/dansl0w_/status/2100214260848529858
 # Reference: https://www.virustotal.com/gui/ip-address/104.21.48.1/relations
 # Reference: https://www.virustotal.com/gui/ip-address/104.21.65.136/relations
+# Reference: https://deobfuscate.run/app/9ab1b350c97cc76b
 
+http://144.172.84
 anl.is
 blz.is
 eqp.is
+r1.fo
 snf.is
 
 # Reference: https://x.com/sdcyberresearch/status/1929892055020401016
