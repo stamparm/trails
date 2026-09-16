@@ -16791,7 +16791,7 @@ mago.kof.one
 # Reference: https://www.virustotal.com/gui/ip-address/104.21.65.136/relations
 # Reference: https://deobfuscate.run/app/9ab1b350c97cc76b
 
-http://144.172.84
+http://144.172.84.8
 anl.is
 blz.is
 eqp.is
