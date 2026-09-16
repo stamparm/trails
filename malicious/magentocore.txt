@@ -16790,12 +16790,22 @@ mago.kof.one
 # Reference: https://www.virustotal.com/gui/ip-address/104.21.48.1/relations
 # Reference: https://www.virustotal.com/gui/ip-address/104.21.65.136/relations
 # Reference: https://deobfuscate.run/app/9ab1b350c97cc76b
+# BODY_SHA1-HOST=ccbb66cfe0177b9b8c807e66ca1ffd2c57838835
 
 http://144.172.84.8
+alfab1.durban
 anl.is
+api.alfab1.durban
 blz.is
+cb.gy
+cdn.limbersoftware.comimg.com
+comimg.com
+cx.gy
 eqp.is
+import.ht
 r1.fo
+rush.cx
+rush.do
 snf.is
 
 # Reference: https://x.com/sdcyberresearch/status/1929892055020401016
