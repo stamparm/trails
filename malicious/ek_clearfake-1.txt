@@ -16554,6 +16554,14 @@ yearbeauty214.buzz
 yl.thinkbuy.icu
 zigelpi12.life
 
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-09-17-A-New-Wave-of-ClickFix-Activity.txt
+
+eng-en--lipovive.com
+eng-eng-aquaburn.us
+34fgt76ty4u5.eng-eng-cardioslim.com
+rbreudjsltof.eng-eng-aquaburn.us
+ry3ix78aj58e.eng-en--lipovive.com
+
 # Generic
 
 /clickfix-callback
