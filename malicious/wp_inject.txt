@@ -8164,6 +8164,10 @@ js.wp-js.com
 static.wp-js.com
 stats.wp-js.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.66.243/relations
+
+wp-elementor.com
+
 # Generic
 
 /wp-imcludes/
