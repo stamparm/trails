@@ -16555,12 +16555,25 @@ yl.thinkbuy.icu
 zigelpi12.life
 
 # Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-09-17-A-New-Wave-of-ClickFix-Activity.txt
+# FAVICON_HASH-HOST=ff0dbcaa674cce196821189cc2d37576
 
+34fgt76ty4u5.eng-eng-cardioslim.com
+en-us-lipovive.com
+en-us-lipovive.qzy.wkw.mybluehostin.me
 eng-en--lipovive.com
 eng-eng-aquaburn.us
-34fgt76ty4u5.eng-eng-cardioslim.com
+eng-lipovive.com
+eng-lipovive.qzy.wkw.mybluehostin.me
+mail.en-us-lipovive.com
+mail.eng-lipovive.com
+mail.us-en-lipovive.com
+mail.usa-lipovive.com
 rbreudjsltof.eng-eng-aquaburn.us
 ry3ix78aj58e.eng-en--lipovive.com
+us-en-lipovive.com
+us-en-lipovive.qzy.wkw.mybluehostin.me
+usa-lipovive.com
+usa-lipovive.qzy.wkw.mybluehostin.me
 
 # Generic
 
