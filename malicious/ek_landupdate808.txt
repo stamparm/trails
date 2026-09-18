@@ -1054,7 +1054,7 @@ zexxario.com
 
 4llowme2night.com
 
-# Reference: # Reference: https://www.linkedin.com/pulse/clickfix-campaign-analysis-metateam1337x-afk-daniel-b-8h2ie/
+# Reference: https://www.linkedin.com/pulse/clickfix-campaign-analysis-metateam1337x-afk-daniel-b-8h2ie/
 
 wxqdcakvuv.com
 vsactivens.sbs
@@ -1063,6 +1063,14 @@ vsactivens.sbs
 # HEADER_HASH-HOST=f50059fffdfb8aed1847
 # HOST-HEADER_HASH=e5801a99eaa0899bb91c
 
+10.tripsscan18.cc
+10.tripsscan45.cc
+10.tripsscan63.cc
+12.tripsscan38.cc
+13.tripsscan39.cc
+1u.tripscan.tips
+3g.trips93.cc
+4r.tripsscan62.win
 aatthews.cfd
 abernaahy.sbs
 abernaehy.lol
@@ -1081,6 +1089,7 @@ bechteltr.lol
 bitista.icu
 blbnchard.lol
 bogisibh.xyz
+boiseno.club
 boulangeo.lol
 bouoher.lol
 bradtkr.com
@@ -1095,12 +1104,14 @@ chaphan.click
 chappan.lol
 chauvet.club
 chauviu.lol
+client.trips98.cc
 conareras.study
 corraia.icu
 corralos.beer
 correia.lol
 cummcngs.lol
 cwrtwright.com
+d.trips93.cc
 deornhem.garden
 dground.org
 dialectum.com
@@ -1121,6 +1132,7 @@ goncllves.click
 gonznlez.surf
 greenw8.site
 greenw9.report
+greenw9.shopping
 griffihhs.click
 guiglen.sbs
 guilbert.lol
@@ -1129,9 +1141,11 @@ heethcote.com
 hegmaen.com
 henreques.lol
 henriqueq.xyz
+hermanh.club
 herndndes.beer
 hodkiewhcz.sbs
 hrrrison.sbs
+img.trips93.cc
 iosselin.lol
 jnlysj.com
 keneedy.lol
@@ -1144,6 +1158,7 @@ leannnn.lol
 leconto.lol
 ledesla.cfd
 leusceke.com
+link.trips93.cc
 lislason.lol
 lolfler.lol
 lombaidi.lol
@@ -1163,11 +1178,13 @@ monterro.click
 montoiro.lol
 mueleer.com
 murmzik.lol
+mx2.trips93.cc
 nitzschi.com
 nonrueden.com
 nonseca.lol
 northcombe.org
 oakington.org
+ob.trip0.win
 oeannon.com
 oelgado.com
 okuneva.sbs
@@ -1177,9 +1194,27 @@ olovier.lol
 olovier.top
 omnivectis.com
 oosterhout.click
+p5.trips30.cc
+p6.trips22.cc
+p7.trips14.cc
+p8.trips51.cc
+pa.trips35.cc
+pb.trips36.cc
+pc.trips28.cc
+pc.trips82.cc
+pd.trips47.cc
+pd.trips83.cc
+pe.trips66.cc
+pe.trips93.cc
+pf.trips76.cc
 pfannerrtill.lol
+pg.trips86.cc
+ph.trips69.cc
 phiplips.click
+pi.trips88.cc
+pj.trips98.cc
 pk.trips99.cc
+pop3.trips98.cc
 pottoer.lol
 quiglgy.com
 quilborne.org
@@ -1205,6 +1240,7 @@ saaverra.sbs
 saewart.lol
 saxonfield.org
 schamserger.top
+schedule.trips93.cc
 schester.beer
 schluter.lol
 schuctz.click
@@ -1221,22 +1257,82 @@ testtr1.at
 thibahlt.lol
 titchell.lol
 treviro.icu
+trip0.win
+trips10.cc
+trips100.cc
+trips14.cc
+trips22.cc
+trips28.cc
+trips3.at
+trips30.cc
+trips35.cc
+trips36.cc
+trips37.cc
+trips39.cc
+trips42.cc
+trips47.cc
+trips5.cc
+trips51.cc
 trips66.cc
+trips69.cc
+trips75.cc
+trips76.cc
+trips8.cc
+trips81.cc
+trips82.cc
+trips83.cc
+trips85.cc
+trips86.cc
+trips88.cc
+trips91.cc
+trips93.cc
+trips97.cc
+trips98.cc
 trips99.cc
+tripscan.tips
+tripscan0.cc
+tripscan0.win
+tripscan33.cc
+tripscan38.cc
+tripsscan0.cc
+tripsscan1.cc
+tripsscan12.cc
+tripsscan16.cc
+tripsscan17.cc
+tripsscan18.cc
+tripsscan21.cc
+tripsscan25.cc
+tripsscan26.cc
+tripsscan35.cc
+tripsscan37.cc
+tripsscan38.cc
+tripsscan39.cc
+tripsscan40.cc
+tripsscan45.cc
 tripsscan61.cc
+tripsscan62.win
+tripsscan63.cc
 tripsscan9.cc
+u.tripsscan21.cc
 uolguin.cfd
+v.tripsscan40.cc
 vandelvelden.space
 vandenheuvll.lol
 vilialobos.lol
+viliam.trips37.cc
+viliam.trips98.cc
 vtcircuits.com
+w8.tripscan0.cc
 watsiia.top
 weissnat.org
 windlrr.com
 wintseiser.com
 wz.greenw8.site
+y.tripsscan25.cc
 y.tripsscan61.cc
 yelahaye.surf
+z.tripsscan17.cc
+zg.tripsscan1.cc
 zgsjyxzx.com
 
 # Reference: https://threatfox.abuse.ch/browse/malware/js.kongtuke/ (# 2026-09-13)
