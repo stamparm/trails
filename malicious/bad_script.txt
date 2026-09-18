@@ -10051,6 +10051,15 @@ drvdb9rcebidk.cloudfront.net
 /captchaloader.min.js
 /west3.js
 
+# Reference: https://x.com/JangPr0/status/2100444810016608391
+# Reference: https://www.virustotal.com/gui/file/634a84174e799f4ca58dce51b4ead2d4f345b8ed1e88223a58cc784f1eaded93/detection
+
+/config.php?aaaaaa=
+/indown.php?clicked=
+/inup.php?clicked=
+/setting.php?aaaaaa=
+/setting.php?banana=
+
 # Generic
 
 /5c0ca79.php
