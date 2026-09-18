@@ -17089,6 +17089,7 @@ pstatics.com
 qstatics.com
 rstatics.com
 sstatics.com
+ucorejs.com
 ustatics.com
 util-analytics.com
 utilanalytics.com
