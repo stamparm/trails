@@ -10060,6 +10060,11 @@ drvdb9rcebidk.cloudfront.net
 /setting.php?aaaaaa=
 /setting.php?banana=
 
+# Reference: https://x.com/marktsec46065/status/2101183251951780114
+# Reference: https://www.virustotal.com/gui/file/6917505bbdc8efa01ea1a0298eae62a93a57a8c98d3712a69d822dca4a667f05/detection
+
+/ICMacOs?arch=
+
 # Generic
 
 /5c0ca79.php
