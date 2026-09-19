@@ -7872,3 +7872,8 @@ panel.industryreco.xyz
 sararch.xyz
 silovik.xyz
 zentorox.click
+
+# Reference: https://x.com/smica83/status/2101198645332709404
+# Reference: https://tria.ge/260919-lazqqayele/behavioral1
+
+34.208.71.18:8041
