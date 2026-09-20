@@ -17409,6 +17409,10 @@ yuslepe.com
 yuslip.com
 yussleep.com
 
+# Reference: https://x.com/skocherhan/status/2101345751297040464
+
+1902-cf.com
+
 # Generic
 
 /clickfix-callback
