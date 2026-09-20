@@ -16097,6 +16097,7 @@ finger.linked4x.com
 
 # Reference: https://x.com/masaomi346/status/2100236393331212469
 # Reference: https://www.virustotal.com/gui/ip-address/217.144.186.245/relations
+# BANNER_0_HASH-HOST=6cda8c93af38468bf26fdaf6d84531d9
 
 18.coverlink.icu
 1b.brightson.icu
@@ -16210,6 +16211,10 @@ dataconduit.info
 datapixel.icu
 datapointly.icu
 datawisp.xyz
+datumflux.art
+datumflux.fit
+datumflux.ink
+datumflux.pw
 datumprobe.icu
 dauslan.icu
 deepsight.icu
@@ -16234,6 +16239,7 @@ drivingpi5511.world
 easy-pixx321.world
 electroste99.life
 elizium999.digital
+ember-lark-quonzaii.mom
 emypage.icu
 eraggifts.icu
 ethergraph.icu
@@ -16242,25 +16248,31 @@ f14tomcatplane.space
 faircloud512421.buzz
 fairpi521.icu
 fallow-willow-diogdaiyn.xyz
+fanation.vn
 fathomcore.sbs
 fathomscan.icu
 fern-trace-anvil-meoix.live
+figura412.info
 fire-grass12.life
 firmasms.com
 flaempriarnnois.space
 flowerpii9831.life
+fluxxia.cc
 fochinal5123.life
 frontalback91.icu
 fsdfjffast.com
 gdjskgjksdm.com
 gearlipi72.life
 getborrywl213.world
+getquantflow.info
 getusitin.com
 girlsonpi823.life
 girlspi5511.icu
 gixxipi9823.life
 glacial-sketch-otter-triis.live
+glustrioenbrisk.life
 godbleesss8912.life
+gonfuirkgroao.life
 goodpix21341.digital
 googlanalitlcs.icu
 googlanalitlcs.live
@@ -16270,6 +16282,7 @@ googlanalitlcs.xyz
 gpixx.buzz
 gpixx.icu
 gpixx.xyz
+gridlogic.wiki
 gridsense.icu
 grownaslt.icu
 growpix31.digital
@@ -16279,6 +16292,7 @@ hainzpixx241.digital
 hairpi9911.icu
 hantulemak.com
 healthpi5511.buzz
+heron-quosksloum.lol
 hightpi121.xyz
 hoair.icu
 horrario4124.icu
@@ -16299,6 +16313,7 @@ kineticnode.icu
 kineticnode.shop
 kiosk.euroshopmago.pl
 kirrich412.world
+kodalogic.net
 kollyart4213.xyz
 kollyns241.icu
 korichniuu122.icu
@@ -16315,6 +16330,7 @@ longslimpi.life
 losakisowor.com
 love-is-pix.xyz
 lovepix421.buzz
+lumeon12.info
 lunar-quill-fluscriois.live
 magrumi.com
 marketsnows.com
@@ -16333,18 +16349,26 @@ minutes59.life
 misskoslof.com
 misty-arc-rook-sleoor.com
 misty-flicker-quill-preum.live
+mizstalmbuara.mom
+mosaiq2131.info
 moss-froggaee.space
 my.thinkbuy.icu
 nachoiuiwe123.buzz
 nailpiuwe8921.life
+neuralprobe.mobi
 nexusgaze.icu
 nexusquant.icu
+nexusquant.info
 nexusquant.live
+nexusquant.pro
+nexusquant.shop
+nexusquant.top
 nick-metry.icu
 nickilorr421.icu
 nickkpixx123.world
 nickopi141.life
 nickylody124.life
+nomibase.ink
 nonapi912.life
 norediam.com
 norkapi41.icu
@@ -16358,6 +16382,7 @@ ohlly-mohly.world
 oldmon56121.icu
 olvo42131.world
 omnisearch.sbs
+omnistats.info
 opsmiskop.com
 orderr8899.icu
 ornikol232.life
@@ -16369,6 +16394,8 @@ passpi6611.life
 pathaudit.info
 phantmscan.icu
 pibanasa2211.buzz
+pivotlly.app
+pivotlly.org
 pix5121312.digital
 pixadixa.buzz
 pixadixa.icu
@@ -16396,6 +16423,7 @@ pixxarting24141.icu
 pixxcart123.world
 pixxdixx11.world
 pixxxgain.buzz
+plotline.cc
 poorgub51251.icu
 porky94124.icu
 preokcriix.live
@@ -16464,6 +16492,7 @@ smart-asset-lab.com
 sodapixerr.world
 soilercar.xyz
 soilnopi1122.life
+sonah.world
 sortham4213.world
 sotopiingpi91.xyz
 speakingfepi21.life
@@ -16476,16 +16505,20 @@ stg-hiktool-hkstaging.kinsta.cloud
 stiaxvadkloai.life
 stoppingignpi.buzz
 stoppingpi82.life
+strato4124.top
 strongerpi921.life
 swimm57124.icu
 swimmingscr412.xyz
+synthquant.info
 tablebable2231.world
 team.axiom.free
+telosnode.net
 thankingpi.icu
 theandes.icu
 thebigs.icu
 thinkbuy.icu
 thunderstopui912.life
+tidgleara-fjord.homes
 time-bubble.world
 tobascopixxx24.xyz
 tokerjoker.icu
@@ -16513,6 +16546,7 @@ tullingpui.buzz
 tuntun-shahur.info
 uberton.icu
 univers22.digital
+usedatascope.me
 usual-pixx12.digital
 v8.bowlapp.icu
 vaillyharry9988.icu
@@ -16520,13 +16554,18 @@ vailora231.life
 vairner91941.buzz
 vallypi41223.xyz
 vanguardcogni.icu
+vanguardcogni.pro
+vanguardcogni.sbs
+vanguardcogni.shop
 vanguardcogni.xyz
 vasino921.life
 vaultsight.icu
 vdscfvgdfggg.com
 venusprime.icu
+veridex12.pro
 verizon.thinkbuy.icu
 versionpi81.icu
+vexisstat.info
 viliam.thinkbuy.icu
 viorsoonlucid.life
 visitorflow.icu
@@ -16547,9 +16586,11 @@ wellnessco.icu
 wikkkipi12.icu
 willynop9821.icu
 wldsc-api-cloud.click
+wms.fis-wasser-mv.de
 wn.worryup.icu
 workworm1412.buzz
 worryup.icu
+wren-fruis-v8djw.homes
 wss.thinkbuy.icu
 xcvbgggg.com
 xrp-node.ltd
@@ -16557,6 +16598,8 @@ xz.tracekey.icu
 y7.bigtenny.icu
 yearbeauty214.buzz
 yl.thinkbuy.icu
+zenithly.net
+zenithly.org
 zigelpi12.life
 
 # Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-09-17-A-New-Wave-of-ClickFix-Activity.txt
