@@ -7013,6 +7013,7 @@ agent.getbaton.ai
 antechoil.space
 api.better-openclaw.com
 api.better-openclaw.dev
+api.jojocal.com
 apps.antechoil.space
 apps.cafe-management.site
 apps.fenikofinanse.site
@@ -7044,6 +7045,7 @@ headscale-ui.belleone.ai
 imperialcalmme.com
 impress-lineage.com
 join.wullup.com
+jojocal.com
 mw.eu.digitalgenius.com
 mw.us.digitalgenius.com
 picstat-server.eidoloncorp.com
