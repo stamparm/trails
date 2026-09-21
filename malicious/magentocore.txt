@@ -7532,6 +7532,7 @@ krown.buzz
 lampz.fun
 leoprd.fun
 linguic.pics
+loginbackend.shop
 lordsofrock.uno
 lynxer.monster
 mammt.buzz
@@ -7589,6 +7590,7 @@ widgt.xyz
 wizrd.cloud
 wondr.buzz
 wormz.buzz
+wpsignon.shop
 xeno.buzz
 xtremo.lol
 xtrict.xyz
