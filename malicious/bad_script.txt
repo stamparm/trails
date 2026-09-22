@@ -10086,6 +10086,10 @@ drvdb9rcebidk.cloudfront.net
 /api/loader/check-hwid
 /loader/check-hwid
 
+# Reference: https://www.securonix.com/blog/task-stomp-powershell-backdoor-document-theft-remote-access/
+
+/api/c2/poll/
+
 # Generic
 
 /5c0ca79.php
