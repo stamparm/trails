@@ -10080,6 +10080,12 @@ drvdb9rcebidk.cloudfront.net
 
 /admin777111777.php
 
+# Reference: https://x.com/suyog41/status/2101933680587333792
+# Reference: https://www.virustotal.com/gui/file/6f6eb010d767d54cf257365ea14b474450f8397bdadce2e2f8ffc7ab3016a4e1/detection
+
+/api/loader/check-hwid
+/loader/check-hwid
+
 # Generic
 
 /5c0ca79.php
