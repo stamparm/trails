@@ -1074,6 +1074,7 @@ vsactivens.sbs
 19.trip-scan0.win
 1e.testclient.at
 1u.tripscan.tips
+2p.trip-scan13.win
 3g.trips93.cc
 4p.tripsscan60.win
 4r.tripsscan62.win
@@ -1086,6 +1087,7 @@ ackerkann.lol
 aeshire.click
 almontm.xyz
 anguiano.study
+apps.trips93.cc
 arernathy.sbs
 azevedo.lol
 barringer.click
@@ -1212,8 +1214,10 @@ olovier.lol
 olovier.top
 omnivectis.com
 oosterhout.click
+p4.trips20.cc
 p5.trips30.cc
 p6.trips22.cc
+p6.trips40.cc
 p7.trips14.cc
 p7.trips32.cc
 p7.trips41.cc
@@ -1226,10 +1230,12 @@ pb.trips18.cc
 pb.trips27.cc
 pb.trips36.cc
 pb.trips81.cc
+pb.trips90.cc
 pc.trips28.cc
 pc.trips73.cc
 pc.trips82.cc
 pd.trips47.cc
+pd.trips65.cc
 pd.trips83.cc
 pe.trips39.cc
 pe.trips66.cc
@@ -1241,8 +1247,10 @@ pfannerrtill.lol
 pg.trips86.cc
 pg.trips95.cc
 ph.trips69.cc
+ph.trips78.cc
 phiplips.click
 pi.trips88.cc
+pj.trips89.cc
 pj.trips98.cc
 pk.trips99.cc
 pop3.trips98.cc
@@ -1283,6 +1291,7 @@ schuttc.lol
 shhuster.lol
 sigmatauethifarma.com
 stage.trips93.cc
+static.trips93.cc
 stevsns.lol
 streith.beer
 stromao.com
@@ -1300,6 +1309,7 @@ trip0.win
 trips1.cc
 trips10.cc
 trips100.cc
+trips13.cc
 trips14.cc
 trips18.cc
 trips19.cc
@@ -1320,6 +1330,7 @@ trips36.cc
 trips37.cc
 trips39.cc
 trips4.at
+trips40.cc
 trips41.cc
 trips42.cc
 trips47.cc
@@ -1330,12 +1341,14 @@ trips65.cc
 trips66.cc
 trips67.cc
 trips69.cc
+trips70.cc
 trips71.cc
 trips72.cc
 trips73.cc
 trips75.cc
 trips76.cc
 trips77.cc
+trips78.cc
 trips79.cc
 trips8.cc
 trips81.cc
@@ -1343,7 +1356,10 @@ trips82.cc
 trips83.cc
 trips85.cc
 trips86.cc
+trips87.cc
 trips88.cc
+trips89.cc
+trips90.cc
 trips91.cc
 trips93.cc
 trips94.cc
@@ -1370,12 +1386,14 @@ tripsscan18.cc
 tripsscan19.cc
 tripsscan20.cc
 tripsscan21.cc
+tripsscan22.cc
 tripsscan24.cc
 tripsscan25.cc
 tripsscan26.cc
 tripsscan27.cc
 tripsscan29.cc
 tripsscan30.cc
+tripsscan32.cc
 tripsscan33.cc
 tripsscan35.cc
 tripsscan37.cc
@@ -1389,6 +1407,7 @@ tripsscan45.cc
 tripsscan49.cc
 tripsscan5.cc
 tripsscan50.cc
+tripsscan60.cc
 tripsscan60.win
 tripsscan61.cc
 tripsscan62.win
@@ -1406,6 +1425,7 @@ verdiee.club
 vilialobos.lol
 viliam.trips37.cc
 viliam.trips98.cc
+vnndoorn.club
 vtcircuits.com
 vtevens.icu
 w.tripsscan14.cc
@@ -1417,6 +1437,7 @@ windlrr.com
 wintseiser.com
 wz.greenw8.site
 x.tripsscan15.cc
+x.tripsscan60.cc
 xh.trip-scan0.cc
 y.tripsscan25.cc
 y.tripsscan43.cc
@@ -1428,6 +1449,7 @@ zg.tripsscan1.cc
 zgsjyxzx.com
 zj.tripsscan4.cc
 zk.tripsscan5.cc
+zo.tripsscan9.cc
 
 # Reference: https://threatfox.abuse.ch/browse/malware/js.kongtuke/ (# 2026-09-13)
 # Reference: https://www.virustotal.com/gui/ip-address/95.133.230.83/relations
