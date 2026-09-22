@@ -10089,6 +10089,7 @@ drvdb9rcebidk.cloudfront.net
 # Reference: https://www.securonix.com/blog/task-stomp-powershell-backdoor-document-theft-remote-access/
 
 /api/c2/poll/
+/api/c2/result/
 
 # Generic
 
