@@ -17422,6 +17422,65 @@ yussleep.com
 
 1902-cf.com
 
+# Reference: https://x.com/muha2xmad/status/2102449595443761589
+# Reference: https://www.virustotal.com/gui/ip-address/193.233.75.60/relations
+# Reference: https://www.virustotal.com/gui/ip-address/94.103.1.233/relations
+# BANNER_0_HASH-HOST=5021c14c24314127f6d23867992e44d3
+# HEADER_HASH-HOST=e5c0283a6818197e53f7
+# TITLE-HOST=Сloudflare
+
+http://193.233.75.60
+http://94.103.1.233
+6r.actskillhub.com
+actskillhub.com
+bug-ucheti.online
+bug-uchetov.online
+buhgalteri-uchet.online
+buhgalterov-uchet.online
+buhgalterskiy-uchet.online
+buhuchetss.online
+cloublogleoelze.buzz
+cloudflare-protect.net
+cloudflare.vc
+computerrepairme.com
+copiose.org
+cupiakleanav.com
+dusun4.pohon4donly.art
+ebutrat.digital
+emali.net
+enganem.digital
+finance-information.online
+finance-informations.online
+finances-information.online
+financesco.online
+flispax.digital
+get-entry.to
+get-verification.to
+ghadita.digital
+grinosp.digital
+iddmd.com
+imacos.cc
+immmerhency.com
+internetserchinkas.co
+mo.cloublogleoelze.buzz
+old-shadow-803d.user308.workers.dev
+pohon4donly.art
+poyanercold.top
+record-video.online
+records-video.online
+rusun4.pohon4donly.art
+skididks.com
+unknownbuddy.com
+user308.workers.dev
+video-click.online
+video-clicks.online
+video-hostinger.online
+video-hostingers.online
+video-hostings.online
+video-wide.online
+videoclick.online
+xursod.com
+
 # Generic
 
 /clickfix-callback
