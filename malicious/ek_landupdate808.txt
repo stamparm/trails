@@ -946,6 +946,7 @@ hartmann-digital.berlin
 hartmann-digital.gmbh
 nicorica.com
 rugapi.shop
+skrumchus.com
 wuliaox.com
 
 # Reference: https://malasada.tech/landupdate808-backend-c2-analysis/
