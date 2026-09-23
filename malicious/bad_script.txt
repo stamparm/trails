@@ -10091,6 +10091,11 @@ drvdb9rcebidk.cloudfront.net
 /api/c2/poll/
 /api/c2/result/
 
+# Reference: https://isc.sans.edu/diary/33360
+
+/ext-b.4f9db6afd06a.js
+/t.4b1009ff6c3f.js
+
 # Generic
 
 /5c0ca79.php
