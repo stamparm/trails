@@ -17379,13 +17379,17 @@ i.cdn-typekit.com
 # HEADER_HASH-HOST=e5e15ed4888ff804d4d7
 # HEADER_HASH-HOST=e5e17f5ccbbdb2cafc2c
 
+1.riot-plat.net
 11.riot-plat.xyz
 1f.riotplat.club
+1l.riotplat.info
 1u.riotplat.site
 1z.riotplat.shop
 4b.fancourier.vip
+4k.riotplat.cloud
 7g.fancourier.cyou
 7m.riotplat.online
+9.riot-plat.vip
 affirman.com
 api.kupui.biz
 arvelito.com
@@ -17405,10 +17409,11 @@ crunoade.com
 csgou.vip
 cytovine.com
 cytrixor.com
+d.riot-plat.top
 daxsenix.com
 detail-best.com
-devadmin.csgou.vip
 dev.tradingskill.cc
+devadmin.csgou.vip
 dex.tradingskill.cc
 dexivolt.com
 dislen.com
@@ -17462,6 +17467,7 @@ mail.newasest.com
 mail.omappepi.com
 malinabet.click
 metrix-cdn.com
+mevarlo.com
 minning.conne.fit
 newasest.com
 nolvrixa.com
@@ -17471,8 +17477,10 @@ pc.riot-ex.vip
 pc.riotpro.cc
 plothranex.com
 qarfylon.com
+qk.riot-ex.cc
 quarvixin.com
 qverix.com
+remolvi.com
 reqred.com
 riot-ex.cc
 riot-ex.com
@@ -17521,6 +17529,7 @@ sunsdesk.com
 swiftnovar.com
 syncroval.com
 synthrova.com
+toniku.com
 tradingskill.cc
 trasysit.com
 tristplse.com
@@ -17543,6 +17552,7 @@ xolvramiq.com
 yk.riotplat.com
 z0.riotplat.vip
 z2.riotplat.pro
+z4.riotplat.top
 zoltar.sbs
 zorthumel.com
 zt.riot-plat.com
