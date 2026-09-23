@@ -1795,6 +1795,20 @@ updatecores.st
 ysssy.ink
 zone82.duckdns.org
 
+# Reference: https://x.com/malwrhunterteam/status/2102396142264963146
+# TITLE-HOST=FileServer - Login
+
+151.158.0.157:8080
+cmanager.lol
+muchensudyee3850.top
+surveillance-online.com
+bot.cmanager.lol
+file.cmanager.lol
+files.surveillance-online.com
+a7.muchensudyee3850.top
+fileserver.nxts.com.br
+file.luna99.it
+
 # Generic
 
 /admin_123/auth.php
