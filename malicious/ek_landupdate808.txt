@@ -1069,18 +1069,23 @@ vsactivens.sbs
 10.tripsscan18.cc
 10.tripsscan45.cc
 10.tripsscan63.cc
+11.tripsscan19.cc
+11.tripsscan28.cc
 11.tripsscan64.cc
 12.tripsscan29.cc
 12.tripsscan38.cc
 13.tripsscan39.cc
+13.tripsscan48.cc
 19.trip-scan0.win
 1e.testclient.at
 1u.tripscan.tips
+1u.tripskan55.win
 2p.trip-scan13.win
 3g.trips93.cc
 4p.tripsscan60.win
 4r.tripsscan62.win
 4t.tripsscan64.win
+4u.tripsscan65.win
 aatthews.cfd
 abernaahy.sbs
 abernaehy.lol
@@ -1089,6 +1094,7 @@ ackerkann.lol
 aeshire.click
 almontm.xyz
 anguiano.study
+anzhuo.trips98.cc
 apps.trips93.cc
 arernathy.sbs
 azevedo.lol
@@ -1141,8 +1147,10 @@ fontanf.lol
 fraitas.lol
 fundivox.com
 gautter.lol
+gerlace.com
 gerrirsen.icu
 gileert.xyz
+gitlab.trips93.cc
 go.trips93.cc
 goncllves.click
 gonznlez.surf
@@ -1204,6 +1212,7 @@ nonrueden.com
 nonseca.lol
 northcombe.org
 nr.trips1.cc
+nutmann.club
 ny.trips8.cc
 oakington.org
 ob.trip0.win
@@ -1216,7 +1225,9 @@ olovier.lol
 olovier.top
 omnivectis.com
 oosterhout.click
+p4.trips11.cc
 p4.trips20.cc
+p5.trips12.cc
 p5.trips30.cc
 p6.trips22.cc
 p6.trips40.cc
@@ -1226,6 +1237,8 @@ p7.trips41.cc
 p8.trips42.cc
 p8.trips51.cc
 p9.trips25.cc
+p9.trips34.cc
+pa.trips26.cc
 pa.trips35.cc
 pa.trips71.cc
 pb.trips18.cc
@@ -1234,10 +1247,12 @@ pb.trips36.cc
 pb.trips81.cc
 pb.trips90.cc
 pc.trips28.cc
+pc.trips37.cc
 pc.trips73.cc
 pc.trips82.cc
 pd.trips47.cc
 pd.trips65.cc
+pd.trips74.cc
 pd.trips83.cc
 pe.trips39.cc
 pe.trips66.cc
@@ -1246,6 +1261,7 @@ pf.trips67.cc
 pf.trips76.cc
 pf.trips94.cc
 pfannerrtill.lol
+pg.trips68.cc
 pg.trips86.cc
 pg.trips95.cc
 ph.trips69.cc
@@ -1257,6 +1273,7 @@ pj.trips98.cc
 pk.trips99.cc
 pop3.trips98.cc
 pottoer.lol
+qf.trips100.cc
 quiglgy.com
 quilborne.org
 quorumix.com
@@ -1312,6 +1329,8 @@ trip0.win
 trips1.cc
 trips10.cc
 trips100.cc
+trips11.cc
+trips12.cc
 trips13.cc
 trips14.cc
 trips18.cc
@@ -1320,6 +1339,7 @@ trips20.cc
 trips22.cc
 trips24.cc
 trips25.cc
+trips26.cc
 trips27.cc
 trips28.cc
 trips3.at
@@ -1343,20 +1363,24 @@ trips6.cc
 trips65.cc
 trips66.cc
 trips67.cc
+trips68.cc
 trips69.cc
 trips70.cc
 trips71.cc
 trips72.cc
 trips73.cc
+trips74.cc
 trips75.cc
 trips76.cc
 trips77.cc
 trips78.cc
 trips79.cc
 trips8.cc
+trips80.cc
 trips81.cc
 trips82.cc
 trips83.cc
+trips84.cc
 trips85.cc
 trips86.cc
 trips87.cc
@@ -1376,6 +1400,7 @@ tripscan0.win
 tripscan33.cc
 tripscan38.cc
 tripskan0.cc
+tripskan55.win
 tripsscan0.cc
 tripsscan1.cc
 tripsscan10.cc
@@ -1394,19 +1419,23 @@ tripsscan24.cc
 tripsscan25.cc
 tripsscan26.cc
 tripsscan27.cc
+tripsscan28.cc
 tripsscan29.cc
 tripsscan30.cc
 tripsscan32.cc
 tripsscan33.cc
 tripsscan35.cc
+tripsscan36.cc
 tripsscan37.cc
 tripsscan38.cc
 tripsscan39.cc
 tripsscan4.cc
 tripsscan40.cc
+tripsscan42.cc
 tripsscan43.cc
 tripsscan44.cc
 tripsscan45.cc
+tripsscan48.cc
 tripsscan49.cc
 tripsscan5.cc
 tripsscan50.cc
@@ -1416,6 +1445,7 @@ tripsscan61.cc
 tripsscan62.win
 tripsscan63.cc
 tripsscan64.win
+tripsscan65.win
 tripsscan7.cc
 tripsscan9.cc
 u.tripsscan21.cc
@@ -1432,6 +1462,7 @@ vnndoorn.club
 vtcircuits.com
 vtevens.icu
 w.tripsscan14.cc
+w.tripsscan32.cc
 w8.tripscan0.cc
 watsiia.top
 weissnat.org
@@ -1440,6 +1471,7 @@ windlrr.com
 wintseiser.com
 wz.greenw8.site
 x.tripsscan15.cc
+x.tripsscan42.cc
 x.tripsscan60.cc
 xh.trip-scan0.cc
 y.tripsscan25.cc
@@ -1452,6 +1484,7 @@ zg.tripsscan1.cc
 zgsjyxzx.com
 zj.tripsscan4.cc
 zk.tripsscan5.cc
+zm.tripsscan7.cc
 zo.tripsscan9.cc
 
 # Reference: https://threatfox.abuse.ch/browse/malware/js.kongtuke/ (# 2026-09-13)
