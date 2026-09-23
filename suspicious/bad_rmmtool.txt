@@ -15602,3 +15602,10 @@ selfpnl001.com
 sunbeitnetwork.com
 unrealjustcoffe.top
 unrelioaworkinghun.top
+
+# Reference: https://x.com/devmihaylov/status/2102883134996189479
+# Reference: https://medium.com/@devmihaylov/a-signed-loader-that-installs-a-real-it-agent-answering-to-the-attacker-65e98796f06c
+
+134.122.200.153:8151
+134.122.204.114:8151
+143.92.38.221:8151
