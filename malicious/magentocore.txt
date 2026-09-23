@@ -19179,6 +19179,26 @@ static-lib.com
 144.172.100.105:8081
 46.226.162.32:8888
 
+# Reference: https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company
+
+b8t.shop
+js-static.com
+jsnetlify.com
+netlfjs.com
+netlifyjs.com
+newssjs.com
+rendejs.com
+traffic-analyzer.net
+x1o.co
+x1opay.co
+api.traffic-analyzer.net
+cdn.js-static.com
+cdn.jsnetlify.com
+cdn.netlfjs.com
+cdn.netlifyjs.com
+cdn.rendejs.com
+k7.traffic-analyzer.net
+
 # Generic
 
 /assets/lfg.js
