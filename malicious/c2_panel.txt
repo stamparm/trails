@@ -1813,6 +1813,10 @@ file.luna99.it
 
 http://87.58.154.153
 
+# Reference: https://x.com/BlinkzSec/status/2103590590990491689
+
+36.255.97.86:9090
+
 # Generic
 
 /admin_123/auth.php
