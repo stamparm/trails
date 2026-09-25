@@ -17680,6 +17680,10 @@ toonrumblearena.cfd
 toontitanlegends.cfd
 transferpopdownloadnow.monster
 
+# Reference: https://x.com/BlinkzSec/status/2103575805297332672
+
+216.126.227.228:8080
+
 # Generic
 
 /clickfix-callback
