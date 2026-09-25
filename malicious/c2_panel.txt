@@ -1809,6 +1809,10 @@ a7.muchensudyee3850.top
 fileserver.nxts.com.br
 file.luna99.it
 
+# Reference: https://x.com/Fact_Finder03/status/2103355768234037399
+
+http://87.58.154.153
+
 # Generic
 
 /admin_123/auth.php
