@@ -10096,6 +10096,10 @@ drvdb9rcebidk.cloudfront.net
 /ext-b.4f9db6afd06a.js
 /t.4b1009ff6c3f.js
 
+# Reference: https://www.virustotal.com/gui/file/4a519e25daf8c3a17252dacfc3313e9b3ca7209d4733d1ff42828748382a3911/detection
+
+/de696165.php
+
 # Generic
 
 /5c0ca79.php
