@@ -17616,6 +17616,10 @@ video-wide.online
 videoclick.online
 xursod.com
 
+# Reference: https://www.virustotal.com/gui/file/19ed5277f19a5f9f7d94bcd7e783021f99e2013cc3aadcedfbfa2713f1c16cce/detection
+
+/api/clickfix/hit?id=
+
 # Generic
 
 /clickfix-callback
