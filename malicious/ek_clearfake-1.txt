@@ -17620,6 +17620,59 @@ xursod.com
 
 /api/clickfix/hit?id=
 
+# Reference: https://x.com/TheM3gatr0n/status/2103095348113924175
+# BANNER_0_HASH-HOST=e2ba91bc6b419710988cc09a698d8366
+# BODY_SHA1-HOST=283643626b75e9495e2f3da450942763d2217eaf
+# HEADER_HASH-HOST=edf3c539bbae6ad3e970
+
+animecelestialblaze.cfd
+animegalaxyhero.cfd
+bigeyessmile.cfd
+bporigin.mooo.com
+cartoonblazeworld.cfd
+cartoonheroquest.cfd
+cartoonmagicrealm.cfd
+chibigalacticstar.cfd
+chingis.mn
+confluxnetwork.got-game.org
+dragonmysticsoul.cfd
+dragonspiritstar.cfd
+dreamymangaworld.cfd
+dreamysamuraisoul.cfd
+entry-code-cdn.codes
+fantasyninjaquest.cfd
+fantasysamuraiart.cfd
+funnybubblegum.cfd
+gvypkau.cfd
+idcool.codes
+ilovusaverivy.com
+immutableimx.authorizeddns.org
+kawaiimechasoul.cfd
+kawaiistarmagic.cfd
+locatepopdownloadfast.monster
+lovezramexar.info
+mangashadowblade.cfd
+meteordatastream.lol
+neonanimechronicle.cfd
+neonmangalegends.cfd
+ninjamysticblade.cfd
+otakuthundercats.cfd
+pixelrainbowclub.cfd
+princessmangastar.cfd
+providepopdownloadnow.monster
+robotbattlehero.cfd
+samuraidreamworld.cfd
+sansinooptical.cfd
+sebora.cfd
+shadowninjalegend.cfd
+sillygoosetoon.cfd
+sleypaydown.cfd
+superninjastarclub.cfd
+supertoonadventure.cfd
+toonrumblearena.cfd
+toontitanlegends.cfd
+transferpopdownloadnow.monster
+
 # Generic
 
 /clickfix-callback
