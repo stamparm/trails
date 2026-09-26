@@ -17687,6 +17687,7 @@ transferpopdownloadnow.monster
 # Reference: https://blog.report-uri.com/one-loader-two-attacks-a-magecart-and-clickfix-operator-sharing-infrastructure/
 
 awards2today.top
+clickzona.net
 cloudflare-check.net
 spielportal.com
 
