@@ -10103,6 +10103,13 @@ drvdb9rcebidk.cloudfront.net
 # Generic
 
 /5c0ca79.php
+/CVE-2019-18935.py
+/CVE-2021-3129.py
+/CVE-2023-27997.py
+/CVE-2023-27997-check.py
+/CVE-2024-38812.py
+/CVE-2026-41651.py
+/CVE-2026-45504.py
 /js/altmanluggage.js
 /js/aureliaskincare.js
 /js/bluerooster.js
