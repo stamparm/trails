@@ -17684,6 +17684,12 @@ transferpopdownloadnow.monster
 
 216.126.227.228:8080
 
+# Reference: https://blog.report-uri.com/one-loader-two-attacks-a-magecart-and-clickfix-operator-sharing-infrastructure/
+
+awards2today.top
+cloudflare-check.net
+spielportal.com
+
 # Generic
 
 /clickfix-callback
