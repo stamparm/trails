@@ -19016,6 +19016,7 @@ pixel-cdn.net
 [2a12:bec4:1460:50::2]:3479
 
 # Reference: https://any.run/cybersecurity-blog/banks-magecart-campaign/
+# Reference: https://x.com/reporturi/status/2103391918222909640
 # Reference: https://www.virustotal.com/gui/ip-address/209.99.189.4/relations
 # Reference: https://www.virustotal.com/gui/ip-address/86.54.42.111/relations
 # BANNER_0_HASH-HOST=3a784d3a0ce3a834d503a491bd8bc1b9
@@ -19062,6 +19063,7 @@ checkoutcache.com
 cloudsolutio.com
 doubleclickcache.com
 experienceresponsive.com
+explorerbrowser.com
 explorerpros.com
 explorerstripe.com
 filtercategory.com
@@ -19105,9 +19107,11 @@ referrainkup.com
 referrerlinkup.com
 referrerlocation.com
 refundpurchase.com
+review-cdn.com
 review-static.com
 safepaymultisafe.com
 safepayzone.com
+safeprocessmaster.com
 safeprocessor.com
 securedata-ns.com
 securi-analitycs.com
@@ -19128,6 +19132,7 @@ web-jguery.com
 webjguery.com
 webjquery.com
 website-webcache.com
+websitewebcache.com
 widget-assets.com
 widgetassets.com
 wishlistnotification.com
