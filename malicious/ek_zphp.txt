@@ -2450,6 +2450,7 @@ ceseripot.top
 clearengine.top
 clearforge.top
 cloudquarry.top
+combeandjasper.com
 copperbeacon.top
 coppermatrix.top
 coppervoyager.top
@@ -2459,6 +2460,7 @@ crystalaxishub.top
 crystalrocketlab.top
 datanexlab.top
 deltaode.com
+deneandpyrite.com
 denverclubs.top
 dist-ctroy.top
 dretryout.top
