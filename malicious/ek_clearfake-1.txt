@@ -17685,11 +17685,35 @@ transferpopdownloadnow.monster
 216.126.227.228:8080
 
 # Reference: https://blog.report-uri.com/one-loader-two-attacks-a-magecart-and-clickfix-operator-sharing-infrastructure/
+# BANNER_0_HASH-HOST=c3014671138e7838f64bcef01792065c
 
 awards2today.top
+blazelegend257.top
+clickfusion333.shop
 clickzona.net
 cloudflare-check.net
+delatech.org
+harsi.online
+legacypuzzle619.shop
+legendclick714.info
+mindfulteacher.net
+nonincriminatory.muvonix.shop
+playgamesblast.shop
+powerhub140.shop
+prompt.host
+psmonerino.shop
+radiantarcade921.info
+seniorgapyear.cfd
+shabalo.world
+shadowninja12.shop
+shopclickmaster888.info
+shopperbliss999.info
 spielportal.com
+straltstimes.ink
+superarcade780.top
+superclick549.info
+tacticscore291.info
+topclickempire567.top
 
 # Generic
 
