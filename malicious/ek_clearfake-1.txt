@@ -17715,6 +17715,14 @@ superclick549.info
 tacticscore291.info
 topclickempire567.top
 
+# Reference: https://app.any.run/tasks/f325fdb1-9aae-4626-b7eb-098982ae58aa/
+
+third-party.com
+
+# Reference: https://app.any.run/tasks/e88d420c-12c9-42fb-9bd7-434586b06440/
+
+elxxvvx.xyz
+
 # Generic
 
 /clickfix-callback
