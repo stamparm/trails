@@ -17734,6 +17734,53 @@ encryptedfiles.cc
 xxxzxxxzxxx.cc
 xxzxzxzxzxzxz.com
 
+# Reference: https://socradar.io/blog/vectrarat-undocumented-stack-maas/
+# Reference: https://www.virustotal.com/gui/file/13a49d5f492e7a7b8e51ffaede25720b58200c81ee4f3e5f747f3510aec0132d/detection
+# Reference: https://www.virustotal.com/gui/file/8fe86b7bc5dfc427b180576ce54f05945e848068310d2e6662f4317e56b23e59/detection
+# Reference: https://www.virustotal.com/gui/file/96ecd3340724e4b5c4946d1f59405dbf38d20473cb636adae78d02a0d8ccd52e/detection
+# Reference: https://www.virustotal.com/gui/file/ef640898ecb071ee71651677178dcb0b01a2fe963d2ec02f19c12a9f9817fe58/detection
+# TITLE-HOST/IP=ClickFix — Управление файлами
+
+178.16.54.148:8081
+86.109.75.161:8081
+91.92.43.209:8081
+bitget-air.top
+cloudflare-captcha.info
+docs.idealcornbi.com
+ftp.goodwayinlife.com
+goodwayinlife.com
+idealcornbi.com
+imap.goodwayinlife.com
+izwilinka-vpn.online
+ns2.goodwayinlife.com
+panel.bitget-air.top
+panel.woodentoyshop.site
+polysupport.team
+recap-check.org
+sakura-jp.wiki
+sitemap.goodwayinlife.com
+speedtest-de.izwilinka-vpn.online
+verify-cloud.digital
+vintage-autosale.online
+vnc-proxy.polysupport.team
+vpn.goodwayinlife.com
+web.izwilinka-vpn.online
+whm.goodwayinlife.com
+woodentoyshop.site
+/clickfix/5WwYUnxSRq/file
+/clickfix/5WwYUnxSRq/
+/clickfix/AQBExO_qKn/file
+/clickfix/AQBExO_qKn/
+/clickfix/cBBqAMpCR4/file
+/clickfix/cBBqAMpCR4/
+/clickfix/D7qpuFmThq/file
+/clickfix/D7qpuFmThq/
+/5WwYUnxSRq
+/AQBExO_qKn
+/cBBqAMpCR4
+/cBBqAMpCR4
+/D7qpuFmThq
+
 # Generic
 
 /clickfix-callback
