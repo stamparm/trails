@@ -17741,6 +17741,7 @@ xxzxzxzxzxzxz.com
 # Reference: https://www.virustotal.com/gui/file/ef640898ecb071ee71651677178dcb0b01a2fe963d2ec02f19c12a9f9817fe58/detection
 # TITLE-HOST/IP=ClickFix — Управление файлами
 
+109.120.140.55:443
 178.16.54.148:8081
 86.109.75.161:8081
 91.92.43.209:8081
