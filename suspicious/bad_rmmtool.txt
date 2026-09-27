@@ -15613,3 +15613,7 @@ unrelioaworkinghun.top
 # Reference: https://www.virustotal.com/gui/file/e00fbbc2bb49e3dd8e438c5fb6195d821821aeab2d2ede7ec8866964e223935b/detection
 
 simple.ctlio.com
+
+# Reference: https://x.com/BlinkzSec/status/2104180568913330435
+
+invitationpassvisit.com
