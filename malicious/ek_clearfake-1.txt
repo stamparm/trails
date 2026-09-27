@@ -17720,8 +17720,19 @@ topclickempire567.top
 third-party.com
 
 # Reference: https://app.any.run/tasks/e88d420c-12c9-42fb-9bd7-434586b06440/
+# BANNER_0_HASH-HOST=6965cd8204fff8eb89c4fc79d7e47532
+# BANNER_0_HASH-HOST=9ab2ab48527a64efb59043f07f3b3577
+# BODY_SHA1-HOST/IP=b62d9722ad8ec8894318e654a6100e1b61f81dde
+# HEADER_HASH-HOST=f50002bb0dc32fbc8395
 
+cloud-recovery.app
+cuzzov.com
+deepnoxa.com
+djamiafb.com
 elxxvvx.xyz
+encryptedfiles.cc
+xxxzxxxzxxx.cc
+xxzxzxzxzxzxz.com
 
 # Generic
 
