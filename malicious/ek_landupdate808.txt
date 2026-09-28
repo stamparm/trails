@@ -1435,6 +1435,7 @@ trips40.cc
 trips41.cc
 trips42.cc
 trips44.cc
+trips46.cc
 trips47.cc
 trips48.cc
 trips49.cc
@@ -1533,6 +1534,7 @@ tripsscan48.cc
 tripsscan49.cc
 tripsscan5.cc
 tripsscan50.cc
+tripsscan6.cc
 tripsscan60.cc
 tripsscan60.win
 tripsscan61.cc
