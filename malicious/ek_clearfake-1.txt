@@ -17785,6 +17785,12 @@ woodentoyshop.site
 /cBBqAMpCR4
 /D7qpuFmThq
 
+# Reference: https://x.com/masaomi346/status/2104557449722351921
+
+/om5678774/kt4567/main/landing2
+/om5678774/kt4567/
+/om5678774/
+
 # Generic
 
 /clickfix-callback
