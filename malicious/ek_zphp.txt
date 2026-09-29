@@ -2453,6 +2453,7 @@ ceseripot.top
 clearengine.top
 clearforge.top
 cloudquarry.top
+cloughandzircon.com
 combeandjasper.com
 copperbeacon.top
 coppermatrix.top
@@ -2473,6 +2474,7 @@ emberstreamzone.top
 emeraldsignalhub.top
 equinoxprairie.top
 escarpmentandjade.com
+fellandtourmaline.com
 firthandcinnabar.com
 flintazimuth.top
 fliqkera.com
