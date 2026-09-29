@@ -1103,6 +1103,7 @@ abernaahy.sbs
 abernaehy.lol
 ackeamann.xyz
 ackerkann.lol
+activate.trips93.cc
 aeshire.click
 almontm.xyz
 anguiano.study
@@ -1159,6 +1160,7 @@ dground.org
 dialectum.com
 dns.trips93.cc
 docs.trips98.cc
+download.trips93.cc
 eelorme.lol
 eichmnnn.icu
 eonrueden.lol
@@ -1199,6 +1201,7 @@ img.trips93.cc
 info.trips93.cc
 ios.trips93.cc
 iosselin.lol
+it.trips93.cc
 jnlysj.com
 keneedy.lol
 kerluku.lol
@@ -1213,6 +1216,7 @@ ledesla.cfd
 leusceke.com
 link.trips93.cc
 lislason.lol
+log.trips93.cc
 lolfler.lol
 lombaidi.lol
 loureiru.lol
@@ -1245,6 +1249,8 @@ northcombe.org
 nr.trips1.cc
 ns.trips2.cc
 ns.trips93.cc
+nt.trips3.cc
+nu.trips4.cc
 nutmann.club
 nv.trips5.cc
 nw.trips6.cc
@@ -1286,10 +1292,12 @@ p8.trips51.cc
 p9.trips16.cc
 p9.trips25.cc
 p9.trips34.cc
+pa.trips17.cc
 pa.trips26.cc
 pa.trips35.cc
 pa.trips44.cc
 pa.trips71.cc
+pa.trips80.cc
 pb.trips18.cc
 pb.trips27.cc
 pb.trips36.cc
@@ -1299,9 +1307,11 @@ pb.trips90.cc
 pc.trips19.cc
 pc.trips28.cc
 pc.trips37.cc
+pc.trips46.cc
 pc.trips73.cc
 pc.trips82.cc
 pc.trips91.cc
+pd.trips29.cc
 pd.trips38.cc
 pd.trips47.cc
 pd.trips65.cc
@@ -1344,6 +1354,7 @@ quilborne.org
 quorumix.com
 randenbrink.lol
 raventhorp.org
+re.testtr1.at
 reindardt.lol
 reynoldy.lol
 riccardson.click
@@ -1357,6 +1368,7 @@ rochardson.me
 rodrigeez.surf
 rodrizuez.garden
 roeerts.cfd
+rooertson.top
 rooinson.icu
 roterts.lol
 rueckec.lol
@@ -1377,6 +1389,7 @@ seguro.trips98.cc
 sehneider.com
 shhuster.lol
 sigmatauethifarma.com
+ssmpson.top
 stage.trips93.cc
 static.trips93.cc
 stevsns.lol
@@ -1587,6 +1600,7 @@ x.tripsscan33.cc
 x.tripsscan42.cc
 x.tripsscan60.cc
 xh.trip-scan0.cc
+y.tripsscan16.cc
 y.tripsscan25.cc
 y.tripsscan34.cc
 y.tripsscan43.cc
@@ -1597,11 +1611,13 @@ z.tripsscan26.cc
 z.tripsscan35.cc
 z.tripsscan44.cc
 z.tripsscan62.cc
+zf.tripsscan0.cc
 zg.tripsscan1.cc
 zgsjyxzx.com
 zi.tripsscan3.cc
 zj.tripsscan4.cc
 zk.tripsscan5.cc
+zl.tripsscan6.cc
 zm.tripsscan7.cc
 zn.tripsscan8.cc
 zo.tripsscan9.cc
