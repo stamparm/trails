@@ -15529,6 +15529,7 @@ reltox.rest
 relux.cfd
 relvix.space
 rivett.ink
+ryvek.site
 sandshelf.com
 sectwise.pro
 silvane.xyz
@@ -15565,6 +15566,7 @@ trevon.biz
 trivak.live
 ultrx.online
 ultryn.xyz
+vaeron.online
 valgor.cam
 valkor.life
 valrix.space
@@ -15599,6 +15601,7 @@ xentara.fit
 xentik.lol
 xerbit.live
 xypher.lol
+xyren.cyou
 xyrren.xyz
 xytrion.bond
 zanoro.biz
@@ -15611,6 +15614,7 @@ zerium.casa
 zethrax.rest
 zoltarq.rest
 zorvane.online
+zorven.sbs
 zypher.cfd
 zyphor.rest
 zyphora.rest
