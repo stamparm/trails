@@ -15588,6 +15588,7 @@ virex.bond
 virex.rest
 virexen.site
 virexo.rest
+visualbloomlab.com
 volnexy.bond
 vorix.xyz
 vornik.online
@@ -18591,6 +18592,7 @@ cdn.googleaips.net
 cdnjs.bootstrapscdn.com
 cdnjs.cloudflire.com
 cdnjs.cloudflire.net
+chrme-extension.com
 cloudflire.com
 cloudflire.net
 code-jquery.com
