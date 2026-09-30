@@ -138,6 +138,7 @@
 118.195.156.16:8080
 118.195.159.174:8080
 118.25.186.119:8080
+118.31.187.121:8080
 119.13.111.169:8080
 119.45.113.232:8080
 119.45.115.210:8080
@@ -1655,6 +1656,7 @@ root.migu.ceo
 sakanapi.cn
 scan.bossjyt.us.ci
 scan.jueqiai.com
+scan.tk.qdbox.cn
 sec.syc007.online
 security.ccocc.cyou
 share.sakanapi.cn
