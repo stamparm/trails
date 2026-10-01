@@ -17793,6 +17793,12 @@ woodentoyshop.site
 /om5678774/kt4567/
 /om5678774/
 
+# Reference: https://x.com/AndrewPetrus/status/2105611929096167912
+# Reference: https://www.virustotal.com/gui/file/416242568b18fd669338b6da2f8d3e084160bf6b2b91ac12ef3f3e8434b69e53/detection
+
+claudedevz.net
+cocuktekstil.com
+
 # Generic
 
 /clickfix-callback
