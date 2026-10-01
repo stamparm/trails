@@ -8729,6 +8729,10 @@ http://193.233.202.17
 
 http://66.179.31.191
 
+# Reference: https://www.virustotal.com/gui/ip-address/213.145.86.42/relations
+
+213.145.86.42:31337
+
 # Generic
 
 /.sliver-client/
