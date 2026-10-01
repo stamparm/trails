@@ -17795,9 +17795,36 @@ woodentoyshop.site
 
 # Reference: https://x.com/AndrewPetrus/status/2105611929096167912
 # Reference: https://www.virustotal.com/gui/file/416242568b18fd669338b6da2f8d3e084160bf6b2b91ac12ef3f3e8434b69e53/detection
+# CLASS_0_HASH-HOST=ba61c4ff0b11c68994721b53ee1af8a1
 
+bullpcn.com
+chorg.xyz
+claudeai-mythos.com
+claudedev.net
+claudedevs.net
 claudedevz.net
+cloudeaii.com
 cocuktekstil.com
+derpetuals.com
+ehtrfi.com
+frax-foundation.org
+higgsflield.net
+mythos-claudeai.com
+netnet-capital.com
+officialokxpoll.com
+openaaii.com
+openai-credits.com
+openeii.com
+operncorde.com
+robinhrood.com
+sayior-strategy.com
+saylror-strategy.com
+sonelum.com
+stanrdardreserve.xyz
+strastergy.com
+strategy-saylor.com
+strategyvote.com
+wurldlibertyfinancial.com
 
 # Generic
 
