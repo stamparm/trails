@@ -17829,6 +17829,11 @@ strategy-saylor.com
 strategyvote.com
 wurldlibertyfinancial.com
 
+# Reference: https://x.com/Malwarehunterr/status/2105738368957239782
+# Reference: https://www.virustotal.com/gui/file/ee7faafad6a7adec0c23f21c4b53027eef5c3d6035869a551447d52655a85810/detection
+
+yundatabox.com
+
 # Generic
 
 /clickfix-callback
