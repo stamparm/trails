@@ -10107,6 +10107,13 @@ drvdb9rcebidk.cloudfront.net
 /rmbx/ssa/webssa/social_secur1tiy_administr3tion.php
 /social_secur1tiy_administr3tion.php
 
+# Reference: https://x.com/malwrhunterteam/status/2105603527959601312
+# Reference: https://www.virustotal.com/gui/file/867698b09d1780c28a5f2eb751a932521b3e2cbb79c22ae726da7db378e977f3/detection
+
+/cdn//xagdvrhg5c27aajvjtejf2pm.js
+/xagdvrhg5c27aajvjtejf2pm.js
+/xagdvrhg5c27aajvjtejf2pm/
+
 # Generic
 
 /5c0ca79.php
