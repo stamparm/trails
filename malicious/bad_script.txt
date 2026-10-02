@@ -9937,9 +9937,13 @@ drvdb9rcebidk.cloudfront.net
 # Reference: https://x.com/Threatlabz/status/2095250048099729410
 # Reference: https://tria.ge/260723-nw4mxaaj9z/behavioral1
 # Reference: https://www.virustotal.com/gui/file/1b4bd6d1e2af5770bcfe46f51294776a8c75e99ca9d4e82c177555b70925f976/detection
+# Reference: https://www.virustotal.com/gui/file/d6c7eeec84407a34b51a019d7ef5f44bb6b8d665d1175534071e50ee40cf2258/detection
+# Reference: https://www.virustotal.com/gui/file/f3e65d933b497d768cf58c6c2883a63093043b1df1066024aac89565621161fe/detection
 
 /dv/secured_stub.ps1
 /masabik288/secured_stub.ps1
+/mmmasabikkk/secured_stub.ps1
+/mrmasabik/secured_stub.ps1
 /shell/secured_stub.ps1
 /secured_stub.ps1
 
