@@ -15216,17 +15216,22 @@ cloudsenterprise2026.com
 # Reference: https://x.com/joe4security/status/2092954759237869800
 # CLASS_0_HASH-HOST=aedcffc6fed00fffd39516b13eeacfaf
 # CLASS_0_HASH-HOST=eaa3843b94a83d52b86293a31e12c776
+# TITLE-HOST=DeepSevenDay | iGaming
 
 backup-chatgpt.com
 backup-gpt.com
 backup-openai.com
 canva-design.info
+canva-design.vip
 chatgpt-safepage.com
 chatgpt-update.vip
 cloudflare-chat-ui-6wo.pages.dev
+deepsevenday.xyz
 gpt-backup.com
 gpt-backup.top
 gpt-safepage.com
+household-helper.vip
+lista-lend.vip
 lubayazalupa.click
 openai-backup.one
 private-online-video.com
