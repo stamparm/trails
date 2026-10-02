@@ -10120,6 +10120,10 @@ drvdb9rcebidk.cloudfront.net
 /xagdvrhg5c27aajvjtejf2pm.js
 /xagdvrhg5c27aajvjtejf2pm/
 
+# Reference: https://x.com/KirkDerpca/status/2105954731659264509
+
+/pidor.ps1
+
 # Generic
 
 /5c0ca79.php
