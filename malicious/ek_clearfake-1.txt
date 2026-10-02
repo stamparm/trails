@@ -17873,6 +17873,15 @@ vpn.reallstbank.ru
 cf-www.com
 wall.casajuanchos.com
 
+# Reference: https://x.com/skocherhan/status/2105955329624158312
+
+cf-www.com
+coeuau.com
+d-j-d.com
+murielle22.com
+poradnik-operatorzy.site
+www-cf.com
+
 # Generic
 
 /clickfix-callback
