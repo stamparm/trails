@@ -1,7 +1,7 @@
 # Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
 # See the file 'LICENSE.md' for copying permission
 
-# Aliases: screenconnect, connectwise, nezha, simplehelp
+# Aliases: screenconnect, connectwise, nezha, simplehelp, dcagentrmm
 
 # Reference: https://twitter.com/James_inthe_box/status/1524437845179478019
 # Reference: https://app.any.run/tasks/87fdec4e-da52-4e60-83dc-48c75b7b6753/
@@ -15626,3 +15626,15 @@ h-instance-pr6qqo-relay.screenconnect.com
 # Reference: https://x.com/Malwarehunterr/status/2105963629531332758
 
 instance-zg74ag-relay.screenconnect.com
+
+# Reference: https://x.com/smica83/status/2105233557711093938
+# Reference: https://www.virustotal.com/gui/file/a9624ad50037e49f5d2e9ba37d079ba4c71341745649e43841ea9612fc21c089/detection
+# SSDEEP-HOST=24:0pFkNB8jVoF/JYJffHNMpOcg3zvlf5SB3DqW19l/qkdKScSDsvOH14T:0QBAJtMpOr3z1522W19l/qqKcsvO6T
+
+134.122.128.120:8383
+6b.dapengcloud.com
+app.fxt-dm1.top
+dapengcloud.com
+facai.mwkwnnn.click
+fxt-dm1.top
+mwkwnnn.click
