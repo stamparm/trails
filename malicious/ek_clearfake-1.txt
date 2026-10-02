@@ -17797,10 +17797,12 @@ woodentoyshop.site
 /om5678774/
 
 # Reference: https://x.com/AndrewPetrus/status/2105611929096167912
+# Reference: https://x.com/skocherhan/status/2105906058723995764
 # Reference: https://www.virustotal.com/gui/file/416242568b18fd669338b6da2f8d3e084160bf6b2b91ac12ef3f3e8434b69e53/detection
 # CLASS_0_HASH-HOST=ba61c4ff0b11c68994721b53ee1af8a1
 
 bullpcn.com
+careers-openai.com
 chorg.xyz
 claudeai-mythos.com
 claudedev.net
@@ -17816,6 +17818,8 @@ mythos-claudeai.com
 netnet-capital.com
 officialokxpoll.com
 openaaii.com
+openai-bonus.com
+openai-credit.com
 openai-credits.com
 openeii.com
 operncorde.com
