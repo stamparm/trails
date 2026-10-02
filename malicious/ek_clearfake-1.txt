@@ -15216,6 +15216,7 @@ cloudsenterprise2026.com
 # Reference: https://x.com/joe4security/status/2092954759237869800
 # CLASS_0_HASH-HOST=aedcffc6fed00fffd39516b13eeacfaf
 
+backup-chatgpt.com
 backup-gpt.com
 backup-openai.com
 canva-design.info
