@@ -17799,8 +17799,10 @@ woodentoyshop.site
 # Reference: https://x.com/AndrewPetrus/status/2105611929096167912
 # Reference: https://x.com/skocherhan/status/2105906058723995764
 # Reference: https://www.virustotal.com/gui/file/416242568b18fd669338b6da2f8d3e084160bf6b2b91ac12ef3f3e8434b69e53/detection
+# BANNER_0_HASH-HOST=29ad37c1d3ade3c4872685424fbdf02f
 # CLASS_0_HASH-HOST=ba61c4ff0b11c68994721b53ee1af8a1
 
+1rvrental.com
 bullpcn.com
 careers-openai.com
 chorg.xyz
@@ -17811,11 +17813,14 @@ claudedevz.net
 cloudeaii.com
 cocuktekstil.com
 derpetuals.com
+edgnltatqptann.com
 ehtrfi.com
 frax-foundation.org
 googlegeminidev.com
 higgsflield.net
 hilton-recruiting.com
+intercdn.shop
+leebin101.com
 mythos-claudeai.com
 netnet-capital.com
 officialokxpoll.com
