@@ -17858,6 +17858,16 @@ wurldlibertyfinancial.com
 
 yundatabox.com
 
+# Reference: https://x.com/Malwarehunterr/status/2106083408174854384
+# Reference: https://www.virustotal.com/gui/file/badf4752413cb0cbdc03fb95820ca167f0cdc63b597ccdb5ef43111180e088b0/detection
+
+buh.reallstbank.ru
+cisco.parivpn.ru
+mx1.prod.rossko.su
+reallstbank.ru
+rossko.su
+vpn.reallstbank.ru
+
 # Generic
 
 /clickfix-callback
