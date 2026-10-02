@@ -8170,6 +8170,11 @@ stats.wp-js.com
 
 wp-elementor.com
 
+# Reference: https://blog.sucuri.net/2026/09/sc-wordpress-malware-a-self-healing-mesh-of-loaders-drop-ins-and-a-blockchain-controlled-backdoor.html
+
+/wp-content/c1b12371.php
+/wp-content/.c1b12371.php
+
 # Generic
 
 /wp-imcludes/
