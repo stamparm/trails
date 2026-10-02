@@ -17868,6 +17868,11 @@ reallstbank.ru
 rossko.su
 vpn.reallstbank.ru
 
+# Reference: https://x.com/KirkDerpca/status/2105954731659264509
+
+cf-www.com
+wall.casajuanchos.com
+
 # Generic
 
 /clickfix-callback
