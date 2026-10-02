@@ -15622,3 +15622,7 @@ invitationpassvisit.com
 # Reference: https://www.virustotal.com/gui/file/e40a07993041a6f903e4022af9780c3ba3cac43e03494483c1c818745a75ed21/detection
 
 h-instance-pr6qqo-relay.screenconnect.com
+
+# Reference: https://x.com/Malwarehunterr/status/2105963629531332758
+
+instance-zg74ag-relay.screenconnect.com
