@@ -10124,6 +10124,10 @@ drvdb9rcebidk.cloudfront.net
 
 /pidor.ps1
 
+# Reference: https://x.com/skocherhan/status/2106707282461417743
+
+/nochain-sw.js
+
 # Generic
 
 /5c0ca79.php
