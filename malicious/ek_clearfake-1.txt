@@ -17913,6 +17913,10 @@ luqiuid91.com
 fri-dod-01.cfd
 wed-veveh-003.cfd
 
+# Reference: https://www.virustotal.com/gui/ip-address/212.28.180.11/relations
+
+20gigs.website
+
 # Generic
 
 /clickfix-callback
