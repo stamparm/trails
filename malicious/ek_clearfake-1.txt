@@ -17906,6 +17906,13 @@ murielle22.com
 poradnik-operatorzy.site
 www-cf.com
 
+# Reference: https://x.com/unmaskparasites/status/2106613709208797692
+# Reference: https://urlscan.io/search/#filename%3A%22name%3Dluqiuid91.com%22
+
+luqiuid91.com
+fri-dod-01.cfd
+wed-veveh-003.cfd
+
 # Generic
 
 /clickfix-callback
