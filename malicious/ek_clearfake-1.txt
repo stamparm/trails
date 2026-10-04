@@ -32,6 +32,8 @@ bkscndclou.beer
 bootstrup-cdnmaper.beer
 bootstrup-framework-js.beer
 bpcdn.mooo.com
+browscheck.codes
+browseid.codes
 cdn-rcs-cloud.beer
 cdn-verification-cloud.boats
 celtabet-guncelgiris-qo.icu
@@ -53,6 +55,7 @@ enter-code-cdn.info
 enter-press-cdn.info
 enter-press-code.info
 enter-pverif-code.info
+entry-verifed-cdn.codes
 ethercdnns.beer
 felicitatgs.cc
 fingerprint-veri.info
@@ -69,6 +72,7 @@ hiltonbet-orjinal.vip
 holigon-bahisadresi.vip
 hpscdn.beer
 id-verif-code.info
+identinet.ch
 idverification-cdn.info
 idverification-code.beer
 infociganka.cc
