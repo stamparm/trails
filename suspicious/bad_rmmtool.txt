@@ -15638,3 +15638,8 @@ dapengcloud.com
 facai.mwkwnnn.click
 fxt-dm1.top
 mwkwnnn.click
+
+# Reference: https://www.virustotal.com/gui/file/756a36eebd1c121edbff38a79f38045ba5e45a631bd8be86f179fd458026b528/detection
+
+screenconnect.pro
+main.screenconnect.pro
