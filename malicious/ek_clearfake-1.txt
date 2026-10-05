@@ -18023,6 +18023,13 @@ winload9.nya.pub
 
 20gigs.website
 
+# Reference: https://x.com/masaomi346/status/2107080746225811459
+# SSDEEP-HOST=3:SXKPF8E7rFh:SuF8iv
+
+evolvia.top
+ishywalters.com
+ohhhhhmoney.com
+
 # Generic
 
 /clickfix-callback
