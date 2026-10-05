@@ -1817,6 +1817,11 @@ http://87.58.154.153
 
 36.255.97.86:9090
 
+# Reference: https://x.com/JustWantToQ1/status/2107034040758841581
+
+67.205.134.133:4444
+67.205.134.133:5000
+
 # Generic
 
 /admin_123/auth.php
