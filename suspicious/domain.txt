@@ -5624,3 +5624,7 @@ lhr.life
 # Reference: https://www.virustotal.com/gui/file/3e02ba06ca0ea0191a8fc04f6fff2451459603491200901d15acbce6808ace8d/detection
 
 xubi.org
+
+# Reference: https://www.virustotal.com/gui/domain/ddns.lk/relations
+
+ddns.lk
