@@ -17659,14 +17659,18 @@ cdncookie.com
 # Reference: https://www.virustotal.com/gui/ip-address/185.196.9.152/relations
 # BANNER_0_HASH-HOST=c58634db9b1afe46014c1be6ae110004
 # CERT_FINGERPRINT_SHA256-HOST=8d12a609e619bc1ce9fe9335a5d1dbda217a12d4f996b1d7da09ad04701a7368
+# CLASS_0_HASH-HOST=8077ed107b20eb0a2226e3f1e3946334
 
+cloudflareget.help
 deynicaminiz.site
+empowerlinks.click
 filedocumentonline.com
 ftm-lottery.net
 goodleestat.online
 googlestgmanager.xyz
 skillsworks.top
 socket-io.ws
+verificationcaptcha.bar
 w2ed.icu
 wijetmedio.site
 
