@@ -15643,3 +15643,8 @@ mwkwnnn.click
 
 screenconnect.pro
 main.screenconnect.pro
+
+# Reference: https://x.com/smica83/status/2107743400476750313
+# Reference: https://www.virustotal.com/gui/file/f3171ee172b751eadab38b37cf0a3e465f7085590dfbf0fae88008611d261e57/detection
+
+getsupportonlinenow.com
