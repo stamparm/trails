@@ -10130,6 +10130,9 @@ drvdb9rcebidk.cloudfront.net
 
 # Reference: https://x.com/BlinkzSec/status/2107876110373683261
 
+/beacon_linux_amd64
+/beacon_rn
+/beacon_x
 /rshell.py
 /zexploit.class
 /zexploit.java
