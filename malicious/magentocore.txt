@@ -15414,6 +15414,7 @@ wsc.webmetricflow.com
 # Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions (# 2025-02-16)
 # BANNER_0_HASH-HOST=b7580008e32aa5a44bff28035ebde748
 
+acrylicform.com
 actless.pro
 aurex.lol
 averin.lat
@@ -15541,6 +15542,7 @@ relux.cfd
 relvix.space
 rivett.ink
 ryvek.site
+ryvon.cfd
 sandshelf.com
 schutzman.net
 sectwise.pro
@@ -15580,6 +15582,7 @@ trevon.biz
 trivak.live
 ultrx.online
 ultryn.xyz
+vaelor.click
 vaeron.online
 valgor.cam
 valkor.life
@@ -15622,6 +15625,7 @@ xypher.lol
 xyren.cyou
 xyrren.xyz
 xytrion.bond
+xyven.lol
 zanoro.biz
 zareon.xyz
 zentiq.xyz
@@ -15631,6 +15635,7 @@ zerion.sbs
 zerith.cfd
 zerium.casa
 zethrax.rest
+zevar.rest
 zoltarq.rest
 zorvane.online
 zorven.sbs
@@ -15639,6 +15644,7 @@ zyphor.rest
 zyphora.rest
 zyqro.baby
 zyric.cfd
+zyrok.website
 zyrox.sbs
 zytron.click
 zyvox.biz
