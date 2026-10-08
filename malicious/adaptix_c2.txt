@@ -1806,3 +1806,8 @@ truth-mag.org
 http://45.148.10.165
 45.148.10.165:8000
 45.148.10.165:8843
+
+# Reference: https://x.com/smica83/status/2108153246686548312
+# Reference: https://www.virustotal.com/gui/file/bca5fb13c7b1732b75492e986f517c671dcd20e6ec0281d47cbe03ddb37ccb4e/detection
+
+apricot-ladder.com
