@@ -19260,6 +19260,20 @@ cdn.netlifyjs.com
 cdn.rendejs.com
 k7.traffic-analyzer.net
 
+# Reference: https://www.virustotal.com/gui/ip-address/83.97.79.223/detection
+# Reference: https://x.com/sdcyberresearch/status/2107774045332672838
+
+bb.billgchain.com
+billgchain.com
+buzzpopclick.com
+c.buzzpopclick.com
+d.spmolli.com
+difastlink.com
+fastthey.com
+setpayto.pw
+spmolli.com
+vchoisfa.com
+
 # Generic
 
 /assets/lfg.js
