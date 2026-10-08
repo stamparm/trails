@@ -10128,6 +10128,12 @@ drvdb9rcebidk.cloudfront.net
 
 /nochain-sw.js
 
+# Reference: https://x.com/BlinkzSec/status/2107876110373683261
+
+/rshell.py
+/zexploit.class
+/zexploit.java
+
 # Generic
 
 /5c0ca79.php
