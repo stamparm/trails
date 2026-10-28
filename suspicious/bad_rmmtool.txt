@@ -24954,3 +24954,20 @@ alico.shop
 cloakguard.org
 rmm.cloakguard.org
 relay.alico.shop
+
+# Reference: https://x.com/JAMESWT_WT/status/2115511021976916046
+# Reference: https://www.virustotal.com/gui/ip-address/198.37.119.56/relations
+
+198.37.119.56:8041
+1960.ef4x.com
+adobes.biz
+adobes.io
+aloconstruct.com
+aromaluxefragrances.com
+cloud.adobes.io
+cloud.aloconstruct.com
+cloud.aromaluxefragrances.com
+cloud.coutts-uk.com
+coutts-uk.com
+ef4x.com
+nigu.adobes.biz
