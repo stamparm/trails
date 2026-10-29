@@ -19366,6 +19366,10 @@ ssl-certificate-verify.com
 trainstat.us
 update.ssl-certificate-verify.com
 
+# Reference: https://sansec.io/research/magento-cms-block-loader-deepveindrilling
+
+deepveindrilling.com
+
 # Generic
 
 /assets/lfg.js
