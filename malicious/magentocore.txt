@@ -19369,16 +19369,24 @@ update.ssl-certificate-verify.com
 # Reference: https://x.com/malwrhunterteam/status/2115542081376604368
 # Reference: https://sansec.io/research/magento-cms-block-loader-deepveindrilling
 # BANNER_0_HASH-HOST=4be28f38afe98f7402494ee659ac532c
+# BODY_SHA1-HOST=0621557856e02c55ba2b84bc5c4aa88d3cef25f8
+# HEADER_HASH-HOST=d4008daccecbd5e141cc
 
+aj3hf7uk3hh3yskr.com
 andromeda.mobiletechnologies.cloud
 briemchain.ai
 deepveindrilling.com
 dls-content-cdn.global.ssl.fastly.net
 fixedarooveinfo.com
 gotify.mobiletechnologies.cloud
+ho9894htrg43.com
 jsdeck.com
+pizzabiglatino.com
+pro890dev920.com
 rl.jsdeck.com
+romaliteempowerment.com
 social.fivconnect.net
+thriveinecommerce.com
 videostacker.app
 
 # Generic
