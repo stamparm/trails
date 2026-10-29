@@ -19366,11 +19366,20 @@ ssl-certificate-verify.com
 trainstat.us
 update.ssl-certificate-verify.com
 
-# Reference: https://sansec.io/research/magento-cms-block-loader-deepveindrilling
 # Reference: https://x.com/malwrhunterteam/status/2115542081376604368
+# Reference: https://sansec.io/research/magento-cms-block-loader-deepveindrilling
+# BANNER_0_HASH-HOST=4be28f38afe98f7402494ee659ac532c
 
+andromeda.mobiletechnologies.cloud
+briemchain.ai
 deepveindrilling.com
 dls-content-cdn.global.ssl.fastly.net
+fixedarooveinfo.com
+gotify.mobiletechnologies.cloud
+jsdeck.com
+rl.jsdeck.com
+social.fivconnect.net
+videostacker.app
 
 # Generic
 
