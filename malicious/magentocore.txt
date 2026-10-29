@@ -19367,8 +19367,10 @@ trainstat.us
 update.ssl-certificate-verify.com
 
 # Reference: https://sansec.io/research/magento-cms-block-loader-deepveindrilling
+# Reference: https://x.com/malwrhunterteam/status/2115542081376604368
 
 deepveindrilling.com
+dls-content-cdn.global.ssl.fastly.net
 
 # Generic
 
