@@ -85,6 +85,25 @@ A trail file is plain text. One indicator per line, blank lines and `#` comments
 An indicator may be a domain, a URL or `host/path`, an IPv4 address, an `IP:port` pair, a CIDR
 range, a JA3/JA4 fingerprint, a certificate hash, or a bracketed regular expression.
 
+**A TLS fingerprint says what it is.** Write it with its type, one per line, so a hash is never
+read as a name, nor one kind of hash taken for another:
+
+```text
+ja3:8527da8b8a640065e72ec6b6f99764f3
+ja4:t13d1313h1_f57a46bbacb6_7f0f34a4126d
+cert:9d30e06354c3c7c4cc83fd3cab5801df8385a776
+cert:78b3ed83ebf4cd28c547d16bda7590577ec9b7ca24295f12bab651de65aee470
+```
+
+| type | value | matched against |
+| --- | --- | --- |
+| `ja3:` | MD5 hex, 32 characters | a client's TLS ClientHello, over TCP or QUIC |
+| `ja4:` | the JA4 string (`t…` for TCP, `q…` for QUIC) | a client's TLS ClientHello, over TCP or QUIC |
+| `cert:` | SHA-1 (40) or SHA-256 (64) hex of the DER certificate | the certificate a server presents (TLS 1.2 and older send it in the clear) |
+
+The assembled set carries the bare value. A value that does not fit its type fails the gate; an
+untyped hash still matches, but the gate warns until it is written with its type.
+
 **`# Reference:` applies to the indicators below it, until the next one.** That is how the
 dashboard cites a detection's source, so putting a citation in the wrong place misattributes every
 indicator under it. A bare `# Reference:` with no value deliberately ends a group, so what follows
@@ -119,6 +138,8 @@ invent a new threat class by accident.
 - **Reachable on the wire** — an entry that idna refuses, that `VALID_DNS_NAME_REGEX` rejects, or
   whose last label is dropped before lookup can never match anything. It is not detection, it is
   the appearance of detection.
+- **Fingerprints fit their type** — a `ja3:`, `ja4:` or `cert:` value of the wrong shape would be
+  left out of the build, so it fails here instead.
 - **No canary matches** — no trail may match a name that must never be flagged. This is the check
   that sees regex trails; a popularity-list intersection cannot, because a pattern is never *equal*
   to a domain.
