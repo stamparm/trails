@@ -3880,3 +3880,7 @@ ddns.news
 # Reference: https://www.virustotal.com/gui/domain/hyperhost.icu/relations
 
 hyperhost.icu
+
+# Reference: https://www.virustotal.com/gui/domain/dyndns.sonah.xyz/relations
+
+dyndns.sonah.xyz
