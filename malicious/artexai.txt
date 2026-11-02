@@ -5,6 +5,8 @@
 # Reference: https://x.com/MichalKoczwara/status/2116240771984789707
 # Reference: https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks
 # META-HOST=:::"description":"LLM 驱动的自主渗透测试系统控制台"
+# TITLE-HOST/IP=AIClient2API - Bảng điều khiển quản trị
+# TITLE-HOST/IP=AIClient2API - Consola de Administración
 # TITLE-HOST/IP=ARTEX — Autonomous Penetration Testing Console
 # TITLE-HOST/IP=ARTEX — Autonomous Pentest Console
 # TITLE-HOST/IP=ARTEX — Autonomous Pentesting Console for AI Security Agents
@@ -3424,6 +3426,7 @@
 47.82.156.240:3000
 47.82.85.91:8787
 47.83.180.156:8787
+47.84.73.210:3000
 47.84.82.39:8787
 47.85.41.97:3000
 47.86.93.216:3000
@@ -4118,6 +4121,7 @@ aa.jiqinet.cn
 aaatack.412208.xyz
 aaccap.ririko.de5.net
 abc.zhangzixuan2007.cn
+abcxyzeric-proxy-dddtt.pages.dev
 abodepdf.com
 abshangcheng.byabfh.eoty.cn
 academic-ruc.cc
