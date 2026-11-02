@@ -9064,7 +9064,7 @@ d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
 /chiffonierfencing.ps1
 
 # Reference: https://x.com/smica83/status/1987534242155262045
-# Reference: # Reference: https://tria.ge/251109-r7rdhafj41/behavioral1
+# Reference: https://tria.ge/251109-r7rdhafj41/behavioral1
 
 /kaleb.ps1
 
@@ -9134,7 +9134,7 @@ d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
 /xor-payload.py
 
 # Reference: https://x.com/smica83/status/2002493152641585438
-# Reference: # Reference: https://www.virustotal.com/gui/file/414db44b4d9fb12d73498677d31432496508b29ddc68288816316e298968e641/detection
+# Reference: https://www.virustotal.com/gui/file/414db44b4d9fb12d73498677d31432496508b29ddc68288816316e298968e641/detection
 
 /zo4nik/controversysit.ps1
 /zo4nik/dumprip.ps1

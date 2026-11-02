@@ -409,7 +409,7 @@ nl-web.com
 nl.af
 nl.ai
 nl.am
-nl.g
+# nl.g  (no such TLD)
 nl.gy
 nl.mn
 no.tc
@@ -1256,7 +1256,7 @@ ie.tc
 iego.cn
 iego.net
 iego.org
-ift.cs
+# ift.cs  (no such TLD)
 ift.fr
 igg.biz
 igg.cc
@@ -3395,7 +3395,7 @@ ort0.org
 ort25.biz
 ortalindustries.org
 ortan.info
-orted
+# orted  (no such TLD)
 orthebride.co.za
 orto.ru
 ortrelay.com
@@ -5533,12 +5533,12 @@ txt.al
 # Reference: https://twitter.com/VK_Intel/status/1227234932960964609
 # Reference: https://www.virustotal.com/gui/file/051f15288d162db642ccb694cbd8dafeb71b89614ac711c350f992a7b2a9d7d7/detection
 
-.gettask
-.gettasks
-.gettasksize
-.getupdates
-.reporttask
-.reportupdates
+# .gettask  (no such TLD)
+# .gettasks  (no such TLD)
+# .gettasksize  (no such TLD)
+# .getupdates  (no such TLD)
+# .reporttask  (no such TLD)
+# .reportupdates  (no such TLD)
 
 # Reference: https://twitter.com/sicehice/status/1668834356444446722
 

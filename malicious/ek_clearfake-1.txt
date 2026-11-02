@@ -972,7 +972,7 @@ chickencutlethacks.fit
 chimney-sync-engine.christmas
 chip.intelcar.pics
 chloroquineser.com
-christmas14.sin-wins-diffwho
+# christmas14.sin-wins-diffwho  (no such TLD)
 christorem.com
 chronicle-archive-keeper.garden
 chronicle5-diachiha.digital
@@ -10203,7 +10203,7 @@ btc-ai-agent.ai-cryptolist.org
 btohome.com
 buffalocreekcampground.com
 bulls-bet.org
-bumilingua.or
+# bumilingua.or  (no such TLD)
 bunny-cdn.us
 burnin8break.digital
 business.haluvi.com
@@ -10271,7 +10271,7 @@ cleanclash.shop
 cleanmineral.shop
 client-krypton.com
 clientcenter-uae.com
-cnrainycloudglobal.pp
+# cnrainycloudglobal.pp  (no such TLD)
 codashop-mlbb.merchats.se
 codashop-mm.topup-diamonds.com
 codashop.merchats.se
@@ -10538,7 +10538,7 @@ github.lfq3.eu.org
 github.southaki.top
 github.tinypx.top
 github.wwwstudio.cn
-github.xiaomo-station
+# github.xiaomo-station  (no such TLD)
 github.zjg221.top
 githubmirror.cnrainycloudglobal.pp.ua
 gitproxy.lxj.ink
@@ -10930,7 +10930,7 @@ mitosbeta.id
 ml.fee585.cfd
 mlbb-rising.5v5-moba.us
 mlbb-tiktok.moba-5v5.us
-mlbb.eventmax
+# mlbb.eventmax  (no such TLD)
 mlbbesports.com
 mlbbevents.specialfor.za.com
 mlbbeventz.specialfor.za.com
@@ -11025,7 +11025,7 @@ official-elon-coin-sol.ai-cryptolist.net
 official-vitalik.ai-cryptolist.org
 officialactivision.com
 oficialne-prijem-4.digital
-okx-pro.hl
+# okx-pro.hl  (no such TLD)
 okx.downow.cn
 online-atualizar.digital
 onlinebia-digital.ru.com
@@ -11145,7 +11145,7 @@ puthra.de
 q-3xwa.site
 qbbookspro.com
 qnd-mo.fit
-qq10001.de5
+qq10001.de5.net
 qq888.asia
 qrisbos.cc
 qu-zhan.cc
@@ -11576,7 +11576,7 @@ whitefoxcloset.com
 wiki.larp.bio
 winew0ryasak.lat
 winkyhive.com
-wipai.dpdns
+wipai.dpdns.org
 wix-renew.com
 wmutils.io
 workdaysupply.com
@@ -11632,7 +11632,7 @@ xrpcafe.net
 xtrememarkethub.com
 xv.supabase.icu
 xxphe1.blog
-xzd.qzz
+xzd.qzz.io
 ya.anzeigen.top
 ya.coldwalk.top
 ybdocs.it.com
@@ -21888,7 +21888,7 @@ sowhasto.com
 sporsayfa.betsat1812.com
 stacmupysurvey.top
 stadraft.top
-stage.entourageyearbooks
+# stage.entourageyearbooks  (no such TLD)
 stage.survey-cdn.landingtester.com
 stagnaptsurvey.top
 staidriz.com

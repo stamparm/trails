@@ -3375,7 +3375,7 @@ foreignvoter.com
 foreignvoters.com
 geqy.net
 germanyoktobeer.com
-kl.mybiz
+# kl.mybiz  (no such TLD)
 latinoamericansvote.com
 latinoamericansvoter.com
 latinoamericansvoters.com

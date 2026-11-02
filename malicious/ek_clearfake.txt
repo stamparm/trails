@@ -23934,7 +23934,7 @@ bitly.fitful1yrid.lat
 bitly.globaldatanetworksys.lat
 bitly.kira7vex.lat
 bitly.vexo7larn.lat
-bitopsmgr.5lorexin
+# bitopsmgr.5lorexin  (no such TLD)
 bitopsmgr.5lorexin.surf
 bitsmeshnode.sara5byte.surf
 bitterfather.resentingdad.ru
@@ -26602,7 +26602,7 @@ cloudhost.in.net
 cloudinfrastructure.in.net
 clouditapp.pics
 cloudkreis.ru
-cloudlinkbox.5lorexin
+# cloudlinkbox.5lorexin  (no such TLD)
 cloudlinkbox.5lorexin.surf
 cloudm1nt.ru
 cloudm1x.ru
@@ -28558,7 +28558,7 @@ devbox.technoglobalnet.lat
 deve1ins0le.ru
 develop45-ip-489-debug15-framework.in.net
 devopsn.in.net
-devrunbox.5lorexin
+# devrunbox.5lorexin  (no such TLD)
 devrunbox.5lorexin.surf
 devsig.prefixwag.in.net
 devy-3.ru
@@ -40454,7 +40454,7 @@ netapis.mowin8single.lat
 netapis.nethubtop.lat
 netapis.prepol5oldafon.lat
 netapis.tonmixin.surf
-netflowsys.5lorexin
+# netflowsys.5lorexin  (no such TLD)
 netflowsys.5lorexin.surf
 netfox.digitalcloudsys.lat
 netfox.fitful1yrid.lat
@@ -101890,7 +101890,7 @@ workausservce.sbs
 a-gain.in
 abltda.cl
 abo99.net
-account-captcha-id4234.cfdsign-inuri.html
+# account-captcha-id4234.cfdsign-inuri.html  (no such TLD)
 acirurgica.com.br
 advokatsubbotin.com
 affairstv.com
@@ -101969,7 +101969,6 @@ dancework-agency.com
 dementiepas.nl
 demo-tracking.predictive.dev
 demo88.org
-denshikeiyaku-hikaku.comtimestamp-muryo
 dev.camidstudios.com
 dev.theinstituteofreo.com
 developer.promowebsites.com.au
@@ -102065,8 +102064,7 @@ kinderweather.com
 kingsauto-glass.com
 kiraww.com
 knee360.in.brandstapler.com
-ksdkgsdkgkgmgm.proofofo.js
-ksfldfklskdmbxcvb.comgigi
+# ksdkgsdkgkgmgm.proofofo.js  (no such TLD)
 ksp-s.com
 ladamajutrading.com.nexus-my.com
 landscapearchitectural.com
