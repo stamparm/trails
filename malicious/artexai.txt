@@ -6648,7 +6648,6 @@ poai.si
 135.148.166.54:8080
 136.119.131.145:8080
 136.66.47.237:8080
-137.116.145.75:8080
 137.131.25.73:8080
 137.131.57.24:8080
 137.175.102.168:8080
@@ -10911,6 +10910,7 @@ poai.si
 165.1.67.142.sslip.io
 165.154.254.44.nip.io
 166211.xyz
+168920.xyz
 168facai-d.233108.vip
 170.9.25.192.sslip.io
 1707888.xyz
@@ -11199,6 +11199,7 @@ poai.si
 550max.com
 555331.xyz
 5554.hair
+555451.xyz
 55ai.xyz
 561949.xyz
 563pt.com
@@ -11956,6 +11957,7 @@ aigateway.usyseg.top
 aigc.matrixrouter.ai
 aigo.codes
 aigpt.club
+aigpt.edu.kg
 aigpuhub.top
 aigroups.qzz.io
 aigw.shop
@@ -12334,8 +12336,8 @@ api.anggwpus.com
 api.anonyem.shop
 api.ansen.cc
 api.anyb.top
-api.aobuzz
 api.aotejia6.xyz
+api.aowww.buzz
 api.api666666.org
 api.apigo.online
 api.apigzt.xyz
@@ -13358,7 +13360,7 @@ b.39.la
 b1anyu.com
 b204.78896889.xyz
 b4im.com
-b52insub2top
+b52insub2aip.top
 baage.ageteam.online
 back.aiinfo.work
 backapi.qwqcc.com
@@ -13404,7 +13406,7 @@ beadplay.cn
 beanhead.fun
 beanroti.com
 bearbot.cc
-beastiecom
+beastieapi.com
 beatcmd.com
 beatdot.org
 beautifulthorita.myddns.com
@@ -13505,6 +13507,7 @@ btctimeline.net
 bu44er.art
 buf.ink
 bufflink.cc
+bug.pics
 bugapi.gpt6.icu
 builtinseclab.cn
 buimyshn.top
@@ -13774,7 +13777,7 @@ clawcc.cloud
 clawmater.vip
 clawmvp.xgwise.com
 clawtokn.com
-cleardev
+clearapi.dev
 cli-proxy.ap.medomino.com
 cli.mega--cloud.com
 cli.sparkloc.org
@@ -13793,13 +13796,13 @@ cloud.jakku-sakura.com
 cloud1.liusujin.de
 cloud111.2457100.xyz
 cloudai.qutcat.com
+cloudapi.space
 cloudconvert.vu
 cloudethan.net
 cloudfeng.top
 cloudleadinno.com
 cloudnium-sub2api.017804.xyz
 cloudsea35.com
-cloudspace
 cloudverseai.cn
 cloudyun.xyz
 clow.lyingflat.today
@@ -13947,6 +13950,7 @@ codexapi.oaiopen.cn
 codexapi.pkudair.site
 codexapi.win
 codexapi.wo01.site
+codexapi.xin
 codexapi.zirui.online
 codexapis.zeabur.app
 codexcn.23dazhe.com
@@ -13956,7 +13960,6 @@ codexforme.site
 codexonly.top
 codexroute.com
 codexss.lol
-codexxin
 coding.0za.top
 coding.keeper.work
 coding.nbaallstar.fun
@@ -14146,7 +14149,7 @@ davmail.glan.ch
 daweidejingang.com
 daxiangai.xyz
 daxiangge.com
-daxing-top
+daxing-api.top
 day-dream.top
 dbdbd.com
 dboffer.art
@@ -14331,6 +14334,7 @@ e-c.cc
 e0f1g2.shop
 e2woo.top
 e5.tn
+e688.xyz
 eachbattery.com
 eachen-station.site
 easebonny.cn
@@ -14374,7 +14378,7 @@ elite-ai.cn
 elixvader.xyz
 elysiumide.tech
 embersccu.cadillac.ps
-emmiolsite
+emmiolapi.site
 emnian.com
 emoxd.com
 enebula.date
@@ -14562,7 +14566,6 @@ frenchstreamtv.my
 fretwang.com
 friskknight.xyz
 fromapi.cn
-fromcn
 front.jiangqianxian.dpdns.org
 frontier.555451.xyz
 frp.xielj.top
@@ -14816,7 +14819,7 @@ grok2api.dispatchtool.top
 growupapi.ltd
 gt.zlchxh.top
 gtasix.app
-guaixyz
+guaiapi.xyz
 gualele.fun
 guanjianchun.uk
 guanlannb.com
@@ -15097,7 +15100,6 @@ icexiaose.cn
 icexingweb.com
 ichao.online
 iclaudeapi.com
-iclaudecom
 icn.me
 icts.asia
 idc0.eu.org
@@ -15248,6 +15250,7 @@ jialigu.cn
 jialinrong.asia
 jiang.li
 jiange12138.top
+jiangqianxian.dpdns.org
 jiangzishijie.top
 jianme.top
 jianxi1688.me
@@ -15345,7 +15348,7 @@ justdo.dpdns.org
 justzzz.cloud
 juxingwl0898.com
 juzi05.fun
-juzixyz
+juziapi.xyz
 jwcore.space
 jwg.hbktpd.cn
 jx.jiaxinqea.xyz
@@ -15406,7 +15409,7 @@ key.goertek.top
 key.kayoo.vip
 key1.top
 keyfocus.cn
-keyoracom
+keyoraapi.com
 keytunnels.com
 kf.168ai.org
 kg-sea.com
@@ -15420,7 +15423,7 @@ kiasl.com
 kibana.auyitptusip.xyz
 kikim.uk
 killaura.cc.cd
-kilocn
+kiloapi.cn
 kimn01.top
 kingmzrpanel.natkosy.biz.id
 kinoger.one
@@ -15440,7 +15443,7 @@ kknow.dpdns.org
 kkpark.cc
 kkrss.com
 kktools.lol
-kkxxcom
+kkxxapi.com
 klawproducts.cn
 kleeclub.top
 klpzjy888.com
@@ -16076,7 +16079,7 @@ myhkserver88.shop
 myibc.net
 mylab.help
 mylittleairport.store
-myopentop
+myopenapi.top
 myqingting.xin
 myselfapi.xyz
 mysub.52050016.xyz
@@ -16353,7 +16356,6 @@ onc.cc
 one-ai.uk
 one-api.aidrivenengine.tech
 one2api.top
-one2top
 onebin.online
 onebiztrip.com
 onedog.xyz
@@ -16462,7 +16464,7 @@ ovh.langitpedia.eu.org
 ovh.zhanglin.dpdns.org
 ovo.today
 ower.top
-owltop
+owlapi.top
 own.suanzhou.top
 owoo.net
 oxfire.ghast.cn
@@ -16531,7 +16533,7 @@ pd10ust.dev
 pdf2quiz.pro
 pdffree.net
 peakintellect.cn
-pear-top
+pear-api.top
 pecsci.com
 peedseek.com
 peekyboy.kdns.fr
@@ -16675,7 +16677,7 @@ qhao.wangwang.sbs
 qhx.systems
 qianfan.asia
 qianyu100.site
-qianyuecom
+qianyueapi.com
 qiaozhiw.com
 qibangjiankang.com
 qichenstudio.com
@@ -16792,7 +16794,7 @@ renshy.net
 renxianz.bm1.xiaokld.com
 repost.claude.kseay.com
 resdn.com
-researchicu
+researchapi.icu
 rest2build.lol
 retransmit.cc
 reviewdas-checkout.organiccrap.com
@@ -17234,8 +17236,8 @@ sotryai.com
 souelarm.whatissix.org
 sougoushurufa.org
 soul-copy.com
+soulapi.online
 soulheart.online
-soulonline
 sourcerev.top
 sp.831xz.com
 spacebit-api.206-251-54-31.sslip.io
@@ -17315,6 +17317,7 @@ su.nb66.cc
 su.smallfish.cloud
 su.xn--fizu37d.com
 suansuan.de
+suanzhou.top
 sub-2.kltion.com
 sub-api.ai-dark.top
 sub-api.allinaigc.org
@@ -19566,6 +19569,7 @@ vcaweo.com
 vcleanrouter.com
 vd.vistalineglobal.com
 vdz.7-com.cn
+vecr.ai
 vegai.io
 venti.eu.org
 venus.aigc-app.net
@@ -19967,6 +19971,7 @@ xiaxqry.cn
 xiayp.com
 xibaaxiba.cloud
 xie111.cc.cd
+xielj.top
 xieziji88.bond
 xiguadao.de
 xihua666.duckdns.org
@@ -20058,7 +20063,7 @@ xuanjios.com
 xuanjiwang421.com
 xuanwu.chat
 xuanyukk.com
-xuetop
+xueapi.top
 xufei.aigpt.edu.kg
 xuheen.com
 xui.ichao.online
