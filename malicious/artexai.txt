@@ -5935,3 +5935,29 @@ zp.airoe.cn
 zuqtmpsouthern.bond
 zwjdsb66.xyz
 zydow.icu
+
+# Reference: https://x.com/stop_spammerz/status/2116576361976418689
+# BANNER_0_HASH-HOST=acefc7439a144823ef166055ac864489
+# BANNER_0_HASH-HOST=903638ac075438023fc03fd10ca34e96
+
+http://147.124.211.248
+http://43.106.102.56
+http://43.98.163.80
+http://43.98.168.25
+http://43.98.181.63
+http://43.98.196.73
+http://47.236.38.40
+http://47.237.6.12
+http://47.79.39.182
+http://47.84.111.176
+http://47.84.127.146
+http://47.84.127.193
+http://88.216.191.9
+124.243.189.69:10443
+198.200.54.240:8800
+43.98.196.73:8080
+88.216.191.9:443
+a.poai.si
+chat-postback.sharemy.day
+payload-usa.com
+poai.si
