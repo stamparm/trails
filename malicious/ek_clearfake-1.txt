@@ -22676,6 +22676,15 @@ webpagesafe.online
 wiro88.it.com
 zaevoderix.com
 
+# Reference: https://documents.trendmicro.com/assets/txt/Smart-Contracts-for-C2-IoC-list-kJLTXB3.txt
+
+badischwaendi.ch
+ootid.srv-auth-dlt-msh.in.net
+put34b.camp
+ren.trytoken.life
+srv-auth-dlt-msh.in.net
+trytoken.life
+
 # Generic
 
 /clickfix-callback
