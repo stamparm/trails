@@ -10449,6 +10449,10 @@ drvdb9rcebidk.cloudfront.net
 
 /ruWkSudvNOtGH0q.html
 
+# Reference: https://hunt.io/blog/php2shell-honeypot-shells-root-palo-alto-firewalls
+
+/panos_rce_poc.py
+
 # Generic
 
 /5c0ca79.php
