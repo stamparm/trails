@@ -100936,7 +100936,6 @@ web-trackingview.suryopurnomokulo.pics
 
 # Reference: https://threatfox.abuse.ch/browse/tag/Clickfix (# 2025-12-09)
 
-http://13.248.141.42
 http://143.110.188.74
 http://153.127.50.236
 http://155.138.136.12
@@ -100960,7 +100959,6 @@ http://52.57.172.61
 http://52.76.43.213
 http://66.39.76.71
 http://74.48.108.236
-http://76.223.115.194
 http://98.70.13.131
 104-7-227-11.lightspeed.dybhfl.sbcglobal.net
 134.209.209.26:443
