@@ -19410,6 +19410,10 @@ videostacker.app
 
 metrics-onclick.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/198.54.117.242/relations
+
+metrics-stat.com
+
 # Generic
 
 /assets/lfg.js
