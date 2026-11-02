@@ -19405,6 +19405,11 @@ social.fivconnect.net
 thriveinecommerce.com
 videostacker.app
 
+# Reference: https://x.com/KirkDerpca/status/2116875741790875655
+# Reference: https://ohey.ca/threats/web-skimmers/superpixel/
+
+metrics-onclick.com
+
 # Generic
 
 /assets/lfg.js
