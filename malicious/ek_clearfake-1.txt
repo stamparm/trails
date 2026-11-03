@@ -23092,6 +23092,19 @@ polaternaert.top
 stats.zeralentopalotavoxari.digital
 zeralentopalotavoxari.digital
 
+# Reference: https://mohammad-alattas.github.io/posts/Cached-and-Loaded-AI-Masterpiece-Malware-VelCap-ClickFix-Chain,-From-a-School-Website-to-a-Crypto-Wallet-Stealer/
+
+http://172.96.160.208
+http://62.238.41.64
+172.96.160.208:443
+cloudmegaupload.com
+nvidia-update.cc
+systemdriver-update.vg
+undefined.vg
+/velcap4b
+/velcap4d
+/velcap4e
+
 # Generic
 
 /clickfix-callback
