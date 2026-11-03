@@ -24977,3 +24977,11 @@ nigu.adobes.biz
 
 207.58.174.146:8040
 207.58.174.146:8041
+
+# Reference: https://x.com/malwrhunterteam/status/2117604540996272316
+# TITLE-HOST/IP=WHisKEY - Remote Device Management
+
+http://50.114.179.29
+50.114.179.29:8040
+50.114.179.29:8041
+50.114.179.29:8080
