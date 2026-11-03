@@ -23080,6 +23080,18 @@ verify.mypulseacademy.com
 webnodlite.shop
 whatcomnfg.com
 
+# Reference: https://x.com/malwrhunterteam/status/2117387819887059439
+# TITLE-HOST/IP=ClickFix Panel 2.0
+
+http://13.143.164.119
+http://13.143.165.109
+13.143.164.119:443
+13.143.165.109:443
+demonter.top
+polaternaert.top
+stats.zeralentopalotavoxari.digital
+zeralentopalotavoxari.digital
+
 # Generic
 
 /clickfix-callback
