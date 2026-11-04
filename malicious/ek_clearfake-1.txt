@@ -23320,6 +23320,8 @@ cdn.kjhg.shop
 cf-com.sbs
 cf-relay.sbs
 cf-restapi.com
+cf-webapi.cfd
+cfapi.sbs
 cfwww.cfd
 checkmrobot.site
 checkms5.cc
