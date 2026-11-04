@@ -212,7 +212,6 @@ magesource.su
 # Reference: https://twitter.com/AffableKraut/status/1154641710653300737
 
 xn--googlepng-m5a.com    # was: googlepíng.com
-xn--googlepng-m5a.com
 
 # Reference: https://blog.sucuri.net/2019/07/fake-google-domains-used-in-evasive-magento-skimmer.html
 # Reference: https://twitter.com/daphiel/status/1156314169492279299
@@ -220,7 +219,6 @@ xn--googlepng-m5a.com
 invoiceservice.info
 lnfo.cc
 xn--google-analytcs-xpb.com    # was: google-analytîcs.com
-xn--google-analytcs-xpb.com
 google.ssl.lnfo.cc
 
 # Reference: https://twitter.com/killamjr/status/1154393722777460737
@@ -11332,7 +11330,6 @@ ehatec.quest
 ejidigit.click
 ekodigit.quest
 empitok.online
-enarmob.shop
 enarmob.shop 
 erotest.online
 ettransfer.live
@@ -16016,7 +16013,6 @@ cdn.uutop.shop
 # Reference: https://x.com/sdcyberresearch/status/1909221421567328382
 
 aveopixel.xyz
-megapixelheid.top
 bapepixel.top
 beppixel.top
 canmeriksmonday.xyz
@@ -17367,10 +17363,8 @@ analyzerai.icu
 livechatorg.com
 onlinechatmatrix.online
 onlinechatmatrix.store
-onlinechatmatrix.xyz
 onlinechatmatrix.xyz    # was: onlinechatmatrix․xyz
 onlinesupportmatrix.org
-onlinesupportmatrix.support
 onlinesupportmatrix.xyz
 onlinesupportmatrix.support    # was: onlinesupportmatrix․support
 requiresys.icu

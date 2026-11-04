@@ -94,7 +94,6 @@ muf.mobi
 net16.net
 net23.net
 net46.net
-net46.net
 net63.net
 net76.net
 netai.net
@@ -376,7 +375,6 @@ mobile.web.tr
 muf.mobi
 net16.net
 net23.net
-net46.net
 net46.net
 net63.net
 net76.net
