@@ -23259,6 +23259,12 @@ zzvgfj.xyz
 /velcap4d
 /velcap4e
 
+# Reference: https://x.com/inf0stache/status/2117730388621865393
+
+cloudflare.bz
+ergerger.rest
+/huesostupoisosihui.txt
+
 # Generic
 
 /clickfix-callback
