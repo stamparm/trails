@@ -32,6 +32,13 @@ jobs:
         with:
           path: trails
 
+      # One entry per line and nothing around it. Tabs, trailing spaces, blank-line runs and
+      # missing final newlines kept arriving (web editors, mostly), invisible in review, and the
+      # 2026-11 clean-up touched 373 files. --fix rewrites a file without changing an entry.
+      - name: Whitespace is clean
+        working-directory: trails
+        run: python3 tools/check_whitespace.py
+
       - name: Check out the engine (for the checker and its rules)
         uses: actions/checkout@v5
         with:
