@@ -1766,7 +1766,6 @@ anyplace-gateway.info
 
 lifopp-sacoho.com
 
-
 # Reference: https://www.reverse.it/sample/c314fcf73fbd90c06867864834c7f62e29d2a217bde9b4bdc9b004e6b55d4697?environmentId=100
 # Reference: https://www.virustotal.com/#/file/c314fcf73fbd90c06867864834c7f62e29d2a217bde9b4bdc9b004e6b55d4697/detection
 
@@ -1867,7 +1866,6 @@ dl.xetapp.us
 dl.ludashi.com
 dlres-a.iyims.com
 
-
 # Reference: https://www.virustotal.com/gui/ip-address/173.231.184.61/relations
 
 emnosy.com
@@ -1962,7 +1960,6 @@ thelimitlessmind.asia
 urbansquares.com
 weightloss4tmz.com
 welcometomydiabeticlife.com
-
 
 # Reference: https://www.microsoft.com/security/blog/2017/06/22/understanding-the-true-size-of-fireball/?source=mmpc
 # Reference: https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Win32%2FGhokswa
@@ -2390,7 +2387,7 @@ h-url.ru
 170.231.122.20:5992
 170.231.122.20:5993
 170.231.122.20:8081
-67.15.100.252:8081 
+67.15.100.252:8081
 67.228.235.91:8081
 88.191.253.157:8081
 tecnox.serveftp.com

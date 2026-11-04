@@ -1491,7 +1491,7 @@ statconuter.com/c.php
 # Reference: https://blog.trendmicro.co.jp/archives/19054
 
 /7773/index.php
-/9125/gate.php 
+/9125/gate.php
 
 # Reference: https://www.bromium.com/mapping-malware-distribution-network/
 # Reference: https://otx.alienvault.com/pulse/5ca7142dd898276082584a58
@@ -3600,7 +3600,6 @@ tunacan-812.tk
 /RemittanceDetails.ps1
 /SupplierRemittanceDetails.ps1
 /WFACHPMT.ps1
-
 
 # Reference: https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html
 # Reference: https://www.virustotal.com/gui/ip-address/67.229.97.229/relations
