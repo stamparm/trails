@@ -59,6 +59,14 @@ jobs:
         working-directory: maltrail
         run: python3 sensor/tools/check_trails.py --path ../trails --canaries
 
+      # The same question for trails written WITHOUT a host. "/wp-includes/ID3/" fires on that path of
+      # every host - and the sensor also looks a request up by its parent directory and its last
+      # segment - so it fired on every WordPress site, as "emotet (malware)". The canaries are
+      # WordPress core, common software paths and English words (tests/canaries-paths.txt).
+      - name: No host-less path trail matches an ordinary request
+        working-directory: maltrail
+        run: python3 sensor/tools/check_trails.py --path ../trails --path-canaries
+
       # The same question against the 100,000 most popular domains instead of 47 hand-picked ones,
       # at TWO depths, because the two halves have opposite noise profiles. tests/canaries-top100k.txt
       # carries the reasoning and the measurements.
