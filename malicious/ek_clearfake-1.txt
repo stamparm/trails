@@ -23470,6 +23470,7 @@ claudeearlyaccess-fable.cfd
 # Reference: https://app.urlyze.io/scan/df460d15-3a29-4d98-8924-a57c6795d8be
 
 captch.online
+salikae.store
 /clickfix/PqTe482DwQ
 
 # Generic
