@@ -4067,6 +4067,7 @@ win-admin-center365.xyz
 /flood.bat
 /flood.hta
 /flood.js
+/flood.php
 /flood.ps1
 /flood.py
 /flood.sh
@@ -6180,6 +6181,9 @@ http://37.1.209.213
 
 /api/inject
 /api/injection
+/inject
+/injection
+/injector
 
 # Reference: https://twitter.com/malwrhunterteam/status/1611423202957213701
 # Reference: https://twitter.com/r3dbU7z/status/1717062792589586859
