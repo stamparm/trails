@@ -10732,6 +10732,17 @@ drvdb9rcebidk.cloudfront.net
 /cve_2026_86218.py
 /cve_xxxx_yyyy.py
 
+# VQL=open_dir.file:(name = "CVE*" AND magika_label = "powershell")
+
+/cve-2020-0688.ps1
+/cve-2021-1675.ps1
+/cve-2022-21907.ps1
+/cve-2024-20666_checker.ps1
+/cve-2024-43573%20mitigation%20script.ps1
+/cve-2025-29810_checker.ps1
+/cve_2019_0708.ps1
+/cve_bufferoverflow_test.txt
+
 # Generic
 
 /5c0ca79.php
