@@ -148,7 +148,6 @@
 /mrtiger.php
 /mulcishell.php
 /myshell.php
-# /mysql.php  (a WordPress core file name (SimplePie cache): fires on every site that serves it)
 /mysql_adminer.php
 /n3fa5t1ca.php
 /nccshell.php
@@ -281,7 +280,6 @@
 
 # Reference: https://paste.ee/r/v9aRR/0
 
-# /shell.php  (a WordPress core file name (Text/Diff/Engine): fires on every site that serves it)
 
 # Reference: https://twitter.com/jstrosch/status/1255898007377231873
 
