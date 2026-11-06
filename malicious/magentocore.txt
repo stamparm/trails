@@ -15506,6 +15506,7 @@ lunor.help
 lurean.online
 lynex.online
 lynqer.site
+madison-reed.xyz
 mavrek.space
 mavrixa.xyz
 mindhex.cfd
@@ -15650,6 +15651,7 @@ visualbloomlab.com
 volnexy.bond
 vorix.xyz
 vornik.online
+vornix.click
 vortyx.sbs
 vrykon.xyz
 vulerloq.store
@@ -15669,6 +15671,7 @@ xytrion.bond
 xyven.lol
 zanoro.biz
 zareon.xyz
+zelqor.lol
 zentiq.xyz
 zerak.online
 zerakos.bond
@@ -15719,6 +15722,7 @@ cdn.teoyey.online
 cdn.vrykon.xyz
 cdn.vulerloq.store
 cdn.whatsmenu.cfd
+cdn.www.madison-reed.xyz
 cdn.www.roveconcepts.xyz
 cdn.zethrax.rest
 qc.180smoke.click
