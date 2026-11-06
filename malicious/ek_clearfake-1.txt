@@ -23485,6 +23485,10 @@ u1.maxcloud.pro
 wemod.fun
 /clickfix/PqTe482DwQ
 
+# Reference: https://x.com/Gi7w0rm/status/2118688006965956618
+
+/rytu08-74/
+
 # Generic
 
 /clickfix-callback
