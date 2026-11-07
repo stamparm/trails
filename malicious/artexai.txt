@@ -1,6 +1,8 @@
 # Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
 # See the file 'LICENSE.md' for copying permission
 
+# Aliases: storm-3358
+
 # Reference: https://x.com/ShanHolo/status/2116515204695736439
 # Reference: https://x.com/MichalKoczwara/status/2116240771984789707
 # Reference: https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks
