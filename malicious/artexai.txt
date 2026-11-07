@@ -25276,3 +25276,21 @@ xj735612.top
 xtoyt.com
 yourtalk.net
 zhuanshu.cyfljj.com
+
+# Reference: https://x.com/MsftSecIntel/status/2118898318457585943
+# Reference: https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/
+
+178.16.54.129:2222
+178.16.54.129:8080
+178.16.54.129:8081
+178.16.54.129:8088
+178.16.54.129:8443
+178.16.54.129:8899
+85.11.167.52:8093
+85.11.167.52:8097
+85.11.167.52:8099
+85.11.167.52:8444
+85.11.168.45:8093
+85.11.168.45:8097
+85.11.168.45:8099
+85.11.168.45:8444
