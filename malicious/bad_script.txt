@@ -10759,6 +10759,13 @@ drvdb9rcebidk.cloudfront.net
 /assets/index-34le1uM6.js
 /index-34le1uM6.js
 
+# Reference: https://x.com/Malwarehunterr/status/2119484913053519885
+
+/_next/static/chunks/0s2tdr4vb5378.js
+/_next/static/chunks/0x56skhob._h5.js
+/0s2tdr4vb5378.js
+/0x56skhob._h5.js
+
 # Generic
 
 /5c0ca79.php
