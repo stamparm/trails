@@ -32,14 +32,48 @@ permissions:
   contents: write
   id-token: write
   attestations: write
+  actions: read
 
 concurrency:
   group: publish
   cancel-in-progress: false
 
 jobs:
+  # Publish the newest commit the Gate passed, not whatever main is at the scheduled minute. Content
+  # is pushed straight to main, so main is regularly red for a while (2026-11-08: a top-30k domain
+  # as Lazarus, then three pushes of broken whitespace) - and a publish landing then shipped it to
+  # every sensor, since nothing here looked at the Gate. Stepping back to the last green commit
+  # keeps everything good from before the red push; a commit whose Gate is still running is
+  # skipped too, and the next slot picks it up.
+  pick:
+    name: newest commit the gate passed
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      sha: ${{ steps.pick.outputs.sha }}
+    steps:
+      - name: Pick
+        id: pick
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gate=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow gate.yml --branch main --event push \
+                   --limit 200 --json headSha,conclusion --jq '.[] | "\(.headSha) \(.conclusion)"')
+          for sha in $(gh api "repos/$GITHUB_REPOSITORY/commits?sha=main&per_page=100" --jq '.[].sha'); do
+            state=$(printf '%s\n' "$gate" | awk -v s="$sha" '$1 == s { print $2; exit }')
+            if [ "$state" = "success" ]; then
+              echo "[i] publishing ${sha:0:7}"
+              echo "sha=$sha" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "[i] skipping ${sha:0:7}: gate ${state:-not run yet}"
+          done
+          echo "[!] none of the last 100 commits passed the gate - nothing published this slot"
+
   publish:
     name: assemble and publish
+    needs: pick
+    if: needs.pick.outputs.sha != ''
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -47,6 +81,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           path: trails
+          ref: ${{ needs.pick.outputs.sha }}
 
       - name: Check out the engine (the assembler lives with the code it must agree with)
         uses: actions/checkout@v5
@@ -145,7 +180,7 @@ jobs:
           gh release create "${{ steps.tag.outputs.name }}" \
             --repo "$GITHUB_REPOSITORY" \
             --title "${{ steps.tag.outputs.name }}" \
-            --notes "Assembled from ${{ github.sha }} by maltrail@${{ steps.assemble.outputs.engine }}.
+            --notes "Assembled from ${{ needs.pick.outputs.sha }} by maltrail@${{ steps.assemble.outputs.engine }}.
 
           ${{ steps.assemble.outputs.rows }} trails, sha256 \`${{ steps.assemble.outputs.sha }}\`.
 
