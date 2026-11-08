@@ -234,10 +234,6 @@ za.tn
 
 vps-10.com
 
-# Reference: https://www.threatcrowd.org/domain.php?domain=free.fr
-
-free.fr
-
 # Reference: http://mirror2.malwaredomains.com/files/bulk_registrars.txt
 
 0-0-0.info
@@ -2087,7 +2083,6 @@ ducchau.com
 duetpaseo.ru
 dustbite.se
 dwarfvader.com
-dyn.com
 dynaccess.de
 dynamicdns.co
 dynamicdns.com.co
@@ -2495,7 +2490,6 @@ jameswismer.ca
 jandjsitebuilders.com
 japan.is
 javasurya.com
-jawapos.com
 jaytex.ca
 jcom2u.com
 jctc.in
@@ -2924,7 +2918,6 @@ omghairstyles.net
 omnilux.ru
 onedot.eu
 onexw.com
-online-literature.com
 online-ooo.ru
 only.cx
 onnepank.ee
@@ -3206,7 +3199,6 @@ searchsubmitexpert.com
 secularpineapple.com
 securityminders.com
 securityroot.org
-sektori.org
 selfhost.nl
 selux.ru
 semashare.com
@@ -4511,10 +4503,6 @@ hostingerapp.com
 # Reference: https://www.virustotal.com/gui/domain/realydomain.info/relations
 
 realydomain.info
-
-# Reference: https://www.virustotal.com/gui/domain/pphosted.com/relations
-
-pphosted.com
 
 # Reference: https://www.virustotal.com/gui/domain/8df.us/relations
 # Reference: https://github.com/stamparm/maltrail/pull/17293

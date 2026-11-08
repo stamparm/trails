@@ -300,7 +300,6 @@ appexsports.trafficmanager.net
 appexbingfinance.trafficmanager.net
 appexbingweather.trafficmanager.net
 pipoffers.apnpartners.com
-kqzyfj.com
 zapmeta.ws
 ivelog.com
 getwebbar.com
