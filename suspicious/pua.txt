@@ -296,9 +296,6 @@ searchonlinenow.net
 snjsearch.com
 beautifulcalendar.net
 top-arama.com
-appexsports.trafficmanager.net
-appexbingfinance.trafficmanager.net
-appexbingweather.trafficmanager.net
 pipoffers.apnpartners.com
 zapmeta.ws
 ivelog.com
@@ -1805,10 +1802,6 @@ banner.it.casino.com
 # Reference: https://twitter.com/MalwarePatrol/status/1135953868939026432
 
 chat.ygosu.com
-
-# Reference: https://twitter.com/MalwarePatrol/status/1136859839236153344
-
-t1.daumcdn.net
 
 # Reference: https://twitter.com/MalwarePatrol/status/1137584613935763457
 
