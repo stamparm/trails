@@ -10752,6 +10752,13 @@ drvdb9rcebidk.cloudfront.net
 
 /aa2a48591dd88a31.js
 
+# Reference: https://x.com/Malwarehunterr/status/2119391752167768424
+# Reference: https://www.virustotal.com/gui/file/249626244f23928c75e6c382da62278ed1d4e012a0c0f62beafefc1e4d7c5baa/detection
+# Reference: https://www.virustotal.com/gui/file/223fb04f69707d6ca7c22759aded44e22b248bd776914a7920f35850154537ec/detection
+
+/assets/index-34le1uM6.js
+/index-34le1uM6.js
+
 # Generic
 
 /5c0ca79.php
