@@ -2176,3 +2176,8 @@ villallbos.com
 # Reference: https://www.virustotal.com/gui/ip-address/172.67.140.212/relations
 
 htrmiston.org
+
+# Reference: https://ohey.ca/research/kongtuke-canada-dry-clickfix/
+
+report-ftp.wiki
+syncservice9638.com
