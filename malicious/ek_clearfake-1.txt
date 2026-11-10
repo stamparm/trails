@@ -23521,6 +23521,10 @@ jsrdesign.ca
 kapcha.helixsync.my.id
 loaderyodclick.com
 
+# Reference: https://x.com/threatzone_/status/2120108192411640021
+
+livaisilti.com
+
 # Generic
 
 /clickfix-callback
