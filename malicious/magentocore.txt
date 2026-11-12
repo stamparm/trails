@@ -19462,6 +19462,11 @@ metrics-onclick.com
 
 metrics-stat.com
 
+# Reference: https://x.com/sdcyberresearch/status/2112509931047772372
+
+cookiefrog.net
+jump.cookiefrog.net
+
 # Generic
 
 /assets/lfg.js
