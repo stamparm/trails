@@ -19463,9 +19463,12 @@ metrics-onclick.com
 metrics-stat.com
 
 # Reference: https://x.com/sdcyberresearch/status/2112509931047772372
+# BANNER_0_HASH-HOST=093aee7f45708d1a7a7f3e5c668a1fe9
 
 cookiefrog.net
+dealboxes.net
 jump.cookiefrog.net
+stats.dealboxes.net
 
 # Generic
 
