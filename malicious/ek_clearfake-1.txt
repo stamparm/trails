@@ -23527,6 +23527,7 @@ livaisilti.com
 # Reference: https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/
 # TITLE-HOST/IP=Phantom53
 
+145.63.138.67:8125
 162.252.198.204:5000
 185.224.132.148:5000
 185.224.132.148.nip.io
