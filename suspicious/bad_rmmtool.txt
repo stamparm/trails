@@ -19,12 +19,10 @@ instance-q07bx4-relay.screenconnect.com
 # Reference: https://www.virustotal.com/gui/file/26bae2cc740154108a81e7b0b1c882db0ded1a7e873dd0174d2ac099ec2f6a4f/detection
 
 instance-kkr60r-relay.screenconnect.com
-server-nixde3ff2ff-relay.screenconnect.com
 
 # Reference: https://www.virustotal.com/gui/file/ea7d9798c925b0ec1d02108eada571ca7267c172f9bc338faaa0ff8586068fb6/detection
 
 instance-whpfy0-relay.screenconnect.com
-server-nixde3ff2ff-relay.screenconnect.com
 
 # Reference: https://twitter.com/0xToxin/status/1698972467555889532
 
@@ -505,7 +503,6 @@ yourrldns22.hopto.org
 # Reference: https://www.virustotal.com/gui/file/564370d9522a479a4ed5c2a9b18f66e289e51e2dbf3ce3920fc3e0ad99e25046/detection
 
 instance-moi41i-relay.screenconnect.com
-server-ovh31444376-relay.screenconnect.com
 
 # Reference: https://www.virustotal.com/gui/file/4c7e52097594650e5c18bea599fbedebcd95a19f2a2f471d061027a8814d062d/detection
 
@@ -540,7 +537,6 @@ relay.vahelps.top
 # Reference: https://www.virustotal.com/gui/file/670be5276e9cfb8ac71c870902de0e55ca467c8fb3b7b7d993a91112557f9376/detection
 
 instance-mopgxp-relay.screenconnect.com
-server-nix76efd524-relay.screenconnect.com
 
 # Reference: https://x.com/s1dhy/status/1900298352664678907
 # Reference: https://app.validin.com/detail?find=The%20Watch%20Store%20-%20Best%20products%20online&type=raw&ref_id=dbd2fb7a1a4#tab=host_pairs (# 2025-03-14)
@@ -801,7 +797,6 @@ yxhelp.top
 
 # Reference: https://www.virustotal.com/gui/file/21bfbf0cb3f163bc6437bb4632890d66bea081b84a6e789a86f8d25739b48fe9/detection
 
-182.86.133:8880
 gbhelp.top
 ydhelp.site
 polarof.ydhelp.site
@@ -1259,7 +1254,6 @@ ubdfvugite.com
 # Reference: https://www.virustotal.com/gui/file/5645151f65cec6b95a67885cd35e2edaa473ea3bca9d676ab178c7822731cad2/detection
 
 instance-wipwm8-relay.screenconnect.com
-server-ovh30010035-relay.screenconnect.com
 
 # Reference: https://x.com/1ZRR4H/status/1986185679794028637
 # Reference: https://www.virustotal.com/gui/file/26fbda92490b8ab92a28b709b11b31361266714200fa8954f91bb0bbc96e9c2a/detection
@@ -1312,11 +1306,6 @@ edgeserv.ru
 124.198.132.55:8041
 memphiswave.com
 
-# Reference: https://x.com/malwrhunterteam/status/2000655687542788103
-# Reference: https://www.virustotal.com/gui/file/88bcc4eacf3c0dd26c57dfdd42da085eeff0bcc4c1106eceeba466c0a05fc1e5/detection
-
-server-ovh60010005-relay.screenconnect.com
-
 # Reference: https://www.virustotal.com/gui/ip-address/104.168.101.197/relations
 
 connecragnar.ink
@@ -1342,7 +1331,6 @@ instance-yahsai-relay.screenconnect.com
 # Reference: https://www.virustotal.com/gui/file/86b6f0171e9e3066125b1ae6abd6828f2079d580abe1c66234106ddac34aa031/detection
 
 instance-cuom2j-relay.screenconnect.com
-server-ovh30020022-relay.screenconnect.com
 
 # Reference: https://x.com/smica83/status/2001782695295148033
 # Reference: https://www.virustotal.com/gui/file/5bef26a1c44b66822f117dbb04039b34a89ff42deb36ef635fff0125040fdfdc/detection
@@ -1353,13 +1341,11 @@ instance-mxhqh7-relay.screenconnect.com
 # Reference: https://www.virustotal.com/gui/file/5e544cd08e23402bd10a42c84b6f983dd8f36ba7b3e1104cd0723800284962d8/detection
 
 instance-jg2pse-relay.screenconnect.com
-server-ovh60020005-relay.screenconnect.com
 
 # Reference: https://x.com/smica83/status/2002152723769405593
 # Reference: https://www.virustotal.com/gui/file/3da0a6b6cb58e7d449419156633a5dd0c287d23587bfee1df02614212c868e23/detection
 
 instance-mw4jg8-relay.screenconnect.com
-server-ovh60010015-relay.screenconnect.com
 
 # Reference: https://x.com/struppigel/status/2005892030291906776
 # Reference: https://www.virustotal.com/gui/file/30b2dfb2c78e215427b67e565924b9ada40e1736615cb74e2e88518c625518e2/detection
@@ -1394,7 +1380,6 @@ instance-luj3ua-relay.screenconnect.com
 # Reference: https://www.virustotal.com/gui/file/00d1180484b03fff7c25720724621574bd33741e7ff812eb6f3daaf9ddc1d2ec/detection
 
 instance-s065e3-relay.screenconnect.com
-server-ovh30020015-relay.screenconnect.com
 
 # Reference: https://x.com/tobersotski/status/2021503494973444558
 # Reference: https://www.virustotal.com/gui/file/5a00ba097f8fe4c6b583f0aed574a2ef62bf6bcddab0224c006ed017a8f7af9e/detection
@@ -19240,7 +19225,6 @@ connect.aitinc.com
 connect.amigotechnology.com.au
 connect.au.corp.innocoverinsurance.com
 connect.baenetworks.com
-connect.barracuda.com
 connect.bluealliance.com
 connect.bluelayerit.com
 connect.briinksglobalservices.com

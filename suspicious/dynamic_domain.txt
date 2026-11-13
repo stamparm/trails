@@ -947,7 +947,6 @@ dyn.ro
 my-ho.st
 irc-chat.org
 dnsd.be
-dnsmadeeasy.com
 darktech.org
 dtdns.net
 etowns.com
@@ -3251,10 +3250,6 @@ ticp.vip
 # Reference: https://www.virustotal.com/gui/domain/dnslive.net/relations
 
 dnslive.net
-
-# Reference: https://www.virustotal.com/gui/domain/linode.com/relations
-
-linode.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/8.23.224.110/relations
 

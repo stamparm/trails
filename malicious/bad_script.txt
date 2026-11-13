@@ -692,7 +692,7 @@ zenartfree.com/.advicedetails/1Z2-510491-details
 
 # Reference: https://twitter.com/securitydoggo/status/856526428933943296
 
-/Consulta FGTS.js
+/Consulta%20FGTS.js
 
 # Reference: https://twitter.com/bad_packets/status/1106430758179110912
 
@@ -4681,7 +4681,6 @@ http://5.9.34.13
 # Reference: https://www.zscaler.com/blogs/security-research/low-volume-multi-stage-attack-leveraging-azureedge-and-shopify-cdns
 
 officechairatwork.com/wp-content/plugins/yith-woocommerce-order-tracking/assets/js/ywot.js
-global.asazure.windows.net
 atlant18.azureedge.net
 compos17.azureedge.net
 compos20.azureedge.net
