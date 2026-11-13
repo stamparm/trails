@@ -46,11 +46,16 @@ jobs:
           path: maltrail
 
       # Entries that can never match: a non-ASCII key idna refuses, a wire form
-      # VALID_DNS_NAME_REGEX rejects, a last label in IGNORE_DNS_QUERY_SUFFIXES. Also reports
-      # (without failing) the trails a whitelisted parent domain shadows.
+      # VALID_DNS_NAME_REGEX rejects, a last label in IGNORE_DNS_QUERY_SUFFIXES, a malformed address.
+      # Also a sinkhole address listed as some family's C2. Reports (without failing) the trails a
+      # whitelisted parent domain shadows.
+      #
+      # --strict: the warnings fail too. Each one is a class removed by hand in 2026-11 (hosts-file
+      # pastes, link-local and IPv4-mapped IPv6, a sandbox's search domain glued onto a name, a
+      # university's own RMM server in bad_rmmtool) and the pile was at zero when this was turned on.
       - name: Trails are reachable on the wire
         working-directory: maltrail
-        run: python3 sensor/tools/check_trails.py --path ../trails
+        run: python3 sensor/tools/check_trails.py --path ../trails --strict
 
       # And the other direction: no trail may match a name that must never be flagged. This is the
       # one that sees REGEX trails - a popularity-list intersection cannot, because a pattern is
@@ -98,6 +103,31 @@ jobs:
           for pile in malware malicious; do
             python3 sensor/tools/check_trails.py --path "../trails/$pile" --kinds literal \
               --canaries tests/canaries-top100k.txt:30000 \
+              --allow-file tests/canaries-allow.txt
+          done
+
+      # One label below a top-1,000 domain. The literal step above only fires when a trail IS a
+      # ranked name, so `ssls.microsoft.com`, `*.mcas.ms` and `email.189.cn` all passed it - most of
+      # the 2026-11 clean-up was this shape. Platforms whose subdomains belong to customers
+      # (`.b-cdn.net`) are allowed whole in tests/canaries-allow.txt, with the reason.
+      - name: No host trail sits under a top-1k domain
+        working-directory: maltrail
+        run: |
+          for pile in malware malicious; do
+            python3 sensor/tools/check_trails.py --path "../trails/$pile" \
+              --brand-subdomains tests/canaries-top100k.txt:1000 \
+              --allow-file tests/canaries-allow.txt
+          done
+
+      # A URL trail naming an ordinary file on a top-30k host: `<site>/xmlrpc.php` fires on every
+      # WordPress pingback to that site. Neither a domain nor host-less, so no step above sees it;
+      # 429 gootkit trails had this shape.
+      - name: No URL trail names a stock file on a popular host
+        working-directory: maltrail
+        run: |
+          for pile in malware malicious; do
+            python3 sensor/tools/check_trails.py --path "../trails/$pile" \
+              --stock-paths tests/canaries-top100k.txt:30000 \
               --allow-file tests/canaries-allow.txt
           done
 
