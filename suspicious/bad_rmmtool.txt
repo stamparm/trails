@@ -1891,7 +1891,6 @@ aspiringzoomingdesk.help
 asset-recovery-ag.partners
 asset.knlsyslink.net
 assetqoria.info
-assist.hpc.msstate.edu
 assist.mspplatform.co
 assist.theiteam.ca
 assist.tudelft.nl
@@ -2020,7 +2019,6 @@ bendyman.bellboyltd.online
 benfedhu.net
 benjin.org
 bennefedtch.info
-benthos05.oce.orst.edu
 berthmanies.shop
 bestcontrol.ctrl421.ru
 bestcontrol.ctrl434.ru
@@ -2192,7 +2190,6 @@ bytywyxuku.pro
 byuailwyeuqi.de
 c02.prowifi.co.uk
 c72889ee3009.editionsvdn.xyz
-cacao.plantsciences.ucdavis.edu
 caeocj.top
 calcoopi.online
 calcplace.dyndns.org
@@ -2221,7 +2218,6 @@ carinsurancequotescomparisonusa.info
 carlilegrouprealestate.org
 carnmolaprun.online
 carolynbuckley.site
-cas-remote.unt.ad.unt.edu
 cashbate.net
 cashmrbagbigbag.top
 cashmrbagmr.top
@@ -2385,7 +2381,6 @@ connect.dalegroup.net
 connect.dashealth.net
 connect.dotcom.qc.ca
 connect.drpg.global
-connect.eas.iu.edu
 connect.empowerit.com.au
 connect.esna.live
 connect.esu7.org
@@ -2397,13 +2392,10 @@ connect.hkt.ro
 connect.itguard.fr
 connect.ithryn.tech
 connect.keentech.ca
-connect.lakejacksonpd.gov
-connect.lakejacksontx.gov
 connect.lucrasoft.nl
 connect.maigranoom.site
 connect.managed-services.ca
 connect.mhds.net
-connect.middletownct.gov
 connect.mirror.se
 connect.monroeisd.us
 connect.mufuteert.online
@@ -2476,7 +2468,6 @@ control.nyxie.pro
 control.oitc.ca
 control.protego24.net
 control.screenbridge.es
-control.sw.wednet.edu
 control.synergi.support
 control.vertical-it.co.uk
 controleafronding-burgernet.info
@@ -2493,8 +2484,6 @@ corroysyn.direct.quickconnect.to
 cosewycef.icu
 cost-nj.org
 costaricabeauty.top
-cothelp.ky.gov
-cothelprelay.ky.gov
 counterfeitsonlies.in
 countrymain.top
 coupoulai.co.za
@@ -3467,7 +3456,6 @@ help.gerson.us
 help.giraffesolutions.co.uk
 help.gocaldwell.net
 help.goldlineit.org
-help.gslbcitrixext.ohsu.edu
 help.guinnhome.tech
 help.gzd.com.au
 help.icsnet.co.uk
@@ -3490,7 +3478,6 @@ help.nanotek.ca
 help.nerdtech.net
 help.netier.cloud
 help.nzcloudbackup.nz
-help.ohsu.edu
 help.omninet.co.nz
 help.omninet.net.nz
 help.orbit.ie
@@ -3542,19 +3529,15 @@ helpdesk.itdeptllc.us
 helpdesk.lasvegas.net
 helpdesk.lv.net
 helpdesk.metra.eu
-helpdesk.oakwoodschool.vic.edu.au
 helpdesk.shycloud.net
 helpdesk.two-it.nl
 helpdeskexpertslkt.top
 helpdeskonline.xyz
-helpdev.gslbcitrixext.ohsu.edu
-helpdev.ohsu.edu
 helper.thekking.is
 helpme.bshc.org
 helpme.inttec.com.au
 helpme.itout.net
 helpme.tsis.net
-helpme.ucdavis.edu
 helpmepaul.net
 helpnow.help
 helpnow247.online
@@ -3810,7 +3793,6 @@ iscwreen.top
 isearchnow.org
 islompanyand.top
 isolated.facultystudentconference.org
-isom-scrcon-1.campus.ads.umass.edu
 ispcloud.co.uk
 isplive.top
 isqu.net
@@ -4343,7 +4325,6 @@ medswordsveiws.in
 medtesorer.es
 medworldveiw.info
 meetboastcase.us
-meeting.dtsc.ca.gov
 meeting.sta-ik-sterk.nl
 megapath.lol
 mekho.click
@@ -4746,7 +4727,6 @@ obzidiane.top
 ocbc.ddns.net
 oceantrade-ae.online
 octothorpe.site
-oculus.alvin.gov
 oddaljendostop.si
 odootek.site
 oduduwa.xyz
@@ -4831,7 +4811,6 @@ oseni.icu
 osono.a44iz.cloud
 osparchbackup02.direct.quickconnect.to
 oss.birdon.us
-osu-connect.oregonstate.edu
 otiapanel.top
 out-connectnow.top
 out.ril-marketing.de
@@ -5075,7 +5054,6 @@ protyvvties.info
 pruebas.emailing.cl
 prx.sc.proudinnovations.nl
 prxwickab.fyi
-pshelp.ucdavis.edu
 pstest.icu
 psychobro.online
 pub-onlineupdater.online
@@ -5149,8 +5127,6 @@ qzihfv.shop
 qzum.info
 ra.dcom.sk
 ra.designlearn.net
-ra.lakejacksonpd.gov
-ra.lakejacksontx.gov
 ra.menhir.biz
 ra.uwindsor.ca
 rabbyteamout.blog
@@ -5253,10 +5229,7 @@ remote.biznet.solutions
 remote.brainbay.net
 remote.broadfire.net
 remote.businessmappingsolutions.com.au
-remote.cacc.edu
-remote.carlalbert.edu
 remote.cartcom.co.uk
-remote.cas.unt.edu
 remote.cdpis.ca
 remote.ci.galesburg.il.us
 remote.cit-sys.co.uk
@@ -5274,7 +5247,6 @@ remote.etiscoustellet.fr
 remote.expo-e.co.uk
 remote.f-secure.si
 remote.fesp.ch
-remote.fhsu.edu
 remote.gemecom.com.au
 remote.hedemora.se
 remote.i-dash.co.uk
@@ -5310,7 +5282,6 @@ remote.nmc.ro
 remote.nordomatic.se
 remote.northlandscollege.sk.ca
 remote.northviewchurch.us
-remote.oit.duke.edu
 remote.orionnetworks.net
 remote.pacificdatacom.net
 remote.pcfitness.com.au
@@ -5342,9 +5313,7 @@ remote.telefonicatech.uk
 remote.terminal.solutions
 remote.tissl.co.uk
 remote.transparent.ca
-remote.umbc.edu
 remote.uniarts.fi
-remote.untdallas.edu
 remote.vetta.online
 remote.vtcyntrax.us
 remote.vts.tools
@@ -5357,7 +5326,6 @@ remotebackup.lhomes.org
 remotecomsoft.direct.quickconnect.to
 remotefix.support
 remotehands.shbe.net
-remotehelp.wichita.edu
 remotehelpdesk.online
 remoteithelp.net
 remotejob.store
@@ -5365,14 +5333,12 @@ remoteonline.support
 remotesupport.bruells-ac.de
 remotesupport.i-nex.de
 remotesupport.keeran.ca
-remotesupport.lewiscountywa.gov
 remotesupport.pasadenaisd.org
 remotesupport.pcok.co.uk
 remotesupport.ramsayhealth.co.uk
 remotesupport.reflex.co.za
 remotesupport.reset.nl
 remotesupport.softcom.net
-remotesupport.spokane.wsu.edu
 remotetiger.online
 remoto.clinica25demayo.com.ar
 remoto.followasterisk.pt
@@ -5466,7 +5432,6 @@ rs.delco.tech
 rs.i-nex.de
 rs.itwurx.net
 rs.madcat.co.nz
-rs.spokane.wsu.edu
 rs.tfngov.ca
 rss.cdpsolutions.ca
 rst.essilorluxottica.cn
@@ -5552,7 +5517,6 @@ sc.eastside.cc
 sc.eevitetoday.org
 sc.emypeople.net
 sc.getsharefiles.net
-sc.gslbcitrixext.ohsu.edu
 sc.gtoinfo.ca
 sc.hkt.ro
 sc.ict.ee
@@ -5589,7 +5553,6 @@ sc.techone.pro
 sc.termana.net
 sc.tnac.us
 sc.travsys.net
-sc.umaryland.edu
 sc.viatek.com.au
 sc.wareconsult.de
 sc.zenoit.com.au
@@ -5642,10 +5605,8 @@ screenadmink.cfd
 screenadminl.cfd
 screenco.site
 screencon.site
-screenconnect-121.ets.ucsb.edu
 screenconnect-4eos.pintechfw.pw
 screenconnect.8it.ca
-screenconnect.arklegaudit.gov
 screenconnect.cadillacschools.org
 screenconnect.compdata.de
 screenconnect.comtech.qc.ca
@@ -5660,7 +5621,6 @@ screenconnect.emedia.com.au
 screenconnect.enet.help
 screenconnect.estatements.help
 screenconnect.federico.net
-screenconnect.ilstu.edu
 screenconnect.infotech.net.au
 screenconnect.intelligist.net
 screenconnect.itlange.cloud
@@ -5676,7 +5636,6 @@ screenconnect.panthers.com.au
 screenconnect.phi.de
 screenconnect.pinnacletechnology.solutions
 screenconnect.pintechfw.pw
-screenconnect.ssri.psu.edu
 screenconnect.stkboostpro.app
 screenconnect.tiwag.at
 screenconnect.tk
@@ -5924,7 +5883,6 @@ shpanel.top
 shprpb.shop
 shuchub.top
 sign-in-security.org
-sign.spokane.wsu.edu
 signal4bu.direct.quickconnect.to
 signdirect.net
 silentspark.top
@@ -6027,7 +5985,6 @@ sos.advania.is
 sos.clbict.be
 sos.nh.is
 sos.tet.lv
-sos.ufs.ac.za
 sosa1.bluesoftgames.pro
 sospru.top
 soties.help
@@ -6177,7 +6134,6 @@ support.b3tech.co.nz
 support.b3tech.nz
 support.babaolugbala.site
 support.barecomputing.net
-support.barnetsouthgate.ac.uk
 support.beas.dk
 support.bellit.net
 support.bennettbrooks.co.uk
@@ -6190,7 +6146,6 @@ support.bscloud.ch
 support.butlerrec.coop
 support.camcorp.net
 support.capellcreative.co.uk
-support.capitol.hawaii.gov
 support.cctbendigo.com.au
 support.cdsnet.co.uk
 support.chalant.nl
@@ -6282,7 +6237,6 @@ support.ok.is
 support.omnigo.one
 support.omodollareyantrado.online
 support.onspotit.in
-support.oregonstate.edu
 support.osirisdiablores.online
 support.pcquest.net
 support.perrycreek.net
@@ -6306,7 +6260,6 @@ support.slsnetworks.net
 support.sodikiogbon.online
 support.spectrview.online
 support.ssaconn3ct.info
-support.stockport.gov.uk
 support.strikt.at
 support.support-invitenow.top
 support.syncwave.net
@@ -6439,7 +6392,6 @@ techgroup.us
 techhkonnectt.top
 technik.mgc.cz
 techscriptt.support
-techsupport.siumed.edu
 techsupportjapp.online
 techsupportt.net
 tecnico.fit
@@ -6955,7 +6907,6 @@ wingerlik.art
 winvhost2.lasvegas.net
 wipulf.shop
 wireguard.patronusportal.org
-wise.doit.nh.gov
 wizard.myserver1.org
 wizserver.in
 wjpbjb.top
@@ -15884,8 +15835,6 @@ business.unifiedtm.com
 businessilo.online
 bx.ndib.info
 c09f633c.nip.io
-caen-simplehelp.adsroot.itcs.umich.edu
-caenhelp.engin.umich.edu
 cakebaddiemanager.com
 cam.f.mcu.com.br
 cam.swiffed.com
@@ -15894,7 +15843,6 @@ campicker.es
 cardinalportal.online
 carolineandmac.com
 cartatrantap.com
-cas-srv4.unomaha.edu
 cccspecial.freeboxos.fr
 ccinsch.support
 ceb2f273bd543a.c09f633c.nip.io
@@ -16257,7 +16205,6 @@ help.e-systemsky.com
 help.elsberryconsulting.com
 help.emeraldit.net
 help.emeralditc.com
-help.engin.umich.edu
 help.esc6.net
 help.etscorp.com
 help.etvsoftware.com
@@ -16315,7 +16262,6 @@ help.sandiait.com
 help.scottsbluff.net
 help.sdtek.net
 help.sententia.com.au
-help.seu.edu
 help.sgurus.com
 help.slytek.com
 help.softalmanet.hu
@@ -16943,12 +16889,10 @@ remote.jamservicesinc.com
 remote.kernwifi.com.au
 remote.kinnn.link
 remote.mbtechnologie.com
-remote.med.umkc.edu
 remote.medal.video
 remote.midtron.com
 remote.mydentalaz.com
 remote.mydentalschool.com
-remote.necc.mass.edu
 remote.newspring.org
 remote.nimbusweb.co.uk
 remote.onward.ninja
@@ -17011,7 +16955,6 @@ rhodessales.com
 ripeva.direct.quickconnect.to
 rmmserver1.legacyit.net
 rmmserver2.legacyit.net
-rmt.collegeville-pa.gov
 rnute.design
 robertpowellbiz.top
 roondenbomzone.shop
@@ -17147,7 +17090,6 @@ simple.mac-man.co.uk
 simple.pamiken.com
 simple.txmsp.com
 simplebangames.info
-simplehelp-dev.haas.berkeley.edu
 simplehelp.albanyfurniture.com
 simplehelp.andrewwheeler.me
 simplehelp.anthonyhead.name
@@ -17161,7 +17103,6 @@ simplehelp.dickerdata.com.au
 simplehelp.digitaldragons.co.uk
 simplehelp.dyndns.biz
 simplehelp.gigacomnetwork.com
-simplehelp.haas.berkeley.edu
 simplehelp.indigital.net
 simplehelp.metalink.net
 simplehelp.mnhs.org
@@ -17176,13 +17117,10 @@ simplehelp.rsquaredtechnologies.com
 simplehelp.sardistel.com
 simplehelp.standardcomputer.com
 simplehelp.synerfac.com
-simplehelp.tcmc.edu
 simplehelp.techilogicit.com
 simplehelp.techsurgeons.com
 simplehelp.thecomputerworkshop.com.au
 simplehelp.uptime-computers.com
-simplehelp.uvm.edu
-simplehelp.vetmed.vt.edu
 simplehelp.voicetechinc.com
 simplehelp.ymcahbb.com
 simplehelp1.werkplekoveral.nl
@@ -17190,7 +17128,6 @@ simplehelperzone.top
 simpleioldeal.shop
 simplesealsban.store
 simplestyle.top
-simpletest.uvm.edu
 simpletimerfoods.shop
 simpluhp.site
 simpzee.top
@@ -17308,7 +17245,6 @@ support.eptingenterprises.net
 support.erconline.com
 support.esr-tech.com
 support.etn-informatique.com
-support.faith.qld.edu.au
 support.farrentech.com
 support.focused-technologies.com
 support.focusedtechinc.com
@@ -17350,12 +17286,10 @@ support.mxsip.com
 support.mylynk.com
 support.nckinc.net
 support.nervswending.com
-support.newbernnc.gov
 support.nimbusweb.co.uk
 support.ningaloo.nl
 support.nodescape.net
 support.ntstechs.com
-support.okhouse.gov
 support.omnibees.com
 support.onlinq.nl
 support.ops.com.hk
@@ -17365,7 +17299,6 @@ support.pbfs.tech
 support.pcnetconsult.com
 support.pixelcubed.com
 support.pmw.solutions
-support.prescott-az.gov
 support.primemoveconnect.us
 support.proadvance.com.au
 support.remote-access.us
@@ -17393,7 +17326,6 @@ support.volkerwessels.co.uk
 support.vpa.nl
 support.weyantenterprises.com
 support.wilsonscorp.com
-support.wvsp.gov
 support.xms.cc
 support.z-lan.hu
 support.znetsolutions.pro
@@ -17504,7 +17436,6 @@ updatcloudapp.top
 updates.bas.org.au
 uptime.kalima.live
 uptimeremote.com
-uranium.prescott-az.gov
 usa.z00m-workspceus.cfd
 usaa.ndib.info
 usmmwvxw.soft0nl.cc
@@ -19036,7 +18967,6 @@ camilrod.info
 canadafirencws.info
 canatisili.com
 canlishow.com
-canon.ttu.edu
 caoliu.cfd
 capablegate.click
 capasmais.com
@@ -19052,7 +18982,6 @@ carlislleccm.com
 carpetquidators.us
 cartamzus.com
 cartitehnice.auto-tehnica.ro
-cas-remote.unt.edu
 casageppetto.com
 cashierprosupport.com
 cashstoreups.com
@@ -21635,7 +21564,6 @@ nimateck.top
 nimkorp.us
 ninalowo.xyz
 nisjetrsx.xyz
-nismo.tosm.ttu.edu
 nj71e.ipsiep.com
 nk.ale3rt.in
 nk3ub.ipsiep.com
@@ -21779,8 +21707,6 @@ ogpfreeshop.com
 ohsk.getixn.shop
 oidc.membernotifications.0.s1gnd0cvm3n7.live
 oinmdomi.online
-oit-cwc-pap1.oit.duke.edu
-oit-cwc-pap1.win.duke.edu
 oiuytghjoiuyuuiokjhdoiuye.xyz
 ojsuyw.niyari.org
 ojzct.ipsiep.com
@@ -22274,7 +22200,6 @@ relay.cwsi-hosting.com
 relay.ifgglobally.site
 relay.jkhjygtre.top
 relay.lijvgqxitnyr.de
-relay.oit.duke.edu
 relay.serverdan.online
 relay.spendingmaxlimit.top
 relay.uckuyulu.com
@@ -22476,7 +22401,6 @@ romk.help
 ronc.ruedel.org
 ronstore.nscxawovmvu.my
 roodeanbrooks.com
-roremote.wustl.edu
 rorytherealtor.xyz
 rover360.info
 rovqint.rest
@@ -22633,7 +22557,6 @@ sc.lgee.hu
 sc.mcdonaldhopkins.com
 sc.mstech.com
 sc.nuebis.com
-sc.ohsu.edu
 sc.oranjbox.ca
 sc.pp-auto.com
 sc.pro-stratus.com
@@ -22695,13 +22618,11 @@ screenclever.com
 screenconnect-4eos.pintechfw.pw
 screenconnect-fios.pintechfw.pw
 screenconnect.binaryfortress.com
-screenconnect.browncountywi.gov
 screenconnect.canyoncs.com
 screenconnect.ce-technology.com
 screenconnect.celeranetworks.com
 screenconnect.foundationpartners.com
 screenconnect.getmoreit.com
-screenconnect.illinoisstate.edu
 screenconnect.imr.no
 screenconnect.ink
 screenconnect.itforcepro.com
