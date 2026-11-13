@@ -932,6 +932,11 @@ http://89.22.173.5
 94.237.63.254:2121
 95.31.15.26:24424
 
+# Reference: https://securelist.com/esxi-ransomware/121959/
+
+cloudvflare.com
+api.cloudvflare.com
+
 # Generic
 
 /ligolo-ng.history
