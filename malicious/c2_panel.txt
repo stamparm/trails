@@ -2111,7 +2111,6 @@ http://69.169.105.240
 141.147.45.169:5000
 144.172.98.102:8000
 144.31.14.73:8443
-146.88.134.86:8000
 151.243.173.141:8080
 152.53.85.138:8080
 152.53.85.138:8082
@@ -2196,6 +2195,16 @@ wkgoone.flexxx.eu.cc
 wkgothree.flexxx.eu.cc
 wkgotwo.flexxx.eu.cc
 xmmxkxooxkosoxxos.duckdns.org
+
+# Reference: https://x.com/Fact_Finder03/status/2121560409014751442
+# TITLE-HOST/IP=XOREKC2 · C2 Panel
+# TITLE-HOST/IP=NETMAP · ИБ
+
+2.26.70.151:443
+2.27.71.134:443
+2.26.70.151:5000
+2.27.71.134:5000
+laxitavodexo.digital
 
 # Generic
 
