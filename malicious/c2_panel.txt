@@ -2063,6 +2063,11 @@ hvgua78432hfv.com
 
 adminbank.com
 
+# Reference: https://x.com/Fact_Finder03/status/2121602283410760132
+# TITLE-HOST/IP=Gland — C2 Panel
+
+94.156.114.17:8888
+
 # Generic
 
 /admin_123/auth.php
