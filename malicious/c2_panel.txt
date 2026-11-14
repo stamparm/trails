@@ -2206,6 +2206,11 @@ xmmxkxooxkosoxxos.duckdns.org
 2.27.71.134:5000
 laxitavodexo.digital
 
+# Reference: https://x.com/Fact_Finder03/status/2121272002921250845
+
+185.139.215.221:1443
+47.236.66.74:8080
+
 # Generic
 
 /admin_123/auth.php
