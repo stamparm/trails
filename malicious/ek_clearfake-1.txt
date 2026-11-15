@@ -23736,6 +23736,10 @@ timesyncserver-312453.com
 traffic-router.icu
 /yegeqebige46-creator/
 
+# Reference: https://x.com/Malwarehunterr/status/2122012272784805976
+
+http://64.204.80.251
+
 # Generic
 
 /clickfix-callback
