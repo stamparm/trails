@@ -23746,6 +23746,12 @@ http://64.204.80.251
 opauto-clicker.com
 e7.opauto-clicker.com
 
+# Reference: https://x.com/Malwarehunterr/status/2122064716130599348
+
+e2qs0.com
+meet.e2qs0.com
+g.meet.e2qs0.com
+
 # Generic
 
 /clickfix-callback
