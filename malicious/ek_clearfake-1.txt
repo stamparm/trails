@@ -23740,6 +23740,12 @@ traffic-router.icu
 
 http://64.204.80.251
 
+# Reference: https://x.com/_josehelps/status/2122011752091279843
+# Reference: https://blog.midnightshift.dev/posts/fake-op-auto-clicker-clickfix/
+
+opauto-clicker.com
+e7.opauto-clicker.com
+
 # Generic
 
 /clickfix-callback
