@@ -24908,3 +24908,9 @@ relay.drikletydbcliente.com
 # Reference: https://x.com/Tuxxin/status/2121788431101493720
 
 193.180.209.78:7443
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.13.212.245/relations
+# TITLE-HOST/IP= ScreenConnect Remote Support Software
+
+45.13.212.245:8040
+45.13.212.245:8041
