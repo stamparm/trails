@@ -4214,6 +4214,7 @@ http://89.33.93.15
 8366663.com
 888.caonima.my
 92-63-180-105.sslip.io
+94-23-35-36.cprapid.com
 9router-n92a.srv1586555.hstgr.cloud
 9tian.app
 a.hga5999.com
@@ -4251,12 +4252,14 @@ aisap.minoworld.com
 aisecid.raksmart.com
 aiseo.im
 allkmxf.cn
+api.aq-fi.com
 api.shanzjj.top
 api.sloe.de5.net
 api.storebuyid.com
 api.xycdjszs.us.ci
 api.yanyujialan.cn
 apt-cy.zsggp.cc
+aq-fi.com
 auth.mystara.one
 auth.wodea.co
 autoconfig.opt-ticketpia.com
@@ -4282,6 +4285,7 @@ cicada-dev.eu.cc
 cl0ud.ggff.net
 claw.sakanapi.cn
 cloud.geosson.bid
+coexk.com
 cometsa.top
 cross.mrwpt.live
 cs.113438.xyz
@@ -4476,6 +4480,7 @@ temporaryfencingdarwin.com
 test.prehkvax.com
 test7.sbtx.me
 ticketeplusa.com
+timed-shoppia.eu.cc
 tool.maolou.cn
 top9966.xyz
 tradehug.com
