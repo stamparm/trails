@@ -24910,6 +24910,7 @@ relay.drikletydbcliente.com
 193.180.209.78:7443
 
 # Reference: https://www.virustotal.com/gui/ip-address/45.13.212.245/relations
+# SSDEEP-HOST/IP=768:cvOwZW/e/1h/Q0/Qg/pkkk8LTqDY/MmAGgxVO/D:SOPK19Q0QIpyfcMNVO/D
 # TITLE-HOST/IP= ScreenConnect Remote Support Software
 
 104.200.72.59:443
