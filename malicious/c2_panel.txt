@@ -2218,6 +2218,10 @@ weeb.meme
 launch.weeb.meme
 panel.mehmeterdogdu.shop
 
+# Reference: https://urlscan.io/result/01a1ef31-612d-72d9-85fe-22c4a02d4fca/
+
+teambtc.lol
+
 # Generic
 
 /admin_123/auth.php
