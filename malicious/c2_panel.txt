@@ -2219,7 +2219,18 @@ launch.weeb.meme
 panel.mehmeterdogdu.shop
 
 # Reference: https://urlscan.io/result/01a1ef31-612d-72d9-85fe-22c4a02d4fca/
+# CLASS_0_HASH-HOST=fe8f6da28d9e97d4d6cc11d768c57bf4
+# HEADER_HASH-HOST=ef831823c5f54b91964d
 
+339039coinbase.com
+810276-kraken.com
+818393-kraken.com
+check-coinbase.com
+knownpanel.lol
+knownpanel.xyz
+mantenedor-dev.tsgenviro.com
+review-exodus.com
+scan-uphold.com
 teambtc.lol
 
 # Generic
