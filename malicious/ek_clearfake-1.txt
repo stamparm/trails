@@ -20578,6 +20578,7 @@ gookageesurvey.top
 goonoustsurvey.top
 gooraushoory.com
 gorgoads.top
+gorgon.top
 goudedop.top
 gougaihou.com
 gouraito.top
@@ -20873,9 +20874,13 @@ js-static.cfd
 js-static.digital
 js-static.global
 js-static.icu
+js-static.live
 js-static.online
 js-static.pro
+js-static.sbs
 js-static.site
+js-static.website
+js-static.world
 jtg.ouzomtie.top
 jts.puchophosurvey.space
 ju2.vooresti.top
@@ -22533,6 +22538,7 @@ wayofnowgainsurvey.top
 waytogainsurvey.top
 wbn.ufaifophsurvey.space
 wdu.oucmingusurvey.top
+webapi-cf.cfd
 webmail.jijaiwax.com
 wecootho.top
 weedagre.com
