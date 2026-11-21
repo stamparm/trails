@@ -73,6 +73,7 @@ go.downloaddog.online
 home.noxbot.online
 it-nuvolafondoria.com
 key-electrum.org
+kill.cx
 lande-avoirecto-fr.com
 levantefondorio-it.com
 luckorazus.com
