@@ -23847,6 +23847,10 @@ verify-cloud-domain.click
 
 reoddium-thistle.pro
 
+# Reference: https://x.com/Malwarehunterr/status/2124257961472381042
+
+manera.vip
+
 # Generic
 
 /clickfix-callback
