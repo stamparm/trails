@@ -10040,6 +10040,7 @@ drvdb9rcebidk.cloudfront.net
 # Reference: https://scanmalware.com/hunts/273
 
 /rce_loader.js
+/rce_module.js
 /rce_worker.js
 /rce_worker_18.4.js
 
