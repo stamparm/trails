@@ -19587,6 +19587,12 @@ pay-relay.wordpressadmin001.workers.dev
 pay.pay-cloud.online
 wordpressadmin001.workers.dev
 
+# Reference: https://www.virustotal.com/gui/ip-address/172.67.207.172/relations
+# BODY_SHA1-HOST=870c21c9bb08aa9b457f23a1bc2f1df930bd2ffc
+
+hiddenfox.shop
+marokettis.xyz
+
 # Generic
 
 /assets/lfg.js
